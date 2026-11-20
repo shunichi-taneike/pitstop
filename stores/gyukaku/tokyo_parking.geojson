@@ -1,0 +1,305 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2893949,
+     35.731278
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_5016",
+    "chain": "牛角",
+    "name": "牛角 あきる野店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0804",
+    "address": "東京都あきる野市秋川1-15-6",
+    "phone": "042-533-3729",
+    "hours": "月(祝) 11:30-23:00 / 火 16:00-23:00 / 水 16:00-23:00 / 木 16:00-23:00 / 金 16:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "お子様用備品あり / 座敷あり / 駐車場 / テイクアウト / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/425333729",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.731278,139.2893949"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3535883,
+     35.6663821
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_4862",
+    "chain": "牛角",
+    "name": "牛角 八王子大和田店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0045",
+    "address": "東京都八王子市大和田町5-31-24",
+    "phone": "042-660-9568",
+    "hours": "月(祝) 11:30-23:00 / 火 16:00-23:00 / 水 16:00-23:00 / 木 16:00-23:00 / 金 16:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "お子様用備品あり / 座敷あり / 駐車場 / テイクアウト / Uber Eats / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/426609568",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6663821,139.3535883"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4044537,
+     35.7419163
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_4902",
+    "chain": "牛角",
+    "name": "牛角 武蔵村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0011",
+    "address": "東京都武蔵村山市学園3-102マンション田島1F",
+    "phone": "042-590-0629",
+    "hours": "月(祝) 11:30-23:00 / 火 11:30-15:00、17:00-23:00 / 水 11:30-15:00、17:00-23:00 / 木 11:30-15:00、17:00-23:00 / 金 11:30-15:00、17:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / 喫煙室 / キッズルーム / テイクアウト / Uber Eats / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/425900629",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7419163,139.4044537"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8803881,
+     35.7054703
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_5025",
+    "chain": "牛角",
+    "name": "牛角 江戸川大杉店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0022",
+    "address": "東京都江戸川区大杉2-16-13",
+    "phone": "03-5661-4129",
+    "hours": "月(祝) 11:30-23:00 / 火 16:00-23:00 / 水 16:00-23:00 / 木 16:00-23:00 / 金 16:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/356614129",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7054703,139.8803881"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4683848,
+     35.5875727
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_4925",
+    "chain": "牛角",
+    "name": "牛角 町田鶴川店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0062",
+    "address": "東京都町田市大蔵町337",
+    "phone": "042-708-9129",
+    "hours": "月(祝) 11:30-23:00 / 火 16:00-23:00 / 水 16:00-23:00 / 木 16:00-23:00 / 金 16:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "座敷あり / 駐車場 / 喫煙室 / テイクアウト / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/427089129",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5875727,139.4683848"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.428283,
+     35.5621181
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_8595",
+    "chain": "牛角",
+    "name": "牛角 町田木曽町店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0036",
+    "address": "東京都町田市木曽東4丁目1-8",
+    "phone": "042-710-7029",
+    "hours": "月(祝) 11:30-23:00 / 火 16:00-23:00 / 水 16:00-23:00 / 木 16:00-23:00 / 金 16:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "おむつ交換台あり / 座敷あり / 駐車場 / 喫煙室 / キッズルーム / テイクアウト / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/427107029",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5621181,139.428283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.324052,
+     35.7338926
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_4827",
+    "chain": "牛角",
+    "name": "牛角 福生店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0005",
+    "address": "東京都福生市北田園1-20-1",
+    "phone": "042-539-3929",
+    "hours": "月(祝) 11:30-23:00 / 火 17:00-23:00 / 水 17:00-23:00 / 木 17:00-23:00 / 金 17:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "お子様用備品あり / 座敷あり / 駐車場 / テイクアウト / Uber Eats / 出前館 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/425393929",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7338926,139.324052"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6152767,
+     35.74987768
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_7995",
+    "chain": "牛角",
+    "name": "牛角 練馬谷原店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0032",
+    "address": "東京都練馬区谷原2-5-14ソレイユ谷原1F",
+    "phone": "03-5910-7829",
+    "hours": "月(祝) 16:00-23:00 / 火 16:00-23:00 / 水 16:00-23:00 / 木 16:00-23:00 / 金 16:00-23:00 / 土 16:00-23:00 / 日 16:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "お子様用備品あり / おむつ交換台あり / 駐車場 / テイクアウト / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/359107829",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74987768,139.6152767"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8079224,
+     35.7946566
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_4882",
+    "chain": "牛角",
+    "name": "牛角 保木間店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0064",
+    "address": "東京都足立区保木間2-24-3",
+    "phone": "03-5831-1329",
+    "hours": "月(祝) 11:30-23:00 / 火 17:00-23:00 / 水 17:00-23:00 / 木 17:00-23:00 / 金 17:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "お子様用備品あり / おむつ交換台あり / 座敷あり / 駐車場 / バリアフリー / テイクアウト / Uber Eats / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/358311329",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7946566,139.8079224"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2822763,
+     35.7886764
+    ]
+   },
+   "properties": {
+    "id": "gyukaku_8597",
+    "chain": "牛角",
+    "name": "牛角 青梅店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0042",
+    "address": "東京都青梅市東青梅5-13-2",
+    "phone": "0428-25-8484",
+    "hours": "月(祝) 11:30-23:00 / 火 17:00-23:00 / 水 17:00-23:00 / 木 17:00-23:00 / 金 17:00-23:00 / 土 11:30-23:00 / 日 11:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "お子様用備品あり / おむつ交換台あり / 座敷あり / 駐車場 / テイクアウト / Uber Eats / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://map.reins.co.jp/gyukaku/detail/428258484",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7886764,139.2822763"
+   }
+  }
+ ]
+}

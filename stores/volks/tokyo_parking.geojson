@@ -1,0 +1,305 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6419941510648,
+     35.613861141173516
+    ]
+   },
+   "properties": {
+    "id": "volks_160",
+    "chain": "フォルクス",
+    "name": "フォルクス 上野毛店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "",
+    "address": "東京都世田谷区中町2-22-17",
+    "phone": "03-5707-0029",
+    "hours": "月~日 10:00-24:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / スロープ / 多目的トイレ / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=160",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.613861141173516,139.6419941510648"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6583190510657,
+     35.65239813906239
+    ]
+   },
+   "properties": {
+    "id": "volks_159",
+    "chain": "フォルクス",
+    "name": "フォルクス 世田谷代田店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "",
+    "address": "東京都世田谷区代田1-9-10",
+    "phone": "03-3412-0744",
+    "hours": "月~日 11:00-24:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=159",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65239813906239,139.6583190510657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.77998595106578,
+     35.65750048878292
+    ]
+   },
+   "properties": {
+    "id": "volks_176",
+    "chain": "フォルクス",
+    "name": "フォルクス 晴海トリトン店",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "postal_code": "",
+    "address": "東京都中央区晴海1-8-16 トリトンスクエア2F",
+    "phone": "03-3532-2720",
+    "hours": "月~日 11:00-23:00 (ラストオーダー22:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / スロープ / 多目的トイレ / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=176",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65750048878292,139.77998595106578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6124325510661,
+     35.67760783768034
+    ]
+   },
+   "properties": {
+    "id": "volks_161",
+    "chain": "フォルクス",
+    "name": "フォルクス 高井戸東店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "",
+    "address": "東京都杉並区高井戸東2-3-10",
+    "phone": "03-3334-9453",
+    "hours": "月~日 11:00-24:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / スロープ / 多目的トイレ / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=161",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67760783768034,139.6124325510661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.86692707578717,
+     35.668071972591
+    ]
+   },
+   "properties": {
+    "id": "volks_155",
+    "chain": "フォルクス",
+    "name": "フォルクス 葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "",
+    "address": "東京都江戸川区中葛西3-6-7",
+    "phone": "03-5605-7470",
+    "hours": "月~日 11:00-24:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / スロープ / 多目的トイレ / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=155",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.668071972591,139.86692707578717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.81355145106608,
+     35.67462743784383
+    ]
+   },
+   "properties": {
+    "id": "volks_156",
+    "chain": "フォルクス",
+    "name": "フォルクス イースト21店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "",
+    "address": "東京都江東区東陽6-3-2 イースト21モール1F",
+    "phone": "03-5632-6588",
+    "hours": "月~日 10:00-24:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / スロープ / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=156",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67462743784383,139.81355145106608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.69002025106616,
+     35.68276383739775
+    ]
+   },
+   "properties": {
+    "id": "volks_158",
+    "chain": "フォルクス",
+    "name": "フォルクス 西参道店",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "postal_code": "",
+    "address": "東京都渋谷区代々木3丁目33ー7 フォレストタウン参宮橋2F",
+    "phone": "03-5350-4129",
+    "hours": "月~日 11:00-24:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / スロープ / 多目的トイレ / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=158",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68276383739775,139.69002025106616"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.52847385106733,
+     35.729938734808755
+    ]
+   },
+   "properties": {
+    "id": "volks_162",
+    "chain": "フォルクス",
+    "name": "フォルクス 田無店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "",
+    "address": "東京都西東京市芝久保町3-1-46",
+    "phone": "042-467-4129",
+    "hours": "月~日 10:00-23:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=162",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.729938734808755,139.52847385106733"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.81732302430325,
+     35.778401121555
+    ]
+   },
+   "properties": {
+    "id": "volks_207",
+    "chain": "フォルクス",
+    "name": "フォルクス 足立加平店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "",
+    "address": "東京都足立区西加平1-1-1",
+    "phone": "03-5856-6632",
+    "hours": "月~日 10:00-24:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / 多目的トイレ / Wifi",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=207",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.778401121555,139.81732302430325"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.30755755106827,
+     35.78524863176978
+    ]
+   },
+   "properties": {
+    "id": "volks_165",
+    "chain": "フォルクス",
+    "name": "フォルクス 青梅店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "",
+    "address": "東京都青梅市新町8-21-4",
+    "phone": "0428-31-1129",
+    "hours": "月~日 10:00-23:00 (ラストオーダー閉店30分前)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": false,
+    "facilities": "駐車場 / おむつ替え台 / スロープ / 多目的トイレ / Wifi / テイクアウト / UberEats / 出前館",
+    "official_url": "https://www.volks-steak.jp/shop_detail.html?snum=165",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.78524863176978,139.30755755106827"
+   }
+  }
+ ]
+}
