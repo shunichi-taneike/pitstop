@@ -1,0 +1,1655 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5430466,
+     35.6817667
+    ]
+   },
+   "properties": {
+    "id": "kfc_3371",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 三鷹野崎店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0014",
+    "address": "東京都三鷹市野崎3-8-8",
+    "phone": "0422-30-7231",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3371",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6817667,139.5430466"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639377,
+     35.612736
+    ]
+   },
+   "properties": {
+    "id": "kfc_5066",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 上野毛店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "158-0093",
+    "address": "東京都世田谷区上野毛1-25-3",
+    "phone": "03-6432-1961   ",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場",
+    "official_url": "https://search.kfc.co.jp/points/5066",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.612736,139.639377"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620382,
+     35.63659
+    ]
+   },
+   "properties": {
+    "id": "kfc_4355",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 砧世田谷通り店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "157-0073",
+    "address": "東京都世田谷区砧1-2-16",
+    "phone": "070-3312-7206",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4355",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63659,139.620382"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.327854,
+     35.63098
+    ]
+   },
+   "properties": {
+    "id": "kfc_3450",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 八王子みなみ野店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0916",
+    "address": "東京都八王子市みなみ野1-8-1",
+    "phone": "042-683-2990",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3450",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63098,139.327854"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3150237,
+     35.6590258
+    ]
+   },
+   "properties": {
+    "id": "kfc_3349",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 西八王子店　",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0835",
+    "address": "東京都八王子市千人町1-11-17",
+    "phone": "042-669-7442",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3349",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6590258,139.3150237"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.399666,
+     35.626431
+    ]
+   },
+   "properties": {
+    "id": "kfc_1456",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 八王子堀之内店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0355",
+    "address": "東京都八王子市堀之内3-30-3",
+    "phone": "042-670-7277",
+    "hours": "月 10:30-21:30 / 火 10:30-21:30 / 水 10:30-21:30 / 木 10:30-21:30 / 金 10:30-21:30 / 土・日・祝 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/1456",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.626431,139.399666"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3533168,
+     35.6686657
+    ]
+   },
+   "properties": {
+    "id": "kfc_3364",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 八王子大和田店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0034",
+    "address": "東京都八王子市大谷町48-5",
+    "phone": "042-660-7773",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3364",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6686657,139.3533168"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.304604,
+     35.637694
+    ]
+   },
+   "properties": {
+    "id": "kfc_4364",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 八王子めじろ台店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0942",
+    "address": "東京都八王子市椚田町560-20",
+    "phone": "070-3308-5617",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4364",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.637694,139.304604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.767992,
+     35.697544
+    ]
+   },
+   "properties": {
+    "id": "kfc_4416",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 御茶ノ水ワテラス店",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "postal_code": "101-0063",
+    "address": "東京都千代田区神田淡路町2-105",
+    "phone": "070-6423-2133",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4416",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.697544,139.767992"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.733988,
+     35.607171
+    ]
+   },
+   "properties": {
+    "id": "kfc_3401",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イトーヨーカドー大井町店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0014",
+    "address": "東京都品川区大井1-3-6 イトーヨーカドー大井町",
+    "phone": "03-5718-1055",
+    "hours": "月 10:00-21:30 / 火 10:00-21:30 / 水 10:00-21:30 / 木 10:00-21:30 / 金 10:00-21:30 / 土・日・祝 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3401",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.607171,139.733988"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.729492,
+     35.619694
+    ]
+   },
+   "properties": {
+    "id": "kfc_3452",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 大崎ニューシティ店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "141-0032",
+    "address": "東京都品川区大崎1-6-4",
+    "phone": "03-5434-7880",
+    "hours": "月 10:30-21:00 / 火 10:30-21:00 / 水 10:30-21:00 / 木 10:30-21:00 / 金 10:30-21:00 / 土・日・祝 10:30-20:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3452",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.619694,139.729492"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.451903,
+     35.717282
+    ]
+   },
+   "properties": {
+    "id": "kfc_4347",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 五日市街道北町店",
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "postal_code": "185-0001",
+    "address": "東京都国分寺市北町2-24-1",
+    "phone": "070-3312-9514",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4347",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.717282,139.451903"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8179047,
+     35.7173468
+    ]
+   },
+   "properties": {
+    "id": "kfc_4259",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イトーヨーカドー曳舟店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "131-0046",
+    "address": "東京都墨田区京島1-2-1",
+    "phone": "070-3305-7746",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4259",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7173468,139.8179047"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8171735,
+     35.7004883
+    ]
+   },
+   "properties": {
+    "id": "kfc_3337",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン オリナス錦糸町店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "1300012",
+    "address": "東京都墨田区太平4-1-5",
+    "phone": "03-6240-4576",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3337",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7004883,139.8171735"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.725817,
+     35.574451
+    ]
+   },
+   "properties": {
+    "id": "kfc_5011",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン マチノマ大森店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0015",
+    "address": "東京都大田区大森西3-1-38",
+    "phone": "03-6271-6198",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/5011",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.574451,139.725817"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.521722,
+     35.70106
+    ]
+   },
+   "properties": {
+    "id": "kfc_4362",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン ピーコックストア東小金井店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0012",
+    "address": "東京都小金井市中町2丁目23-23",
+    "phone": "070-3308-5398",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4362",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70106,139.521722"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.45982,
+     35.6809
+    ]
+   },
+   "properties": {
+    "id": "kfc_4372",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン サミット府中西原店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0046",
+    "address": "東京都府中市西原町1-3-1サミット府中西原店1階",
+    "phone": "070-3308-8453",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4372",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6809,139.45982"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7133063,
+     35.6923912
+    ]
+   },
+   "properties": {
+    "id": "kfc_4343",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン ヨークフーズ新宿富久店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "162-0067",
+    "address": "東京都新宿区富久町17-2",
+    "phone": "070-3313-2932",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4343",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6923912,139.7133063"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3806795,
+     35.6620324
+    ]
+   },
+   "properties": {
+    "id": "kfc_4298",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イオンモール多摩平の森店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0062",
+    "address": "東京都日野市多摩平2丁目4番",
+    "phone": "070-3307-6918",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4298",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6620324,139.3806795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3623527,
+     35.7134129
+    ]
+   },
+   "properties": {
+    "id": "kfc_176",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン モリタウン昭島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0014",
+    "address": "東京都昭島市代官山2丁目3番1号",
+    "phone": "070-3317-2878",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/176",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7134129,139.3623527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5211827,
+     35.7565148
+    ]
+   },
+   "properties": {
+    "id": "kfc_1463",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0054",
+    "address": "東京都東久留米市中央町2-6-43",
+    "phone": "042-479-7565",
+    "hours": "月 10:30-21:30 / 火 10:30-21:30 / 水 10:30-21:30 / 木 10:30-21:30 / 金 10:30-21:30 / 土・日・祝 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/1463",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7565148,139.5211827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5275061,
+     35.7451556
+    ]
+   },
+   "properties": {
+    "id": "kfc_3178",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イオンモール東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0023",
+    "address": "東京都東久留米市南沢5-17-62 3F",
+    "phone": "042-452-0230",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3178",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7451556,139.5275061"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4242523,
+     35.7356968
+    ]
+   },
+   "properties": {
+    "id": "kfc_4140",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン LICOPA東大和店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0022",
+    "address": "東京都東大和市桜ヶ丘2-142-1 LICOPA東大和",
+    "phone": "070-3315-4477",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4140",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7356968,139.4242523"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4808756,
+     35.7482833
+    ]
+   },
+   "properties": {
+    "id": "kfc_75",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 久米川店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0011",
+    "address": "東京都東村山市恩多町2-28-1",
+    "phone": "070-3318-9263",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/75",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7482833,139.4808756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.694248,
+     35.780198
+    ]
+   },
+   "properties": {
+    "id": "kfc_3429",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン Ｃｏｍｒｉｅ小豆沢店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "174-0051",
+    "address": "東京都板橋区小豆沢3-9-5",
+    "phone": "03-3965-7791",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3429",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.780198,139.694248"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3843763,
+     35.7468353
+    ]
+   },
+   "properties": {
+    "id": "kfc_4205",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イオンモールむさし村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0022",
+    "address": "東京都武蔵村山市榎1-1-3",
+    "phone": "070-3313-3945",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4205",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7468353,139.3843763"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8749878,
+     35.7171252
+    ]
+   },
+   "properties": {
+    "id": "kfc_138",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 本一色店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0044",
+    "address": "東京都江戸川区本一色2-23-17",
+    "phone": "070-3317-0242",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/138",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7171252,139.8749878"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8622373,
+     35.6846877
+    ]
+   },
+   "properties": {
+    "id": "kfc_4338",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イオン船堀店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0091",
+    "address": "東京都江戸川区船堀1-1-51 1F",
+    "phone": "070-3312-2943",
+    "hours": "月 09:30-21:00 / 火 09:30-21:00 / 水 09:30-21:00 / 木 09:30-21:00 / 金 09:30-21:00 / 土・日・祝 09:30-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4338",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6846877,139.8622373"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8585934,
+     35.6695324
+    ]
+   },
+   "properties": {
+    "id": "kfc_4241",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イオン葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0088",
+    "address": "東京都江戸川区西葛西3-9-19",
+    "phone": "070-3306-1736",
+    "hours": "月 09:30-21:00 / 火 09:30-21:00 / 水 09:30-21:00 / 木 09:30-21:00 / 金 09:30-21:00 / 土・日・祝 09:30-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4241",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6695324,139.8585934"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.829236,
+     35.695972
+    ]
+   },
+   "properties": {
+    "id": "kfc_3461",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン カメイドクロック店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0071",
+    "address": "東京都江東区亀戸6-31-6",
+    "phone": "03-3636-1650",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3461",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.695972,139.829236"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8261922,
+     35.6819158
+    ]
+   },
+   "properties": {
+    "id": "kfc_4253",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン アリオ北砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0073",
+    "address": "東京都江東区北砂2-17-1　アリオ北砂モール1F",
+    "phone": "070-3305-9494",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4253",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6819158,139.8261922"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8048479,
+     35.66554
+    ]
+   },
+   "properties": {
+    "id": "kfc_4089",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イトーヨーカドー木場店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0042",
+    "address": "東京都江東区木場1-5-30",
+    "phone": "070-3314-6512",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 09:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4089",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66554,139.8048479"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7923017,
+     35.6542865
+    ]
+   },
+   "properties": {
+    "id": "kfc_4279",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン アーバンドックららぽーと豊洲店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-8614",
+    "address": "東京都江東区豊洲2-4-9　マリーナキッチン内",
+    "phone": "070-3306-8015",
+    "hours": "月 11:00-21:00 / 火 11:00-21:00 / 水 11:00-21:00 / 木 11:00-21:00 / 金 11:00-21:00 / 土・日・祝 11:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "クレジットカード / 電子マネー / 交通系IC / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4279",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6542865,139.7923017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7218732,
+     35.6500983
+    ]
+   },
+   "properties": {
+    "id": "kfc_485",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 広尾店",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "postal_code": "150-0012",
+    "address": "東京都渋谷区広尾5-6-6 広尾プラザ内",
+    "phone": "03-5448-9612",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/485",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6500983,139.7218732"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7528296,
+     35.6410775
+    ]
+   },
+   "properties": {
+    "id": "kfc_4318",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン ピーコックストア芝浦アイランド店",
+    "prefecture": "東京都",
+    "city": "港区",
+    "postal_code": "108-0023",
+    "address": "東京都港区芝浦4丁目22-2",
+    "phone": "070-3312-4698",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4318",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6410775,139.7528296"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4722193,
+     35.5365081
+    ]
+   },
+   "properties": {
+    "id": "kfc_4320",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 相鉄ローゼン成瀬店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0045",
+    "address": "東京都町田市南成瀬1-3-5",
+    "phone": "070-3312-6242",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4320",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5365081,139.4722193"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3498234,
+     35.606098
+    ]
+   },
+   "properties": {
+    "id": "kfc_3322",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン ミスターマックス町田多摩境ショッピングセンター店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0215",
+    "address": "東京都町田市小山ヶ丘6-1-10",
+    "phone": "042-775-6013",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3322",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.606098,139.3498234"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4074671,
+     35.5790071
+    ]
+   },
+   "properties": {
+    "id": "kfc_3340",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 桜美林学園前店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0034",
+    "address": "東京都町田市根岸町1008-23",
+    "phone": "042-789-6701",
+    "hours": "月 10:30-21:30 / 火 10:30-21:30 / 水 10:30-21:30 / 木 10:30-21:30 / 金 10:30-21:30 / 土・日・祝 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3340",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5790071,139.4074671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.435597,
+     35.555609
+    ]
+   },
+   "properties": {
+    "id": "kfc_4374",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 町田街道森野店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0022",
+    "address": "東京都町田市森野4-17-19",
+    "phone": "070-3308-7429",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4374",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.555609,139.435597"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4703295,
+     35.5815191
+    ]
+   },
+   "properties": {
+    "id": "kfc_1424",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 町田金井店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0071",
+    "address": "東京都町田市金井ヶ丘4-47-27",
+    "phone": "042-708-1365",
+    "hours": "月 10:30-21:00 / 火 10:30-21:00 / 水 10:30-21:00 / 木 10:30-21:00 / 金 10:30-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/1424",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5815191,139.4703295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4714272,
+     35.5084485
+    ]
+   },
+   "properties": {
+    "id": "kfc_4341",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 南町田グランベリーパーク店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-8589",
+    "address": "東京都町田市鶴間3-4-1",
+    "phone": "070-3313-1416",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土・日・祝 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4341",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5084485,139.4714272"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.328023,
+     35.7432501
+    ]
+   },
+   "properties": {
+    "id": "kfc_4325",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 西友福生店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0021",
+    "address": "東京都福生市東町5-1",
+    "phone": "070-3312-1812",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4325",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7432501,139.328023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4189937,
+     35.7111261
+    ]
+   },
+   "properties": {
+    "id": "kfc_4306",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン ららぽーと立川立飛店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0015",
+    "address": "東京都立川市泉町935番地１他",
+    "phone": "070-3307-8379",
+    "hours": "月 10:00-20:00 / 火 10:00-20:00 / 水 10:00-20:00 / 木 10:00-20:00 / 金 10:00-20:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "クレジットカード / 電子マネー / 交通系IC / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4306",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7111261,139.4189937"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6287688,
+     35.7594048
+    ]
+   },
+   "properties": {
+    "id": "kfc_300",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 光が丘IMA店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0072",
+    "address": "東京都練馬区光が丘5-1-1 IMA2F",
+    "phone": "070-3317-9529",
+    "hours": "月 10:00-21:30 / 火 10:00-21:30 / 水 10:00-21:30 / 木 10:00-21:30 / 金 10:00-21:30 / 土・日・祝 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/300",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7594048,139.6287688"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5907244,
+     35.7205891
+    ]
+   },
+   "properties": {
+    "id": "kfc_3402",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 関町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0053",
+    "address": "東京都練馬区関町南1-9-1",
+    "phone": "03-5991-7135",
+    "hours": "月 11:00-21:00 / 火 11:00-21:00 / 水 11:00-21:00 / 木 11:00-21:00 / 金 11:00-21:00 / 土・日・祝 11:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3402",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7205891,139.5907244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.31794,
+     35.759067
+    ]
+   },
+   "properties": {
+    "id": "kfc_3382",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 羽村店",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "postal_code": "205-0011",
+    "address": "東京都羽村市五ノ神1-3-6",
+    "phone": "0425-70-7167",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3382",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.759067,139.31794"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8485889,
+     35.7508111
+    ]
+   },
+   "properties": {
+    "id": "kfc_1466",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 葛飾白鳥店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0063",
+    "address": "東京都葛飾区白鳥4-4-10",
+    "phone": "03-5680-7471",
+    "hours": "月 10:30-21:30 / 火 10:30-21:30 / 水 10:30-21:30 / 木 10:30-21:30 / 金 10:30-21:30 / 土・日・祝 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/1466",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7508111,139.8485889"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2758237,
+     35.7346072
+    ]
+   },
+   "properties": {
+    "id": "kfc_3372",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イオンモール日の出店",
+    "prefecture": "東京都",
+    "city": "西多摩郡日の出町",
+    "postal_code": "190-0182",
+    "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
+    "phone": "042-588-8689",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3372",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7346072,139.2758237"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3579723,
+     35.7608198
+    ]
+   },
+   "properties": {
+    "id": "kfc_4218",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン ジョイフル本田瑞穂店",
+    "prefecture": "東京都",
+    "city": "西多摩郡瑞穂町",
+    "postal_code": "190-1212",
+    "address": "東京都西多摩郡瑞穂町殿ヶ谷442",
+    "phone": "070-3313-6548",
+    "hours": "月 10:00-20:00 / 火 10:00-20:00 / 水 10:00-20:00 / 木 10:00-20:00 / 金 10:00-20:00 / 土・日・祝 10:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4218",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7608198,139.3579723"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5507403,
+     35.7317157
+    ]
+   },
+   "properties": {
+    "id": "kfc_142",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 新青梅街道保谷店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "202-0015",
+    "address": "東京都西東京市保谷町3-18-23",
+    "phone": "070-3316-7943",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/142",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7317157,139.5507403"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5640901,
+     35.6468901
+    ]
+   },
+   "properties": {
+    "id": "kfc_3373",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン イトーヨーカドー国領店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0022",
+    "address": "東京都調布市国領町8-2-64",
+    "phone": "03-5438-1177",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/3373",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6468901,139.5640901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7860657,
+     35.7741547
+    ]
+   },
+   "properties": {
+    "id": "kfc_7220",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン アリオ西新井店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "128-0843",
+    "address": "東京都足立区西新井栄町1-20-1　アリオモール内1F",
+    "phone": "03-5845-5561",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土・日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/7220",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7741547,139.7860657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.760792,
+     35.783174
+    ]
+   },
+   "properties": {
+    "id": "kfc_5035",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 足立鹿浜店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0864",
+    "address": "東京都足立区鹿浜4-29-8",
+    "phone": "03-5856-8370",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/5035",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.783174,139.760792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3157558,
+     35.7929831
+    ]
+   },
+   "properties": {
+    "id": "kfc_4142",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン カインズホーム青梅店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0024",
+    "address": "東京都青梅市新町6-9",
+    "phone": "070-3315-4729",
+    "hours": "月 10:00-20:00 / 火 10:00-20:00 / 水 10:00-20:00 / 木 10:00-20:00 / 金 10:00-20:00 / 土・日・祝 10:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/4142",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7929831,139.3157558"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2875341,
+     35.7886849
+    ]
+   },
+   "properties": {
+    "id": "kfc_307",
+    "chain": "KFC",
+    "name": "ケンタッキーフライドチキン 河辺店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0032",
+    "address": "東京都青梅市野上町3-1-7",
+    "phone": "070-3318-4346",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土・日・祝 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / お届けケンタッキー / クレジットカード / 電子マネー / 交通系IC / QRコード決済 / 駐車場",
+    "official_url": "https://search.kfc.co.jp/points/307",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7886849,139.2875341"
+   }
+  }
+ ]
+}

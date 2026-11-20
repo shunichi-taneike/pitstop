@@ -1,0 +1,215 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.735464,
+     35.588362
+    ]
+   },
+   "properties": {
+    "id": "tny_shinagawa_keikyuomori",
+    "chain": "てんや",
+    "name": "天丼てんや 京急大森海岸店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0013",
+    "address": "東京都品川区南大井3-32-1",
+    "phone": "03-5767-5740",
+    "hours": "平日 10:30-22:00 / 土曜日 10:30-22:00 / 日・祝 10:30-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お子様メニュー / 終日禁煙 / 駐車場",
+    "official_url": "https://www.tenya.co.jp/shop/tokyo/shinagawa/keikyuomori.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.588362,139.735464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5021951198578,
+     35.74292246025844
+    ]
+   },
+   "properties": {
+    "id": "tny_codaira_kodaira_onuma",
+    "chain": "てんや",
+    "name": "天丼てんや 小平大沼店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0001",
+    "address": "東京都小平市大沼町4-42-16",
+    "phone": "042-348-7871",
+    "hours": "平日 11:00-22:00 / 土曜日 11:00-22:00 / 日・祝 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お子様メニュー / 終日禁煙 / 駐車場",
+    "official_url": "https://www.tenya.co.jp/shop/tokyo/codaira/kodaira_onuma.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74292246025844,139.5021951198578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.747417,
+     35.730111
+    ]
+   },
+   "properties": {
+    "id": "tny_bunkyo_bunkyogreencourt",
+    "chain": "てんや",
+    "name": "未来ダイニング 天丼てんや文京グリーンコート店",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "postal_code": "113-0021",
+    "address": "東京都文京区本駒込2-28-10 イーストウィング2階",
+    "phone": "080-9641-6657",
+    "hours": "月 11:00-20:00 / 火 11:00-20:00 / 水 11:00-20:30 / 木 11:00-20:00 / 金 11:00-20:30 / 土 11:00-20:30 / 日 11:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場",
+    "official_url": "https://www.tenya.co.jp/shop/tokyo/bunkyo/bunkyogreencourt.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.730111,139.747417"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.36199,
+     35.713473
+    ]
+   },
+   "properties": {
+    "id": "tny_akishima_moritown",
+    "chain": "てんや",
+    "name": "天丼てんや 昭島モリタウン店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0005",
+    "address": "東京都昭島市代官山2-3-1 モリタウン",
+    "phone": "042-541-5041",
+    "hours": "平日 11:00-22:00 / 土曜日 11:00-22:00 / 日・祝 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "終日禁煙 / 駐車場",
+    "official_url": "https://www.tenya.co.jp/shop/tokyo/akishima/moritown.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.713473,139.36199"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8292682268418,
+     35.69592797910653
+    ]
+   },
+   "properties": {
+    "id": "tny_koutou_kameidoclock",
+    "chain": "てんや",
+    "name": "天丼てんや カメイドクロック店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0071",
+    "address": "東京都江東区亀戸6丁目31−6 カメイドクロックB1F",
+    "phone": "03-3636-2580",
+    "hours": "平日 10:00-21:00 / 土曜日 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "終日禁煙 / 駐車場",
+    "official_url": "https://www.tenya.co.jp/shop/tokyo/koutou/kameidoclock.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69592797910653,139.8292682268418"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8353387,
+     35.6650854
+    ]
+   },
+   "properties": {
+    "id": "tny_koutou_kameidohigashi",
+    "chain": "てんや",
+    "name": "天丼てんや 南砂町ショッピングセンターSUNAMO店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0075",
+    "address": "東京都江東区新砂3-4-31 南砂町ショッピングセンター内4階",
+    "phone": "03-5617-3088",
+    "hours": "平日 11:00-22:00 / 土曜日 11:00-22:00 / 日・祝 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お子様メニュー / 終日禁煙 / 駐車場",
+    "official_url": "https://www.tenya.co.jp/shop/tokyo/koutou/kameidohigashi.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6650854,139.8353387"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.795362,
+     35.742194
+    ]
+   },
+   "properties": {
+    "id": "tny_adachi_ponteporta_senju",
+    "chain": "てんや",
+    "name": "天丼てんや ポンテポルタ千住店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0038",
+    "address": "東京都足立区千住橋戸町1-13 ポンテポルタ千住1F",
+    "phone": "03-5284-2015",
+    "hours": "平日 10:00-21:00 / 土曜日 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お子様メニュー / 終日禁煙 / 駐車場",
+    "official_url": "https://www.tenya.co.jp/shop/tokyo/adachi/ponteporta_senju.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.742194,139.795362"
+   }
+  }
+ ]
+}

@@ -1,0 +1,4025 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.31949800360306,
+     35.72012565830935
+    ]
+   },
+   "properties": {
+    "id": "mcd_13618",
+    "chain": "マクドナルド",
+    "name": "マクドナルド あきる野小川店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0822",
+    "address": "東京都あきる野市小川東2-11-7",
+    "phone": "042-532-7421",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / 駐車場 17台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13618",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72012565830935,139.31949800360306"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.28912191115796,
+     35.72902690511811
+    ]
+   },
+   "properties": {
+    "id": "mcd_13987",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 秋川店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0804",
+    "address": "東京都あきる野市秋川1-5-5",
+    "phone": "042-533-2564",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 駐車場 16台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13987",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72902690511811,139.28912191115796"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.57598797675084,
+     35.66004785062337
+    ]
+   },
+   "properties": {
+    "id": "mcd_13972",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ２０号つつじヶ丘店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0005",
+    "address": "東京都三鷹市中原1-9-15",
+    "phone": "03-6279-6170",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 17台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13972",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66004785062337,139.57598797675084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5502640063784,
+     35.68908278303779
+    ]
+   },
+   "properties": {
+    "id": "mcd_70504",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 武蔵境通り井口店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0011",
+    "address": "東京都三鷹市井口2-1-28",
+    "phone": "0422-30-8550",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 21台",
+    "official_url": "https://map.mcdonalds.co.jp/map/70504",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68908278303779,139.5502640063784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.58007590146042,
+     35.68241988290242
+    ]
+   },
+   "properties": {
+    "id": "mcd_13593",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東八道路牟礼店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0002",
+    "address": "東京都三鷹市牟礼5-7-6",
+    "phone": "0422-70-3504",
+    "hours": "平日 8:00-22:00 / 土曜 8:00-22:00 / 休日 8:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 12台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13593",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68241988290242,139.58007590146042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.53933301933148,
+     35.68146473994962
+    ]
+   },
+   "properties": {
+    "id": "mcd_13122",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東八道路野崎店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0014",
+    "address": "東京都三鷹市野崎3-25-8",
+    "phone": "0422-26-4543",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 31台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13122",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68146473994962,139.53933301933148"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6135999668599,
+     35.669189766276375
+    ]
+   },
+   "properties": {
+    "id": "mcd_13219",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 環八八幡山店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "156-0056",
+    "address": "東京都世田谷区八幡山3-39-10",
+    "phone": "03-5374-7479",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 0:00-22:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 88台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13219",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.669189766276375,139.6135999668599"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60039792166384,
+     35.63028879639766
+    ]
+   },
+   "properties": {
+    "id": "mcd_13799",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 多摩堤通り喜多見店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "157-0067",
+    "address": "東京都世田谷区喜多見5-26-23",
+    "phone": "03-5494-8880",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / McCafé by Barista / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 25台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13799",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63028879639766,139.60039792166384"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64975976756963,
+     35.604184715152854
+    ]
+   },
+   "properties": {
+    "id": "mcd_13752",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 環八等々力店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "158-0082",
+    "address": "東京都世田谷区等々力1-32-13",
+    "phone": "03-5758-3050",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 22台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13752",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.604184715152854,139.64975976756963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.78773493101247,
+     35.68200880544312
+    ]
+   },
+   "properties": {
+    "id": "mcd_13528",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 水天宮前東京シティエアターミナル店",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "postal_code": "103-0015",
+    "address": "東京都中央区日本橋箱崎町42-1",
+    "phone": "03-5645-7837",
+    "hours": "平日 6:30-21:00 / 土曜 6:30-21:00 / 休日 6:30-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / モバイルオーダー / McCafé / 特定店舗 / 駐車場 404台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13528",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68200880544312,139.78773493101247"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.67164888520242,
+     35.73235169734727
+    ]
+   },
+   "properties": {
+    "id": "mcd_70519",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 新江古田目白通り店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "165-0023",
+    "address": "東京都中野区江原町3ー34ー11",
+    "phone": "03-6908-0928",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "24時間営業 / 朝マック / マックアドベンチャー / 特定店舗 / 駐車場 10台",
+    "official_url": "https://map.mcdonalds.co.jp/map/70519",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73235169734727,139.67164888520242"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.32832409388058,
+     35.63170975847238
+    ]
+   },
+   "properties": {
+    "id": "mcd_13867",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 八王子みなみ野三和店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0916",
+    "address": "東京都八王子市みなみ野1-8-1",
+    "phone": "0426-32-7961",
+    "hours": "平日 9:00-22:00 / 土曜 9:00-22:00 / 休日 9:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 550台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13867",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63170975847238,139.32832409388058"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.33380200416178,
+     35.65161376916431
+    ]
+   },
+   "properties": {
+    "id": "mcd_13068",
+    "chain": "マクドナルド",
+    "name": "マクドナルド １６号八王子店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0903",
+    "address": "東京都八王子市万町53-1",
+    "phone": "042-625-1825",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 97台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13068",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65161376916431,139.33380200416178"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.29976188089609,
+     35.65092267026156
+    ]
+   },
+   "properties": {
+    "id": "mcd_13657",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ２０号八王子並木町店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0831",
+    "address": "東京都八王子市並木町19-1",
+    "phone": "042-668-8251",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 18台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13657",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65092267026156,139.29976188089609"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.28407300252155,
+     35.64238877463266
+    ]
+   },
+   "properties": {
+    "id": "mcd_13128",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 高尾ダイエー店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0845",
+    "address": "東京都八王子市初沢町1227-4高尾パークハイツ",
+    "phone": "042-666-3480",
+    "hours": "平日 6:30-23:00 / 土曜 6:30-23:00 / 休日 6:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 駐車場 100台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13128",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64238877463266,139.28407300252155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.39675099248498,
+     35.61182075364403
+    ]
+   },
+   "properties": {
+    "id": "mcd_13893",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ぐりーんうぉーく多摩店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0363",
+    "address": "東京都八王子市別所2-56",
+    "phone": "042-674-1641",
+    "hours": "平日 9:00-20:00 / 土曜 9:00-20:00 / 休日 9:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / モバイルオーダー / おもてなしリーダー / テーブルサービス / 特定店舗 / 駐車場 2100台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13893",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.61182075364403,139.39675099248498"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.35475602987444,
+     35.64511783350242
+    ]
+   },
+   "properties": {
+    "id": "mcd_13897",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 北野店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0906",
+    "address": "東京都八王子市北野町545-3",
+    "phone": "042-645-2422",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-22:00 / 休日 7:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 159台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13897",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64511783350242,139.35475602987444"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3541888240819,
+     35.66691591515086
+    ]
+   },
+   "properties": {
+    "id": "mcd_13189",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 八王子大和田店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0045",
+    "address": "東京都八王子市大和田町4-21-4",
+    "phone": "0426-56-2606",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 12台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13189",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66691591515086,139.3541888240819"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.34679709105689,
+     35.68446179538257
+    ]
+   },
+   "properties": {
+    "id": "mcd_13959",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 八王子左入橋店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0024",
+    "address": "東京都八王子市宇津木町791-2",
+    "phone": "042-696-3058",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 23台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13959",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68446179538257,139.34679709105689"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.30665509322384,
+     35.681159717814865
+    ]
+   },
+   "properties": {
+    "id": "mcd_13173",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 八王子楢原店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0803",
+    "address": "東京都八王子市楢原町476-1",
+    "phone": "042-649-7823",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 駐車場 55台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13173",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.681159717814865,139.30665509322384"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2936570755071,
+     35.63812589735603
+    ]
+   },
+   "properties": {
+    "id": "mcd_13690",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 八王子イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0941",
+    "address": "東京都八王子市狭間町1462-1",
+    "phone": "042-669-0023",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / 駐車場 980台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13690",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63812589735603,139.2936570755071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.38861906109267,
+     35.62896471710227
+    ]
+   },
+   "properties": {
+    "id": "mcd_13213",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 野猿街道越野店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0361",
+    "address": "東京都八王子市越野10-11",
+    "phone": "042-675-1108",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 朝マック / プレイプレイス（旧プレイランド） / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 30台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13213",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.62896471710227,139.38861906109267"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.36753689039713,
+     35.66594971059291
+    ]
+   },
+   "properties": {
+    "id": "mcd_13975",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 八王子高倉町店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0033",
+    "address": "東京都八王子市高倉町44-20",
+    "phone": "042-649-8072",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / McCafé by Barista / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 駐車場 27台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13975",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66594971059291,139.36753689039713"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.75650278819202,
+     35.74595465645474
+    ]
+   },
+   "properties": {
+    "id": "mcd_13830",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 明治通り尾久店",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "114-0011",
+    "address": "東京都北区昭和町1-1-15",
+    "phone": "03-5901-3183",
+    "hours": "平日 6:00-1:00 / 土曜 6:00-1:00 / 休日 6:00-1:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 10台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13830",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74595465645474,139.75650278819202"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7341608134042,
+     35.60718468234981
+    ]
+   },
+   "properties": {
+    "id": "mcd_13950",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 大井町イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0014",
+    "address": "東京都品川区大井1-3-6",
+    "phone": "03-6410-7310",
+    "hours": "平日 10:00-21:30 / 土曜 10:00-21:30 / 休日 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モバイルオーダー / McCafé / 特定店舗 / 駐車場 132台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13950",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.60718468234981,139.7341608134042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.74938798540924,
+     35.61084967644129
+    ]
+   },
+   "properties": {
+    "id": "mcd_13844",
+    "chain": "マクドナルド",
+    "name": "マクドナルド イオン品川シーサイド店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0002",
+    "address": "東京都品川区東品川4-12-5",
+    "phone": "03-5715-1051",
+    "hours": "平日 8:00-22:00 / 土曜 8:00-22:00 / 休日 8:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / McCafé / 特定店舗 / 駐車場 380台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13844",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.61084967644129,139.74938798540924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7426518242108,
+     35.605563702351375
+    ]
+   },
+   "properties": {
+    "id": "mcd_13677",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 第一京浜鮫洲店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0011",
+    "address": "東京都品川区東大井1-2-20",
+    "phone": "03-5783-3312",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 18台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13677",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.605563702351375,139.7426518242108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.44605590644474,
+     35.71779566434739
+    ]
+   },
+   "properties": {
+    "id": "mcd_13716",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 五日市街道北町店",
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "postal_code": "185-0001",
+    "address": "東京都国分寺市北町3-24-4",
+    "phone": "042-359-5691",
+    "hours": "平日 8:00-22:00 / 土曜 8:00-22:00 / 休日 8:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 駐車場 24台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13716",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.71779566434739,139.44605590644474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.81674477720134,
+     35.70055360593838
+    ]
+   },
+   "properties": {
+    "id": "mcd_13885",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 錦糸町オリナス店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "130-0012",
+    "address": "東京都墨田区太平4-1-5オリナスコアB1F",
+    "phone": "03-5610-2060",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / おもてなしリーダー / マックデリバリー / McCafé / 特定店舗 / 駐車場 1000台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13885",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70055360593838,139.81674477720134"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.80898783825631,
+     35.70987262669395
+    ]
+   },
+   "properties": {
+    "id": "mcd_13927",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東京スカイツリータウン・ソラマチ店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "131-0045",
+    "address": "東京都墨田区押上1-1-2東京スカイツリータウン・ソラマチ4F",
+    "phone": "03-3622-8555",
+    "hours": "平日 7:30-23:00 / 土曜 7:30-23:00 / 休日 7:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 892台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13927",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70987262669395,139.80898783825631"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8235608773478,
+     35.7071466575262
+    ]
+   },
+   "properties": {
+    "id": "mcd_13777",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 墨田文花オリンピック店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "131-0044",
+    "address": "東京都墨田区文花1-31-9",
+    "phone": "03-5631-9061",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / 特定店舗 / 駐車場 221台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13777",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7071466575262,139.8235608773478"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8121700105314,
+     35.69750660413901
+    ]
+   },
+   "properties": {
+    "id": "mcd_13835",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 錦糸町アルカキット店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "130-0013",
+    "address": "東京都墨田区錦糸2-2-1",
+    "phone": "03-5637-1363",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 250台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13835",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69750660413901,139.8121700105314"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.44205187894138,
+     35.63220382185415
+    ]
+   },
+   "properties": {
+    "id": "mcd_13170",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 多摩ニュータウン通り店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0014",
+    "address": "東京都多摩市乞田1257",
+    "phone": "042-338-7343",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 26台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13170",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63220382185415,139.44205187894138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.44802481062126,
+     35.62950678406068
+    ]
+   },
+   "properties": {
+    "id": "mcd_13144",
+    "chain": "マクドナルド",
+    "name": "マクドナルド グリナード永山店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0025",
+    "address": "東京都多摩市永山1-4グリナード永山2F",
+    "phone": "042-372-0071",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 680台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13144",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.62950678406068,139.44802481062126"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.44629603193204,
+     35.65139677077457
+    ]
+   },
+   "properties": {
+    "id": "mcd_13123",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 聖蹟桜ヶ丘店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0011",
+    "address": "東京都多摩市関戸1-1-5",
+    "phone": "042-376-3227",
+    "hours": "平日 6:30-23:00 / 土曜 6:30-23:00 / 休日 6:30-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 213台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13123",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65139677077457,139.44629603193204"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7276518389117,
+     35.58840467661005
+    ]
+   },
+   "properties": {
+    "id": "mcd_70505",
+    "chain": "マクドナルド",
+    "name": "マクドナルド アトレ大森店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0016",
+    "address": "東京都大田区大森北1-6-16",
+    "phone": "03-5763-5183",
+    "hours": "平日 6:00-23:30 / 土曜 6:00-23:30 / 休日 6:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / 朝マック / マックアドベンチャー / 特定店舗 / 駐車場 112台",
+    "official_url": "https://map.mcdonalds.co.jp/map/70505",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.58840467661005,139.7276518389117"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.73316393597142,
+     35.586781672777356
+    ]
+   },
+   "properties": {
+    "id": "mcd_13876",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 大森イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0016",
+    "address": "東京都大田区大森北2-13-1",
+    "phone": "03-5767-1117",
+    "hours": "平日 10:00-20:30 / 土曜 10:00-20:30 / 休日 10:00-20:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 993台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13876",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.586781672777356,139.73316393597142"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.73070286505248,
+     35.584050803151335
+    ]
+   },
+   "properties": {
+    "id": "mcd_13963",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 大森北店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0016",
+    "address": "東京都大田区大森北3-2-16",
+    "phone": "03-6410-8224",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / McCafé by Barista / プレイプレイス（旧プレイランド） / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 22台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13963",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.584050803151335,139.73070286505248"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.70116999356406,
+     35.57960662700913
+    ]
+   },
+   "properties": {
+    "id": "mcd_13936",
+    "chain": "マクドナルド",
+    "name": "マクドナルド １号線池上店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "146-0082",
+    "address": "東京都大田区池上2-6-12",
+    "phone": "03-3753-8780",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / McCafé by Barista / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 26台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13936",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.57960662700913,139.70116999356406"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.71069191776448,
+     35.55985882351234
+    ]
+   },
+   "properties": {
+    "id": "mcd_13992",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 環八西蒲田店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "144-0051",
+    "address": "東京都大田区西蒲田8-15-13",
+    "phone": "03-6424-7283",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 7台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13992",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.55985882351234,139.71069191776448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4890270734825,
+     35.715077667918806
+    ]
+   },
+   "properties": {
+    "id": "mcd_13722",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 五日市街道喜平橋店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0044",
+    "address": "東京都小平市喜平町1-10-24",
+    "phone": "042-320-3205",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 駐車場 16台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13722",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.715077667918806,139.4890270734825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.49897392430628,
+     35.73095280809285
+    ]
+   },
+   "properties": {
+    "id": "mcd_13714",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 小平天神店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0004",
+    "address": "東京都小平市天神町3-6-8",
+    "phone": "042-348-3971",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 21台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13714",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73095280809285,139.49897392430628"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4655708840951,
+     35.732325654176506
+    ]
+   },
+   "properties": {
+    "id": "mcd_13140",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 小平小川町店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0032",
+    "address": "東京都小平市小川町2-2062-1",
+    "phone": "042-345-8859",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 駐車場 48台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13140",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.732325654176506,139.4655708840951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.51369699996764,
+     35.72685477310519
+    ]
+   },
+   "properties": {
+    "id": "mcd_13878",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 花小金井駅前店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0002",
+    "address": "東京都小平市花小金井1-8-3",
+    "phone": "0424-65-5085",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 70台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13878",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72685477310519,139.51369699996764"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.50602897357456,
+     35.70077862143824
+    ]
+   },
+   "properties": {
+    "id": "mcd_13910",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 武蔵小金井南口店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0004",
+    "address": "東京都小金井市本町6-14-28アクウェルモール101",
+    "phone": "042-384-2586",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 94台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13910",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70077862143824,139.50602897357456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4978218696175,
+     35.69446078247925
+    ]
+   },
+   "properties": {
+    "id": "mcd_13715",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 小金井ぬくい坂下店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0014",
+    "address": "東京都小金井市貫井南町2-6-22",
+    "phone": "042-380-9670",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 60台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13715",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69446078247925,139.4978218696175"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4583599335012,
+     35.66014665969384
+    ]
+   },
+   "properties": {
+    "id": "mcd_13790",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 府中中河原ライフ店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0034",
+    "address": "東京都府中市住吉町1-84-1",
+    "phone": "042-340-5305",
+    "hours": "平日 10:00-20:30 / 土曜 9:30-20:30 / 休日 9:30-20:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 178台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13790",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66014665969384,139.4583599335012"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4794068520481,
+     35.671563708626564
+    ]
+   },
+   "properties": {
+    "id": "mcd_13948",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 府中店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0023",
+    "address": "東京都府中市宮町1-100ル・シーニュ124",
+    "phone": "042-306-7097",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 477台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13948",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.671563708626564,139.4794068520481"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.44886393941357,
+     35.67055467876904
+    ]
+   },
+   "properties": {
+    "id": "mcd_13762",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 四谷橋通り府中店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0036",
+    "address": "東京都府中市日新町2-33-3",
+    "phone": "042-354-0603",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 23台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13762",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67055467876904,139.44886393941357"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.48551184955127,
+     35.67251487454551
+    ]
+   },
+   "properties": {
+    "id": "mcd_13143",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ２０号府中店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0006",
+    "address": "東京都府中市緑町1-15-1",
+    "phone": "042-319-8520",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 21台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13143",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67251487454551,139.48551184955127"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.49928992140312,
+     35.67053574125714
+    ]
+   },
+   "properties": {
+    "id": "mcd_13733",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 府中若松サミット店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0005",
+    "address": "東京都府中市若松町2-13-1",
+    "phone": "042-340-5081",
+    "hours": "平日 9:00-21:30 / 土曜 9:00-21:30 / 休日 9:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 89台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13733",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67053574125714,139.49928992140312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.70893681580296,
+     35.70492883926884
+    ]
+   },
+   "properties": {
+    "id": "mcd_13763",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 明治通り新宿ステパ店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "169-0052",
+    "address": "東京都新宿区戸山3-16-5",
+    "phone": "03-5292-1601",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 60台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13763",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70492883926884,139.70893681580296"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.68671593091366,
+     35.69099564853679
+    ]
+   },
+   "properties": {
+    "id": "mcd_13917",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 西新宿５丁目店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "160-0023",
+    "address": "東京都新宿区西新宿5-9-8",
+    "phone": "03-5388-7860",
+    "hours": "平日 7:00-24:00 / 土曜 7:00-24:00 / 休日 7:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 10台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13917",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69099564853679,139.68671593091366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.37104696246936,
+     35.71247566449336
+    ]
+   },
+   "properties": {
+    "id": "mcd_13145",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 昭島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0024",
+    "address": "東京都昭島市宮沢町471-1",
+    "phone": "042-545-5299",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 35台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13145",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.71247566449336,139.37104696246936"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.37272999259946,
+     35.71648164577983
+    ]
+   },
+   "properties": {
+    "id": "mcd_13861",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ザ・ビッグ昭島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0024",
+    "address": "東京都昭島市宮沢町500-1",
+    "phone": "042-500-5450",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モバイルオーダー / おもてなしリーダー / テーブルサービス / 駐車場 998台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13861",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.71648164577983,139.37272999259946"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.33967685042205,
+     35.71278174372535
+    ]
+   },
+   "properties": {
+    "id": "mcd_70512",
+    "chain": "マクドナルド",
+    "name": "マクドナルド １６号拝島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0004",
+    "address": "東京都昭島市緑町5-7-14",
+    "phone": "042-519-7632",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 23台",
+    "official_url": "https://map.mcdonalds.co.jp/map/70512",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.71278174372535,139.33967685042205"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63522786840926,
+     35.66871678465286
+    ]
+   },
+   "properties": {
+    "id": "mcd_13196",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ２０号桜上水店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "168-0073",
+    "address": "東京都杉並区下高井戸2-9-5",
+    "phone": "03-3322-4466",
+    "hours": "平日 5:00-1:00 / 土曜 6:00-1:00 / 休日 5:00-1:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 11台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13196",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66871678465286,139.63522786840926"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62055093251558,
+     35.72739866932875
+    ]
+   },
+   "properties": {
+    "id": "mcd_13203",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 新青梅井草店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "167-0021",
+    "address": "東京都杉並区井草2-19-14",
+    "phone": "03-5382-2948",
+    "hours": "平日 6:00-1:00 / 土曜 6:00-1:00 / 休日 6:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 14台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13203",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72739866932875,139.62055093251558"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62166495366037,
+     35.68708074319457
+    ]
+   },
+   "properties": {
+    "id": "mcd_13805",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 井の頭通り高井戸店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "168-0072",
+    "address": "東京都杉並区高井戸東4-2-4",
+    "phone": "03-5941-0521",
+    "hours": "平日 5:00-24:00 / 土曜 5:00-24:00 / 休日 5:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 31台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13805",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68708074319457,139.62166495366037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5281219673325,
+     35.74553166105523
+    ]
+   },
+   "properties": {
+    "id": "mcd_13940",
+    "chain": "マクドナルド",
+    "name": "マクドナルド イオンモール東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0023",
+    "address": "東京都東久留米市南沢5-17-62",
+    "phone": "042-451-1075",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 1660台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13940",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74553166105523,139.5281219673325"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.52917494579825,
+     35.759079882618344
+    ]
+   },
+   "properties": {
+    "id": "mcd_13663",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東久留米イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0053",
+    "address": "東京都東久留米市本町3-8-1",
+    "phone": "042-470-9781",
+    "hours": "平日 10:00-20:30 / 土曜 10:00-20:30 / 休日 10:00-20:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / 特定店舗 / 駐車場 1055台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13663",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.759079882618344,139.52917494579825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4450339823534,
+     35.747285642361454
+    ]
+   },
+   "properties": {
+    "id": "mcd_13926",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東大和清水店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0004",
+    "address": "東京都東大和市清水6-1104",
+    "phone": "042-563-3477",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 駐車場 24台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13926",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.747285642361454,139.4450339823534"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.41612591161893,
+     35.74683187038617
+    ]
+   },
+   "properties": {
+    "id": "mcd_13106",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 新青梅東大和店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0021",
+    "address": "東京都東大和市立野2-2-6",
+    "phone": "042-561-3706",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 14台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13106",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74683187038617,139.41612591161893"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.46708603456332,
+     35.76006061970354
+    ]
+   },
+   "properties": {
+    "id": "mcd_13193",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東村山店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0014",
+    "address": "東京都東村山市本町2-3-2",
+    "phone": "042-392-4722",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 9台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13193",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.76006061970354,139.46708603456332"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.48470099397213,
+     35.772107783821724
+    ]
+   },
+   "properties": {
+    "id": "mcd_13713",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 志木街道秋津店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0001",
+    "address": "東京都東村山市秋津町2-1-1",
+    "phone": "042-390-0083",
+    "hours": "平日 7:00-22:00 / 土曜 7:00-22:00 / 休日 7:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 駐車場 17台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13713",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.772107783821724,139.48470099397213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.69272301237694,
+     35.771613667935625
+    ]
+   },
+   "properties": {
+    "id": "mcd_13986",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 板橋見次公園前店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "174-0063",
+    "address": "東京都板橋区前野町4-22-21",
+    "phone": "03-5939-8486",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 42台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13986",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.771613667935625,139.69272301237694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3680709354603,
+     35.758543717361036
+    ]
+   },
+   "properties": {
+    "id": "mcd_13124",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 新青梅武蔵村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0031",
+    "address": "東京都武蔵村山市岸1-11-18",
+    "phone": "042-520-8358",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 58台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13124",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.758543717361036,139.3680709354603"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3856160333093,
+     35.74639472132521
+    ]
+   },
+   "properties": {
+    "id": "mcd_13889",
+    "chain": "マクドナルド",
+    "name": "マクドナルド イオンモールむさし村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0022",
+    "address": "東京都武蔵村山市榎1-1-3-3023",
+    "phone": "042-562-5015",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 4000台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13889",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74639472132521,139.3856160333093"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5445490141693,
+     35.70106183605992
+    ]
+   },
+   "properties": {
+    "id": "mcd_13955",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 武蔵境イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "postal_code": "180-0023",
+    "address": "東京都武蔵野市境南町2-3-6",
+    "phone": "0422-26-1077",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 619台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13955",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70106183605992,139.5445490141693"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.56490783720818,
+     35.71491276068883
+    ]
+   },
+   "properties": {
+    "id": "mcd_13158",
+    "chain": "マクドナルド",
+    "name": "マクドナルド グリーンパーク店",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "postal_code": "180-0012",
+    "address": "東京都武蔵野市緑町2-1-43",
+    "phone": "0422-54-0221",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 21台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13158",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.71491276068883,139.56490783720818"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.88952599215565,
+     35.7376258300716
+    ]
+   },
+   "properties": {
+    "id": "mcd_13816",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 蔵前橋通り北小岩店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0051",
+    "address": "東京都江戸川区北小岩3-1-21",
+    "phone": "03-5622-1025",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 15台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13816",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7376258300716,139.88952599215565"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8801548639941,
+     35.70959678891694
+    ]
+   },
+   "properties": {
+    "id": "mcd_13228",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 環七大杉店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0022",
+    "address": "東京都江戸川区大杉4-3-6",
+    "phone": "03-3653-9670",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / 駐車場 8台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13228",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70959678891694,139.8801548639941"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.87650078217732,
+     35.66694982259042
+    ]
+   },
+   "properties": {
+    "id": "mcd_13759",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0084",
+    "address": "東京都江戸川区東葛西5-19-10",
+    "phone": "03-5667-2302",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / 特定店舗 / 駐車場 8台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13759",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66694982259042,139.87650078217732"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8815637263019,
+     35.652153844702724
+    ]
+   },
+   "properties": {
+    "id": "mcd_13702",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 葛西アリオ店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0084",
+    "address": "東京都江戸川区東葛西9-3-3アリオ葛西店1階フードコート",
+    "phone": "03-5675-6726",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / モバイルオーダー / 特定店舗 / 駐車場 1000台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13702",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.652153844702724,139.8815637263019"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.88302076204715,
+     35.653717596800604
+    ]
+   },
+   "properties": {
+    "id": "mcd_13874",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 葛西ホームズ店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0084",
+    "address": "東京都江戸川区東葛西9-3-6",
+    "phone": "03-5659-3454",
+    "hours": "平日 10:00-20:00 / 土曜 10:00-20:00 / 休日 10:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / モバイルオーダー / 特定店舗 / 駐車場 1493台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13874",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.653717596800604,139.88302076204715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8934998853706,
+     35.70166276231203
+    ]
+   },
+   "properties": {
+    "id": "mcd_13773",
+    "chain": "マクドナルド",
+    "name": "マクドナルド １４号瑞江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0011",
+    "address": "東京都江戸川区瑞江1-10-3",
+    "phone": "03-5636-7035",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / McCafé by Barista / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 駐車場 18台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13773",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70166276231203,139.8934998853706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8622809938123,
+     35.684743828261006
+    ]
+   },
+   "properties": {
+    "id": "mcd_13836",
+    "chain": "マクドナルド",
+    "name": "マクドナルド イオン船堀店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0091",
+    "address": "東京都江戸川区船堀1-1-51",
+    "phone": "03-6663-7317",
+    "hours": "平日 9:30-21:30 / 土曜 9:30-21:30 / 休日 9:30-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / マックデリバリー / McCafé / 特定店舗 / 駐車場 304台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13836",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.684743828261006,139.8622809938123"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.82933277407017,
+     35.69616860357305
+    ]
+   },
+   "properties": {
+    "id": "mcd_13964",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ＫＡＭＥＩＤＯＣＬＯＣＫ店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0071",
+    "address": "東京都江東区亀戸6-31-6カメイドクロック4F",
+    "phone": "03-5858-9937",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 300台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13964",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69616860357305,139.82933277407017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.82579195649114,
+     35.682544764252874
+    ]
+   },
+   "properties": {
+    "id": "mcd_13918",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 北砂アリオ店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0073",
+    "address": "東京都江東区北砂2-17-1アリオ北砂1階フードコート",
+    "phone": "03-5606-8021",
+    "hours": "平日 10:00-22:00 / 土曜 10:00-22:00 / 休日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / おもてなしリーダー / McCafé / 特定店舗 / 駐車場 2311台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13918",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.682544764252874,139.82579195649114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.83588985354746,
+     35.67209176662405
+    ]
+   },
+   "properties": {
+    "id": "mcd_13769",
+    "chain": "マクドナルド",
+    "name": "マクドナルド イオン南砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0076",
+    "address": "東京都江東区南砂6-7-15",
+    "phone": "03-5617-6465",
+    "hours": "平日 7:00-22:00 / 土曜 7:00-22:00 / 休日 7:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 1500台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13769",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67209176662405,139.83588985354746"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.83158178762622,
+     35.667626598058014
+    ]
+   },
+   "properties": {
+    "id": "mcd_13934",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 南砂町店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0075",
+    "address": "東京都江東区新砂3-3-52",
+    "phone": "03-5632-1070",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / McCafé by Barista / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 31台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13934",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.667626598058014,139.83158178762622"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.80448276325475,
+     35.666015775900846
+    ]
+   },
+   "properties": {
+    "id": "mcd_13772",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 木場イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0042",
+    "address": "東京都江東区木場1-5-30",
+    "phone": "03-5617-6851",
+    "hours": "平日 10:00-22:00 / 土曜 10:00-22:00 / 休日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / McCafé / 特定店舗 / 駐車場 1500台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13772",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.666015775900846,139.80448276325475"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.80239389790916,
+     35.6490998455615
+    ]
+   },
+   "properties": {
+    "id": "mcd_13864",
+    "chain": "マクドナルド",
+    "name": "マクドナルド イオン東雲店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0062",
+    "address": "東京都江東区東雲1-9-10",
+    "phone": "03-5547-5923",
+    "hours": "平日 10:00-22:00 / 土曜 10:00-22:00 / 休日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / マックアドベンチャー / モバイルオーダー / McCafé / 特定店舗 / 駐車場 660台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13864",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6490998455615,139.80239389790916"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.79743189672743,
+     35.65408165229804
+    ]
+   },
+   "properties": {
+    "id": "mcd_13978",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 晴海通り豊洲店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0061",
+    "address": "東京都江東区豊洲4-1-18",
+    "phone": "03-6204-9253",
+    "hours": "平日 5:00-2:00 / 土曜 5:00-2:00 / 休日 5:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / 朝マック / McCafé by Barista / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 20台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13978",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65408165229804,139.79743189672743"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.77595291356627,
+     35.62570760348185
+    ]
+   },
+   "properties": {
+    "id": "mcd_13930",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ダイバーシティ東京プラザ店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0064",
+    "address": "東京都江東区青海1-1-10",
+    "phone": "03-5530-1874",
+    "hours": "平日 11:00-22:00 / 土曜 11:00-22:00 / 休日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 1400台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13930",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.62570760348185,139.77595291356627"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.70209876485708,
+     35.65698377821047
+    ]
+   },
+   "properties": {
+    "id": "mcd_13980",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 渋谷サクラステージ店",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "postal_code": "150-0031",
+    "address": "東京都渋谷区桜丘町1-4渋谷サクラステージシブヤサイドB2",
+    "phone": "03-6455-0255",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / モバイルオーダー / おもてなしリーダー / マックデリバリー / McCafé / 特定店舗 / 駐車場 241台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13980",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65698377821047,139.70209876485708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7017019442199,
+     35.66166768472283
+    ]
+   },
+   "properties": {
+    "id": "mcd_13956",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 渋谷ＭＩＹＡＳＨＩＴＡＰＡＲＫ店",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "postal_code": "150-0001",
+    "address": "東京都渋谷区神宮前6-20-10MIYASHITAPARKSOUTH地区3F",
+    "phone": "03-6712-5271",
+    "hours": "平日 11:00-22:15 / 土曜 10:30-22:15 / 休日 10:30-22:15",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / モバイルオーダー / McCafé / 特定店舗 / 駐車場 375台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13956",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66166768472283,139.7017019442199"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.77530480674355,
+     35.628358676831816
+    ]
+   },
+   "properties": {
+    "id": "mcd_13655",
+    "chain": "マクドナルド",
+    "name": "マクドナルド お台場デックス店",
+    "prefecture": "東京都",
+    "city": "港区",
+    "postal_code": "135-0091",
+    "address": "東京都港区台場1-6-1",
+    "phone": "03-3570-6080",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 0:00-23:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 550台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13655",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.628358676831816,139.77530480674355"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.44386598358966,
+     35.55283892173771
+    ]
+   },
+   "properties": {
+    "id": "mcd_13891",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 町田中町店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0021",
+    "address": "東京都町田市中町2-18",
+    "phone": "042-727-6848",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 27台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13891",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.55283892173771,139.44386598358966"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.47236705134696,
+     35.58383979601512
+    ]
+   },
+   "properties": {
+    "id": "mcd_13220",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 鶴川店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0062",
+    "address": "東京都町田市大蔵町193-1",
+    "phone": "042-736-0622",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 26台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13220",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.58383979601512,139.47236705134696"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.36958006773844,
+     35.602466923111145
+    ]
+   },
+   "properties": {
+    "id": "mcd_13832",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 多摩境店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0212",
+    "address": "東京都町田市小山ヶ丘3-22-1",
+    "phone": "042-798-5371",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / 駐車場 16台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13832",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.602466923111145,139.36958006773844"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.407978823561,
+     35.579327767490504
+    ]
+   },
+   "properties": {
+    "id": "mcd_13583",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 桜美林学園前店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0034",
+    "address": "東京都町田市根岸町1011-7",
+    "phone": "042-789-7420",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 23台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13583",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.579327767490504,139.407978823561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.46686882157195,
+     35.60002088338983
+    ]
+   },
+   "properties": {
+    "id": "mcd_13854",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 鶴川真光寺店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0057",
+    "address": "東京都町田市真光寺3-31-4",
+    "phone": "042-737-7248",
+    "hours": "平日 7:00-22:00 / 土曜 7:00-22:00 / 休日 7:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 朝マック / モバイルオーダー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 11台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13854",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.60002088338983,139.46686882157195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.46554797337026,
+     35.52613389000994
+    ]
+   },
+   "properties": {
+    "id": "mcd_13520",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 町田小川三和店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0012",
+    "address": "東京都町田市金森4-1-2",
+    "phone": "042-788-7485",
+    "hours": "平日 9:00-21:00 / 土曜 8:00-21:00 / 休日 8:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モバイルオーダー / おもてなしリーダー / テーブルサービス / 駐車場 412台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13520",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.52613389000994,139.46554797337026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4715778859886,
+     35.50835077270118
+    ]
+   },
+   "properties": {
+    "id": "mcd_13951",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 南町田グランベリーパーク店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-8589",
+    "address": "東京都町田市鶴間3-4-1",
+    "phone": "042-850-7228",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / McCafé / 特定店舗 / 駐車場 2027台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13951",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.50835077270118,139.4715778859886"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.33488704576396,
+     35.746050637870646
+    ]
+   },
+   "properties": {
+    "id": "mcd_13557",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東福生マルフジ店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0013",
+    "address": "東京都福生市武蔵野台1-9-8",
+    "phone": "042-539-7352",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 駐車場 130台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13557",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.746050637870646,139.33488704576396"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4976607960138,
+     35.64510078711719
+    ]
+   },
+   "properties": {
+    "id": "mcd_13754",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 川崎街道稲城店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0801",
+    "address": "東京都稲城市大丸690-7",
+    "phone": "042-370-5351",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 22台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13754",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64510078711719,139.4976607960138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.42114897300738,
+     35.7150678112021
+    ]
+   },
+   "properties": {
+    "id": "mcd_13937",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 立川立飛店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0015",
+    "address": "東京都立川市泉町841-142",
+    "phone": "042-535-6350",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / McCafé by Barista / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 28台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13937",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7150678112021,139.42114897300738"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62873895245605,
+     35.75934861855347
+    ]
+   },
+   "properties": {
+    "id": "mcd_13154",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 光が丘トライアル西友店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0072",
+    "address": "東京都練馬区光が丘5-1-1IMA内光の広場2",
+    "phone": "03-3979-9190",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 1200台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13154",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.75934861855347,139.62873895245605"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5861200121121,
+     35.7749287789644
+    ]
+   },
+   "properties": {
+    "id": "mcd_70507",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 大泉学園通り店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "178-0061",
+    "address": "東京都練馬区大泉学園町7-17-18",
+    "phone": "03-6904-5116",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / マックアドベンチャー / モバイルオーダー / テーブルサービス / マックデリバリー / McCafé / ケーキ販売店舗 / 駐車場 14台",
+    "official_url": "https://map.mcdonalds.co.jp/map/70507",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7749287789644,139.5861200121121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63714890260843,
+     35.75659582025599
+    ]
+   },
+   "properties": {
+    "id": "mcd_13939",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 練馬田柄店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0073",
+    "address": "東京都練馬区田柄3-10-11",
+    "phone": "03-3926-7601",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 特定店舗 / 駐車場 21台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13939",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.75659582025599,139.63714890260843"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.59636685881253,
+     35.74178584646915
+    ]
+   },
+   "properties": {
+    "id": "mcd_13181",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 富士街道石神井店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0041",
+    "address": "東京都練馬区石神井町7-17-2",
+    "phone": "03-3996-4906",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 12台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13181",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74178584646915,139.59636685881253"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65365204416042,
+     35.72640577577019
+    ]
+   },
+   "properties": {
+    "id": "mcd_13768",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 環七豊玉店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "176-0014",
+    "address": "東京都練馬区豊玉南3-6-1",
+    "phone": "03-5912-9591",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 9台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13768",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72640577577019,139.65365204416042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.57526606731074,
+     35.723207656823085
+    ]
+   },
+   "properties": {
+    "id": "mcd_13194",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 青梅街道関町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0051",
+    "address": "東京都練馬区関町北2-3-20",
+    "phone": "03-3920-9679",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 27台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13194",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.723207656823085,139.57526606731074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62090083710774,
+     35.7567078737716
+    ]
+   },
+   "properties": {
+    "id": "mcd_13648",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 笹目通り高松店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0075",
+    "address": "東京都練馬区高松5-9-6",
+    "phone": "03-5372-6502",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 8台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13648",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7567078737716,139.62090083710774"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3175260401071,
+     35.759711690422314
+    ]
+   },
+   "properties": {
+    "id": "mcd_13137",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 羽村店",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "postal_code": "205-0011",
+    "address": "東京都羽村市五ノ神4-12-1",
+    "phone": "042-555-8281",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 36台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13137",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.759711690422314,139.3175260401071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.85249974616076,
+     35.76374967117492
+    ]
+   },
+   "properties": {
+    "id": "mcd_13953",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 亀有アリオ店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0061",
+    "address": "東京都葛飾区亀有3-49-3",
+    "phone": "03-6231-2733",
+    "hours": "平日 10:00-22:00 / 土曜 10:00-22:00 / 休日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / モバイルオーダー / McCafé / 特定店舗 / 駐車場 2000台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13953",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.76374967117492,139.85249974616076"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.83860198513466,
+     35.73754780461086
+    ]
+   },
+   "properties": {
+    "id": "mcd_13780",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 四つ木イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0011",
+    "address": "東京都葛飾区四つ木2-21-1イトーヨカドー四つ木店1F",
+    "phone": "03-5671-0351",
+    "hours": "平日 9:00-21:00 / 土曜 8:00-21:00 / 休日 8:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 270台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13780",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73754780461086,139.83860198513466"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.86261976012997,
+     35.735268706002536
+    ]
+   },
+   "properties": {
+    "id": "mcd_13933",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 奥戸街道店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0022",
+    "address": "東京都葛飾区奥戸2-36-13",
+    "phone": "03-3697-0417",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 20台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13933",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.735268706002536,139.86261976012997"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.86350301462795,
+     35.762852567854736
+    ]
+   },
+   "properties": {
+    "id": "mcd_13747",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ６号線金町店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0051",
+    "address": "東京都葛飾区新宿4-23-10",
+    "phone": "03-5648-5912",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 23台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13747",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.762852567854736,139.86350301462795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8658279525287,
+     35.72513659953558
+    ]
+   },
+   "properties": {
+    "id": "mcd_13134",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 東新小岩店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0023",
+    "address": "東京都葛飾区東新小岩2-11-5",
+    "phone": "03-3696-2684",
+    "hours": "平日 6:00-23:00 / 土曜 6:00-23:00 / 休日 6:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 30台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13134",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72513659953558,139.8658279525287"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.85675899511514,
+     35.787098821836246
+    ]
+   },
+   "properties": {
+    "id": "mcd_13822",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 水元ライフ店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0032",
+    "address": "東京都葛飾区水元2-11-12",
+    "phone": "03-5648-3760",
+    "hours": "平日 9:00-22:00 / 土曜 8:00-22:00 / 休日 8:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 朝マック / モバイルオーダー / McCafé / 駐車場 100台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13822",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.787098821836246,139.85675899511514"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.84905779513397,
+     35.750528845613836
+    ]
+   },
+   "properties": {
+    "id": "mcd_13914",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ６号線青戸店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0062",
+    "address": "東京都葛飾区青戸4-13-6",
+    "phone": "03-3604-9451",
+    "hours": "平日 6:00-1:00 / 土曜 6:00-1:00 / 休日 6:00-1:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 15台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13914",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.750528845613836,139.84905779513397"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2749970374597,
+     35.73524888436891
+    ]
+   },
+   "properties": {
+    "id": "mcd_13905",
+    "chain": "マクドナルド",
+    "name": "マクドナルド イオンモール日の出店",
+    "prefecture": "東京都",
+    "city": "西多摩郡日の出町",
+    "postal_code": "190-0182",
+    "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
+    "phone": "042-588-8440",
+    "hours": "平日 10:00-20:40 / 土曜 10:00-20:40 / 休日 10:00-20:40",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / モバイルオーダー / McCafé / 特定店舗 / 駐車場 3700台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13905",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73524888436891,139.2749970374597"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3576600860024,
+     35.76034684876857
+    ]
+   },
+   "properties": {
+    "id": "mcd_13890",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 瑞穂ジョイフル本田店",
+    "prefecture": "東京都",
+    "city": "西多摩郡瑞穂町",
+    "postal_code": "190-1212",
+    "address": "東京都西多摩郡瑞穂町大字殿ケ谷442",
+    "phone": "042-557-6721",
+    "hours": "平日 9:00-20:00 / 土曜 9:00-20:00 / 休日 9:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / McCafé / 特定店舗 / 駐車場 2266台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13890",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.76034684876857,139.3576600860024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.33711701140513,
+     35.77695887190485
+    ]
+   },
+   "properties": {
+    "id": "mcd_13656",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 箱根ケ崎店",
+    "prefecture": "東京都",
+    "city": "西多摩郡瑞穂町",
+    "postal_code": "190-1221",
+    "address": "東京都西多摩郡瑞穂町大字箱根ケ崎1268-1",
+    "phone": "042-568-0522",
+    "hours": "平日 7:00-22:00 / 土曜 7:00-22:00 / 休日 7:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / ドライブスルーモバイルオーダー / McCafé / 駐車場 82台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13656",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77695887190485,139.33711701140513"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.53047002900766,
+     35.712619880414195
+    ]
+   },
+   "properties": {
+    "id": "mcd_13149",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 保谷新町店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "202-0023",
+    "address": "東京都西東京市新町6-8-14",
+    "phone": "0422-53-6335",
+    "hours": "平日 — / 土曜 — / 休日 —",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 23台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13149",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.712619880414195,139.53047002900766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.53216404101093,
+     35.73370282534043
+    ]
+   },
+   "properties": {
+    "id": "mcd_13062",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 新青梅田無店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "188-0004",
+    "address": "東京都西東京市西原町2-2-11",
+    "phone": "0424-67-6802",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 18台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13062",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73370282534043,139.53216404101093"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.55851989172749,
+     35.649313873235144
+    ]
+   },
+   "properties": {
+    "id": "mcd_13744",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 国領マルエツ店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0022",
+    "address": "東京都調布市国領町3-1-38",
+    "phone": "042-490-1320",
+    "hours": "平日 7:00-23:00 / 土曜 7:00-23:00 / 休日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / McCafé / 特定店舗 / 駐車場 340台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13744",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.649313873235144,139.55851989172749"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.56422782835375,
+     35.64708288742798
+    ]
+   },
+   "properties": {
+    "id": "mcd_13875",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 国領イトーヨーカドー店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0022",
+    "address": "東京都調布市国領町8-2-64",
+    "phone": "03-3430-7022",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / モバイルオーダー / 駐車場 992台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13875",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64708288742798,139.56422782835375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5429340123677,
+     35.655866887292966
+    ]
+   },
+   "properties": {
+    "id": "mcd_13148",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ２０号調布店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0021",
+    "address": "東京都調布市調布ケ丘1-2-1",
+    "phone": "042-483-1883",
+    "hours": "平日 6:30-22:30 / 土曜 6:30-22:30 / 休日 6:30-22:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 15台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13148",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.655866887292966,139.5429340123677"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.71972382954584,
+     35.728761720382956
+    ]
+   },
+   "properties": {
+    "id": "mcd_13813",
+    "chain": "マクドナルド",
+    "name": "マクドナルド サンシャインシティＡＬＴＡ店",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "postal_code": "170-0013",
+    "address": "東京都豊島区東池袋3-1-3サンシヤインシテイアルタ",
+    "phone": "03-3987-5300",
+    "hours": "平日 8:15-22:00 / 土曜 8:15-22:00 / 休日 8:15-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 客席100席以上 / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / McCafé / 特定店舗 / 駐車場 1600台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13813",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.728761720382956,139.71972382954584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8442099612964,
+     35.775840586384206
+    ]
+   },
+   "properties": {
+    "id": "mcd_13141",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 環七大谷田店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0002",
+    "address": "東京都足立区中川4-11",
+    "phone": "03-3620-7666",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 31台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13141",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.775840586384206,139.8442099612964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.80964100968083,
+     35.795077767791646
+    ]
+   },
+   "properties": {
+    "id": "mcd_13700",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 保木間店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0064",
+    "address": "東京都足立区保木間3-33-12",
+    "phone": "03-5831-6088",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 10台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13700",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.795077767791646,139.80964100968083"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.80448100561068,
+     35.75103759197887
+    ]
+   },
+   "properties": {
+    "id": "mcd_13865",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 千住ミルディス店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0034",
+    "address": "東京都足立区千住3-92",
+    "phone": "03-5284-3501",
+    "hours": "平日 10:00-20:00 / 土曜 10:00-20:00 / 休日 10:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / モバイルオーダー / 特定店舗 / 駐車場 758台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13865",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.75103759197887,139.80448100561068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.82238276210055,
+     35.78678571120995
+    ]
+   },
+   "properties": {
+    "id": "mcd_13916",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 足立六町店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0062",
+    "address": "東京都足立区南花畑1-2-1",
+    "phone": "03-3850-1631",
+    "hours": "平日 6:00-1:00 / 土曜 6:00-1:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 10台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13916",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.78678571120995,139.82238276210055"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.78638999691557,
+     35.78657365777703
+    ]
+   },
+   "properties": {
+    "id": "mcd_13262",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 尾竹橋通り栗原店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0842",
+    "address": "東京都足立区栗原4-18-18",
+    "phone": "03-5691-7709",
+    "hours": "平日 6:00-24:00 / 土曜 6:00-24:00 / 休日 6:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 11台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13262",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.78657365777703,139.78638999691557"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7702348314446,
+     35.769657631104344
+    ]
+   },
+   "properties": {
+    "id": "mcd_13671",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 尾久橋通り江北店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0872",
+    "address": "東京都足立区江北1-21-12",
+    "phone": "03-5837-0827",
+    "hours": "平日 6:00-1:00 / 土曜 6:00-1:00 / 休日 6:00-1:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 18台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13671",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.769657631104344,139.7702348314446"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.78558194485237,
+     35.77443667072089
+    ]
+   },
+   "properties": {
+    "id": "mcd_13904",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 西新井アリオ店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0843",
+    "address": "東京都足立区西新井栄町1-20",
+    "phone": "03-3886-7712",
+    "hours": "平日 10:00-21:00 / 土曜 10:00-21:00 / 休日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モバイルオーダー / マックデリバリー / McCafé / 特定店舗 / 駐車場 1550台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13904",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77443667072089,139.78558194485237"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8315478882117,
+     35.778147764077644
+    ]
+   },
+   "properties": {
+    "id": "mcd_13996",
+    "chain": "マクドナルド",
+    "name": "マクドナルド ららテラス北綾瀬店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0006",
+    "address": "東京都足立区谷中4-8-1",
+    "phone": "03-5856-1533",
+    "hours": "平日 10:00-21:30 / 土曜 10:00-21:30 / 休日 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "客席100席以上 / マックアドベンチャー / 特定店舗 / 駐車場 200台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13996",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.778147764077644,139.8315478882117"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.75150390859807,
+     35.78380858942655
+    ]
+   },
+   "properties": {
+    "id": "mcd_13997",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 鹿浜三丁目店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0864",
+    "address": "東京都足立区鹿浜3-31-1",
+    "phone": "03-5838-7823",
+    "hours": "平日 6:00-1:00 / 土曜 6:00-1:00 / 休日 6:00-1:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 朝マック / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / ケーキ販売店舗 / 駐車場 17台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13997",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.78380858942655,139.75150390859807"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.26990796811964,
+     35.785594726869135
+    ]
+   },
+   "properties": {
+    "id": "mcd_13815",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 千ヶ瀬マルフジ店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0043",
+    "address": "東京都青梅市千ケ瀬町3-400",
+    "phone": "0428-20-0391",
+    "hours": "平日 9:30-20:00 / 土曜 9:00-20:00 / 休日 9:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モバイルオーダー / おもてなしリーダー / テーブルサービス / 特定店舗 / 駐車場 500台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13815",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.785594726869135,139.26990796811964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.31628492987983,
+     35.78324372071158
+    ]
+   },
+   "properties": {
+    "id": "mcd_13212",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 青梅街道新町店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0024",
+    "address": "東京都青梅市新町8-30-5",
+    "phone": "0428-32-8797",
+    "hours": "平日 6:30-24:30 / 土曜 6:30-24:30 / 休日 6:30-24:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / ドライブスルー / 客席100席以上 / 朝マック / プレイプレイス（旧プレイランド） / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 駐車場 43台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13212",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.78324372071158,139.31628492987983"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2878929712877,
+     35.788740680679034
+    ]
+   },
+   "properties": {
+    "id": "mcd_13191",
+    "chain": "マクドナルド",
+    "name": "マクドナルド 河辺店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0032",
+    "address": "東京都青梅市野上町3-1",
+    "phone": "0428-23-3304",
+    "hours": "平日 24時間 / 土曜 24時間 / 休日 24時間",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "FREE WiFi / 24時間営業 / ドライブスルー / 客席100席以上 / 朝マック / マックアドベンチャー / モバイルオーダー / おもてなしリーダー / テーブルサービス / マックデリバリー / ドライブスルーモバイルオーダー / McCafé / 特定店舗 / 駐車場 37台",
+    "official_url": "https://map.mcdonalds.co.jp/map/13191",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.788740680679034,139.2878929712877"
+   }
+  }
+ ]
+}

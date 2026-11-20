@@ -1,0 +1,1175 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.537721,
+     35.689434
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000966",
+    "chain": "松屋",
+    "name": "松屋 深大寺3丁目店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0016",
+    "address": "東京都三鷹市深大寺3-8-7",
+    "phone": "080-5952-8457",
+    "hours": "月 05:00-24:59 / 火 05:00-24:59 / 水 05:00-24:59 / 木 05:00-24:59 / 金 05:00-24:59 / 土 05:00-24:59 / 日 05:00-24:59",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000966",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.689434,139.537721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.417054,
+     35.637824
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000448",
+    "chain": "松屋",
+    "name": "松屋 帝京大学前店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0352",
+    "address": "東京都八王子市大塚131-8",
+    "phone": "080-5928-0567",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000448",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.637824,139.417054"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.321211,
+     35.644193
+    ]
+   },
+   "properties": {
+    "id": "mty_0000002219",
+    "chain": "松屋",
+    "name": "松屋 八王子山田店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0934",
+    "address": "東京都八王子市小比企町435-9",
+    "phone": "090-6264-7680",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000002219",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.644193,139.321211"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.393211,
+     35.624726
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000082",
+    "chain": "松屋",
+    "name": "松屋 多摩ニュータウン店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0362",
+    "address": "東京都八王子市松木33-3",
+    "phone": "080-5928-0541",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000082",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.624726,139.393211"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.467466,
+     35.693128
+    ]
+   },
+   "properties": {
+    "id": "mty_0000001756",
+    "chain": "松屋",
+    "name": "松屋 国分寺西元町店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "postal_code": "185-0023",
+    "address": "東京都国分寺市西元町2-9-25",
+    "phone": "080-5985-8234",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001756",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.693128,139.467466"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.431006,
+     35.629409
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000424",
+    "chain": "松屋",
+    "name": "松屋 多摩愛宕店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0041",
+    "address": "東京都多摩市愛宕4-7-3",
+    "phone": "080-5928-0564",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000424",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.629409,139.431006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.700145,
+     35.577412
+    ]
+   },
+   "properties": {
+    "id": "mty_0000001784",
+    "chain": "松屋",
+    "name": "松屋 池上3丁目店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "146-0082",
+    "address": "東京都大田区池上3-3-1",
+    "phone": "080-5985-8270",
+    "hours": "月 09:30-22:29 / 火 09:30-22:29 / 水 09:30-22:29 / 木 09:30-22:29 / 金 09:30-22:29 / 土 09:00-22:29 / 日 09:00-22:29",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001784",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.577412,139.700145"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.680453,
+     35.575983
+    ]
+   },
+   "properties": {
+    "id": "mty_0000002241",
+    "chain": "松屋",
+    "name": "松屋 鵜の木店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "146-0091",
+    "address": "東京都大田区鵜の木2-2-5",
+    "phone": "090-3444-1871",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000002241",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.575983,139.680453"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.465669,
+     35.733741
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000533",
+    "chain": "松屋",
+    "name": "松屋 小平小川店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0031",
+    "address": "東京都小平市小川東町5-2-5",
+    "phone": "080-5928-0467",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000533",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.733741,139.465669"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.521998,
+     35.712864
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000696",
+    "chain": "松屋",
+    "name": "松屋 小金井関野町店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0001",
+    "address": "東京都小金井市関野町1丁目3-5",
+    "phone": "080-5928-0522",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / ドライブスルー / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000696",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.712864,139.521998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.421274,
+     35.65942
+    ]
+   },
+   "properties": {
+    "id": "mty_0000001736",
+    "chain": "松屋",
+    "name": "松屋 日野三沢店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0032",
+    "address": "東京都日野市三沢1-19-2",
+    "phone": "080-5985-8231",
+    "hours": "月 04:00-24:59 / 火 04:00-24:59 / 水 04:00-24:59 / 木 04:00-24:59 / 金 04:00-24:59 / 土 04:00-24:59 / 日 04:00-24:59",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "テーブル席あり / バリアフリー / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001736",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65942,139.421274"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.395049,
+     35.66865
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000982",
+    "chain": "松屋",
+    "name": "松屋 日野神明店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0016",
+    "address": "東京都日野市神明2-1-1",
+    "phone": "080-5985-8173",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000982",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66865,139.395049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.356789,
+     35.713903
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000446",
+    "chain": "松屋",
+    "name": "松屋 昭島松原町店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0003",
+    "address": "東京都昭島市松原町1-6-13 AGスクウェアビル1F",
+    "phone": "080-5928-0566",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": false,
+    "takeout_only": "",
+    "facilities": "24時間営業 / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000446",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.713903,139.356789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.501071,
+     35.753703
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000535",
+    "chain": "松屋",
+    "name": "松屋 東久留米下里店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0043",
+    "address": "東京都東久留米市下里3-24-12",
+    "phone": "080-5928-0468",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000535",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.753703,139.501071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.525936,
+     35.742802
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000915",
+    "chain": "松屋",
+    "name": "松屋 東久留米南町店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0031",
+    "address": "東京都東久留米市南町4-1-8",
+    "phone": "080-5952-8380",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000915",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.742802,139.525936"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.442907,
+     35.747037
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000569",
+    "chain": "松屋",
+    "name": "松屋 東大和清水店 (松のや併設)",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0004",
+    "address": "東京都東大和市清水5-1095-7",
+    "phone": "080-5928-0469",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / ドライブスルー / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000569",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.747037,139.442907"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653286,
+     35.779267
+    ]
+   },
+   "properties": {
+    "id": "mty_0000002312",
+    "chain": "松屋",
+    "name": "松屋 板橋四葉店(松のや併設) ※11月26日10時オープン",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0084",
+    "address": "東京都板橋区四葉1-31-11",
+    "phone": "080-6793-0997",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / Suica対応 / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000002312",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.779267,139.653286"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.665555,
+     35.782423
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000433",
+    "chain": "松屋",
+    "name": "松屋 高島平店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0082",
+    "address": "東京都板橋区高島平2-1-4",
+    "phone": "080-5928-0680",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000433",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.782423,139.665555"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.405531,
+     35.748843
+    ]
+   },
+   "properties": {
+    "id": "mty_0000002319",
+    "chain": "松屋",
+    "name": "松屋 武蔵村山店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0002",
+    "address": "東京都武蔵村山市神明4-112-1",
+    "phone": "080-6815-2427",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / Suica対応 / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000002319",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.748843,139.405531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.848479,
+     35.699164
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000977",
+    "chain": "松屋",
+    "name": "松屋 小松川店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0034",
+    "address": "東京都江戸川区小松川3-90",
+    "phone": "080-5985-8135",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000977",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.699164,139.848479"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.878538,
+     35.676191
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000531",
+    "chain": "松屋",
+    "name": "松屋 江戸川店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0013",
+    "address": "東京都江戸川区江戸川6-8-49",
+    "phone": "080-5928-0824",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000531",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.676191,139.878538"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.501074,
+     35.774722
+    ]
+   },
+   "properties": {
+    "id": "mty_0000001859",
+    "chain": "松屋",
+    "name": "松屋 清瀬野塩店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "清瀬市",
+    "postal_code": "204-0004",
+    "address": "東京都清瀬市野塩4-224-1",
+    "phone": "080-9021-6731",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / ドライブスルー / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001859",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.774722,139.501074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.441941,
+     35.553051
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000285",
+    "chain": "松屋",
+    "name": "松屋 町田中町店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0021",
+    "address": "東京都町田市中町2-16-6",
+    "phone": "080-5928-0550",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / ドライブスルー / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000285",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.553051,139.441941"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.407701,
+     35.579572
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000306",
+    "chain": "松屋",
+    "name": "松屋 桜美林学園店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0034",
+    "address": "東京都町田市根岸町1010-6",
+    "phone": "080-5928-0551",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": false,
+    "takeout_only": "",
+    "facilities": "24時間営業 / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000306",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.579572,139.407701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.328261,
+     35.736245
+    ]
+   },
+   "properties": {
+    "id": "mty_0000001826",
+    "chain": "松屋",
+    "name": "松屋 福生志茂店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0023",
+    "address": "東京都福生市志茂36-4",
+    "phone": "080-5985-8294",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001826",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.736245,139.328261"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.522709,
+     35.638889
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000562",
+    "chain": "松屋",
+    "name": "松屋 稲城矢野口店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0812",
+    "address": "東京都稲城市矢野口517-2",
+    "phone": "080-5928-0570",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000562",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.638889,139.522709"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.407706,
+     35.687822
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000565",
+    "chain": "松屋",
+    "name": "松屋 立川柴崎町店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0023",
+    "address": "東京都立川市柴崎町6-10-8",
+    "phone": "080-5928-0571",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000565",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.687822,139.407706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60737,
+     35.727863
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000875",
+    "chain": "松屋",
+    "name": "松屋 下石神井店(マイカリー食堂併設)",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0042",
+    "address": "東京都練馬区下石神井4-1-7 MSビル1F",
+    "phone": "080-5928-1193",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000875",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.727863,139.60737"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.586328,
+     35.773803
+    ]
+   },
+   "properties": {
+    "id": "mty_0000001746",
+    "chain": "松屋",
+    "name": "松屋 大泉学園町店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "178-0061",
+    "address": "東京都練馬区大泉学園町7-15-20",
+    "phone": "080-5985-8241",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001746",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.773803,139.586328"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.585592,
+     35.738498
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000789",
+    "chain": "松屋",
+    "name": "松屋 石神井台店 (松のや併設)",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0045",
+    "address": "東京都練馬区石神井台6丁目7-2",
+    "phone": "080-5928-0527",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000789",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.738498,139.585592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.561587,
+     35.658684
+    ]
+   },
+   "properties": {
+    "id": "mty_0000002273",
+    "chain": "松屋",
+    "name": "松屋 調布柴崎店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0014",
+    "address": "東京都調布市柴崎1-47-3",
+    "phone": "080-9309-9414",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / Suica対応 / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000002273",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.658684,139.561587"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.554251,
+     35.681222
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000235",
+    "chain": "松屋",
+    "name": "松屋 深大寺店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0011",
+    "address": "東京都調布市深大寺北町4-30-3",
+    "phone": "080-5928-0498",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000235",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.681222,139.554251"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.810416,
+     35.786812
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000595",
+    "chain": "松屋",
+    "name": "松屋 足立保塚店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0072",
+    "address": "東京都足立区保塚町12-21",
+    "phone": "080-5928-0694",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000595",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.786812,139.810416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.823649,
+     35.782406
+    ]
+   },
+   "properties": {
+    "id": "mty_0000002127",
+    "chain": "松屋",
+    "name": "松屋 足立六町店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0073",
+    "address": "東京都足立区六町1-8-14",
+    "phone": "080-5828-2618",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000002127",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.782406,139.823649"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.829826,
+     35.776365
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000532",
+    "chain": "松屋",
+    "name": "松屋 北綾瀬店(マイカリー食堂併設)",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0055",
+    "address": "東京都足立区加平1-22-11",
+    "phone": "080-5928-0689",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000532",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.776365,139.829826"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.764395,
+     35.778111
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000787",
+    "chain": "松屋",
+    "name": "松屋 足立江北店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0872",
+    "address": "東京都足立区江北3丁目35番12号",
+    "phone": "080-5928-0706",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000787",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.778111,139.764395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.296659,
+     35.796721
+    ]
+   },
+   "properties": {
+    "id": "mty_0000002306",
+    "chain": "松屋",
+    "name": "松屋 青梅今寺店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0021",
+    "address": "東京都青梅市今寺3-441-6",
+    "phone": "070-7596-1993",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / セルフサービス / Suica対応 / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000002306",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.796721,139.296659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.319806,
+     35.782148
+    ]
+   },
+   "properties": {
+    "id": "mty_0000000571",
+    "chain": "松屋",
+    "name": "松屋 青梅新町店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0024",
+    "address": "東京都青梅市新町9-2020",
+    "phone": "080-5928-0572",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000000571",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.782148,139.319806"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.291605,
+     35.783763
+    ]
+   },
+   "properties": {
+    "id": "mty_0000001725",
+    "chain": "松屋",
+    "name": "松屋 青梅河辺町店(松のや併設)",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0036",
+    "address": "東京都青梅市河辺町8-1-2",
+    "phone": "080-5985-8200",
+    "hours": "月 00:00-23:59 / 火 00:00-23:59 / 水 00:00-23:59 / 木 00:00-23:59 / 金 00:00-23:59 / 土 00:00-23:59 / 日 00:00-23:59",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": true,
+    "takeout_only": "",
+    "facilities": "24時間営業 / ドライブスルー / テーブル席あり / バリアフリー / セルフサービス / 松弁デリバリー / Suica対応 / dポイント / 駐車場",
+    "official_url": "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001725",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.783763,139.291605"
+   }
+  }
+ ]
+}

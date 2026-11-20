@@ -1,0 +1,755 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.553793731789,
+     35.6943578673095
+    ]
+   },
+   "properties": {
+    "id": "ccs_2817",
+    "chain": "ココス",
+    "name": "ココス 三鷹上連雀店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0012",
+    "address": "東京都三鷹市上連雀5-6-10",
+    "phone": "0422-40-7178",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2817.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6943578673095,139.553793731789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.537078490698,
+     35.6694157987141
+    ]
+   },
+   "properties": {
+    "id": "ccs_3028",
+    "chain": "ココス",
+    "name": "ココス 三鷹大沢店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0015",
+    "address": "東京都三鷹市大沢5-6-1",
+    "phone": "0422-39-5525",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3028.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6694157987141,139.537078490698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64373145584,
+     35.6358673611287
+    ]
+   },
+   "properties": {
+    "id": "ccs_2929",
+    "chain": "ココス",
+    "name": "ココス 世田谷弦巻店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "154-0016",
+    "address": "東京都世田谷区弦巻4-19-5",
+    "phone": "03-5426-3810",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2929.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6358673611287,139.64373145584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.306797455556,
+     35.654788063136
+    ]
+   },
+   "properties": {
+    "id": "ccs_3007",
+    "chain": "ココス",
+    "name": "ココス 八王子千人町店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0835",
+    "address": "東京都八王子市千人町4-13-8",
+    "phone": "042-629-3600",
+    "hours": "毎日 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3007.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.654788063136,139.306797455556"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.391322225885,
+     35.6279787959822
+    ]
+   },
+   "properties": {
+    "id": "ccs_2823",
+    "chain": "ココス",
+    "name": "ココス 八王子越野店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0361",
+    "address": "東京都八王子市越野23-14",
+    "phone": "042-670-7050",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2823.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6279787959822,139.391322225885"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.720246334065,
+     35.7599093189207
+    ]
+   },
+   "properties": {
+    "id": "ccs_3006",
+    "chain": "ココス",
+    "name": "ココス 十条店",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "114-0034",
+    "address": "東京都北区上十条2-13-1 ガーデニア102",
+    "phone": "03-5963-5891",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3006.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7599093189207,139.720246334065"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.700100211079,
+     35.7904698649132
+    ]
+   },
+   "properties": {
+    "id": "ccs_2652",
+    "chain": "ココス",
+    "name": "ココス 浮間店",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "115-0051",
+    "address": "東京都北区浮間2-9-31",
+    "phone": "03-5392-7937",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2652.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7904698649132,139.700100211079"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.711773972375,
+     35.5972432364655
+    ]
+   },
+   "properties": {
+    "id": "ccs_2994",
+    "chain": "ココス",
+    "name": "ココス 東京イン店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0021",
+    "address": "東京都大田区北馬込2-31 ホテル東京イン1F",
+    "phone": "03-5743-7581",
+    "hours": "毎日 6:00-翌4:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2994.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5972432364655,139.711773972375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.475431203448,
+     35.7096237545661
+    ]
+   },
+   "properties": {
+    "id": "ccs_2833",
+    "chain": "ココス",
+    "name": "ココス 小平店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0022",
+    "address": "東京都小平市上水本町5-1-1",
+    "phone": "042-359-7784",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2833.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7096237545661,139.475431203448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.378923558135,
+     35.6636358766179
+    ]
+   },
+   "properties": {
+    "id": "ccs_3008",
+    "chain": "ココス",
+    "name": "ココス 豊田店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0062",
+    "address": "東京都日野市多摩平1-5-10",
+    "phone": "042-582-6580",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3008.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6636358766179,139.378923558135"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.499318283536,
+     35.7480508949513
+    ]
+   },
+   "properties": {
+    "id": "ccs_2720",
+    "chain": "ココス",
+    "name": "ココス 東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0033",
+    "address": "東京都東久留米市滝山5-27-14",
+    "phone": "042-470-7551",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2720.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7480508949513,139.499318283536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650571185738,
+     35.7802100971653
+    ]
+   },
+   "properties": {
+    "id": "ccs_3039",
+    "chain": "ココス",
+    "name": "ココス 板橋四葉店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0084",
+    "address": "東京都板橋区四葉2-7-5",
+    "phone": "03-5904-5681",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3039.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7802100971653,139.650571185738"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.87131479999994,
+     35.6520308
+    ]
+   },
+   "properties": {
+    "id": "ccs_5152",
+    "chain": "ココス",
+    "name": "ココス 南葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0085",
+    "address": "東京都江戸川区南葛西3-20-10",
+    "phone": "03-6808-3703",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/5152.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6520308,139.87131479999994"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.897615620792,
+     35.6907675903076
+    ]
+   },
+   "properties": {
+    "id": "ccs_2714",
+    "chain": "ココス",
+    "name": "ココス 瑞江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0014",
+    "address": "東京都江戸川区東瑞江1-24-1",
+    "phone": "03-5243-7225",
+    "hours": "毎日 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2714.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6907675903076,139.897615620792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.907124825044,
+     35.7089958067062
+    ]
+   },
+   "properties": {
+    "id": "ccs_2710",
+    "chain": "ココス",
+    "name": "ココス 篠崎店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0061",
+    "address": "東京都江戸川区篠崎町1-29-10",
+    "phone": "03-5243-7261",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2710.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7089958067062,139.907124825044"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.827957116162,
+     35.6813746004626
+    ]
+   },
+   "properties": {
+    "id": "ccs_3057",
+    "chain": "ココス",
+    "name": "ココス 北砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0073",
+    "address": "東京都江東区北砂3-1-16",
+    "phone": "03-6659-8970",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3057.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6813746004626,139.827957116162"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.465048325952,
+     35.5133451228478
+    ]
+   },
+   "properties": {
+    "id": "ccs_2943",
+    "chain": "ココス",
+    "name": "ココス 南町田店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0004",
+    "address": "東京都町田市鶴間1-1-36",
+    "phone": "042-788-3277",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2943.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5133451228478,139.465048325952"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.503797667,
+     35.6387434981161
+    ]
+   },
+   "properties": {
+    "id": "ccs_2847",
+    "chain": "ココス",
+    "name": "ココス 稲城店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0802",
+    "address": "東京都稲城市東長沼2106-1",
+    "phone": "042-370-7266",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2847.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6387434981161,139.503797667"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.570417669166,
+     35.7477774438932
+    ]
+   },
+   "properties": {
+    "id": "ccs_2796",
+    "chain": "ココス",
+    "name": "ココス 南大泉店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "178-0064",
+    "address": "東京都練馬区南大泉4-53-17",
+    "phone": "03-5387-7155",
+    "hours": "月-金 10:00-24:00 土日祝 7:00-24:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2796.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7477774438932,139.570417669166"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654175552376,
+     35.7573014993309
+    ]
+   },
+   "properties": {
+    "id": "ccs_3062",
+    "chain": "ココス",
+    "name": "ココス 平和台店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0085",
+    "address": "東京都練馬区早宮2-17-47 平和台STビル",
+    "phone": "03-6906-6009",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3062.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7573014993309,139.654175552376"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.540387715227,
+     35.7285484205435
+    ]
+   },
+   "properties": {
+    "id": "ccs_2705",
+    "chain": "ココス",
+    "name": "ココス 田無店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "188-0011",
+    "address": "東京都西東京市田無町2-1-1 アスタビル3F",
+    "phone": "042-450-7071",
+    "hours": "毎日 11:00-22:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / 多目的トイレ あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2705.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7285484205435,139.540387715227"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.803325614108,
+     35.7946148357466
+    ]
+   },
+   "properties": {
+    "id": "ccs_2647",
+    "chain": "ココス",
+    "name": "ココス 足立保木間店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0064",
+    "address": "東京都足立区保木間2-3-3",
+    "phone": "03-5242-7032",
+    "hours": "毎日 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2647.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7946148357466,139.803325614108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.813306077606,
+     35.7424183708234
+    ]
+   },
+   "properties": {
+    "id": "ccs_2998",
+    "chain": "ココス",
+    "name": "ココス 千住堀切橋店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0023",
+    "address": "東京都足立区千住曙町41-5 アコール北千住205",
+    "phone": "03-5813-3253",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2998.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7424183708234,139.813306077606"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.797497194167,
+     35.7828776560226
+    ]
+   },
+   "properties": {
+    "id": "ccs_2724",
+    "chain": "ココス",
+    "name": "ココス 足立島根店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0815",
+    "address": "東京都足立区島根4-21-22",
+    "phone": "03-5242-7591",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/2724.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7828776560226,139.797497194167"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.770790739255,
+     35.7721536143606
+    ]
+   },
+   "properties": {
+    "id": "ccs_3064",
+    "chain": "ココス",
+    "name": "ココス 扇店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0873",
+    "address": "東京都足立区扇3-18-16",
+    "phone": "03-6807-1357",
+    "hours": "月-金 10:00-翌2:00 土日祝 7:00-翌2:00 ※ラストオーダーは閉店の30分前です。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / AUTO SHOCK AEDあり / スロープ/エレベーター あり / Wi-Fi / デリバリー / ココウェブ 利用可 / クレジットカード利用可",
+    "official_url": "https://maps.cocos-jpn.co.jp/jp/detail/3064.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7721536143606,139.770790739255"
+   }
+  }
+ ]
+}

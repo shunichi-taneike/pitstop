@@ -1,0 +1,905 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6058164,
+     35.6734231
+    ]
+   },
+   "properties": {
+    "id": "srr_127",
+    "chain": "スシロー",
+    "name": "スシロー 烏山店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "157-0061",
+    "address": "東京都世田谷区北烏山1-9-4",
+    "phone": "03-5314-3671",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=127",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6734231,139.6058164"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.396346,
+     35.611555
+    ]
+   },
+   "properties": {
+    "id": "srr_130",
+    "chain": "スシロー",
+    "name": "スシロー ぐりーんうぉーく多摩店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0363",
+    "address": "東京都八王子市別所2-56",
+    "phone": "042-670-5301",
+    "hours": "月-金 10:30-21:00 土日祝 10:30-21:00 ※ラストオーダーは閉店時間の15分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=130",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.611555,139.396346"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3047532,
+     35.6873476
+    ]
+   },
+   "properties": {
+    "id": "srr_143",
+    "chain": "スシロー",
+    "name": "スシロー 楢原店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0803",
+    "address": "東京都八王子市楢原町819-1",
+    "phone": "042-620-0251",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "デジロー / 駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=143",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6873476,139.3047532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3582638,
+     35.6407936
+    ]
+   },
+   "properties": {
+    "id": "srr_104",
+    "chain": "スシロー",
+    "name": "スシロー 八王子長沼店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0907",
+    "address": "東京都八王子市長沼町1076-1",
+    "phone": "042-632-4051",
+    "hours": "月-金 11:00-22:30 土日祝 10:30-23:00 ※月-金のラストオーダーは閉店時間の15分前となります。 ※土・日・祝のラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=104",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6407936,139.3582638"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.498104,
+     35.729087
+    ]
+   },
+   "properties": {
+    "id": "srr_2701",
+    "chain": "スシロー",
+    "name": "スシロー 小平天神町店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0004",
+    "address": "東京都小平市天神町4丁目11番15号",
+    "phone": "042-349-7140",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2701",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.729087,139.498104"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.504725,
+     35.700477
+    ]
+   },
+   "properties": {
+    "id": "srr_2056",
+    "chain": "スシロー",
+    "name": "スシロー イトーヨーカドー武蔵小金井店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0004",
+    "address": "東京都小金井市本町6丁目14-9",
+    "phone": "042-382-5161",
+    "hours": "月-金 11:00-22:00 土日祝 10:30-22:00 ※ラストオーダーは閉店時間の15分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / エレベーター / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2056",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.700477,139.504725"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.469487,
+     35.667144
+    ]
+   },
+   "properties": {
+    "id": "srr_2108",
+    "chain": "スシロー",
+    "name": "スシロー MINANO分倍河原店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0021",
+    "address": "東京都府中市片町3-22-26 MINANO 2F",
+    "phone": "042-352-0940",
+    "hours": "月-金 11:00-22:30 土日祝 10:30-22:30 ※ラストオーダーは閉店時間の15分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / エレベーター / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2108",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.667144,139.469487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5011759,
+     35.6700935
+    ]
+   },
+   "properties": {
+    "id": "srr_86",
+    "chain": "スシロー",
+    "name": "スシロー 東府中店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0005",
+    "address": "東京都府中市若松町1-32-5",
+    "phone": "042-352-4545",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=86",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6700935,139.5011759"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.458991,
+     35.683135
+    ]
+   },
+   "properties": {
+    "id": "srr_2245",
+    "chain": "スシロー",
+    "name": "スシロー 府中西原町店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0046",
+    "address": "東京都府中市西原町二丁目17番地の1",
+    "phone": "042-571-8180",
+    "hours": "月-金 11:00-22:30 土日祝 10:30-22:30 ※ラストオーダーは閉店時間の15分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2245",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.683135,139.458991"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.408097,
+     35.668642
+    ]
+   },
+   "properties": {
+    "id": "srr_66",
+    "chain": "スシロー",
+    "name": "スシロー 日野バイパス店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0024",
+    "address": "東京都日野市万願寺6-46",
+    "phone": "042-589-1591",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "デジロー / 駐車場あり / 2階建て店舗 / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=66",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.668642,139.408097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.383543,
+     35.695041
+    ]
+   },
+   "properties": {
+    "id": "srr_2104",
+    "chain": "スシロー",
+    "name": "スシロー 昭島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0032",
+    "address": "東京都昭島市郷地町2丁目36-10",
+    "phone": "042-500-1277",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2104",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.695041,139.383543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.485887,
+     35.772106
+    ]
+   },
+   "properties": {
+    "id": "srr_1995",
+    "chain": "スシロー",
+    "name": "スシロー 東村山店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0001",
+    "address": "東京都東村山市秋津町2-3-45",
+    "phone": "042-399-3325",
+    "hours": "月-金 11:00-22:00 土日祝 10:30-22:30 ※ラストオーダーは閉店時間の15分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=1995",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.772106,139.485887"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.857939,
+     35.673444
+    ]
+   },
+   "properties": {
+    "id": "srr_63",
+    "chain": "スシロー",
+    "name": "スシロー 北葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0081",
+    "address": "東京都江戸川区北葛西2-11-22",
+    "phone": "03-5679-7288",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=63",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.673444,139.857939"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.870084,
+     35.65219
+    ]
+   },
+   "properties": {
+    "id": "srr_45",
+    "chain": "スシロー",
+    "name": "スシロー 南葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0085",
+    "address": "東京都江戸川区南葛西3-19-9",
+    "phone": "03-5667-4863",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=45",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65219,139.870084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8815616,
+     35.6987725
+    ]
+   },
+   "properties": {
+    "id": "srr_133",
+    "chain": "スシロー",
+    "name": "スシロー 一之江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0023",
+    "address": "東京都江戸川区西一之江2-29-19",
+    "phone": "03-5661-5161",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=133",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6987725,139.8815616"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.828695,
+     35.676592
+    ]
+   },
+   "properties": {
+    "id": "srr_69",
+    "chain": "スシロー",
+    "name": "スシロー 南砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0076",
+    "address": "東京都江東区南砂5-6-1",
+    "phone": "03-5677-1521",
+    "hours": "月-金 10:30-23:00 土日祝 10:00-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=69",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.676592,139.828695"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.370432,
+     35.602311
+    ]
+   },
+   "properties": {
+    "id": "srr_94",
+    "chain": "スシロー",
+    "name": "スシロー 多摩境店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0215",
+    "address": "東京都町田市小山ヶ丘3-10-7",
+    "phone": "042-798-5207",
+    "hours": "月-金 11:00-22:30 土日祝 10:30-23:00 ※月-金のラストオーダーは閉店時間の15分前となります。 ※土・日・祝のラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=94",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.602311,139.370432"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.416938,
+     35.569783
+    ]
+   },
+   "properties": {
+    "id": "srr_266",
+    "chain": "スシロー",
+    "name": "スシロー 町田木曽店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0037",
+    "address": "東京都町田市木曽西3-1-9",
+    "phone": "042-789-5400",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=266",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.569783,139.416938"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4700613,
+     35.50267804
+    ]
+   },
+   "properties": {
+    "id": "srr_2055",
+    "chain": "スシロー",
+    "name": "スシロー 町田鶴間店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0004",
+    "address": "東京都町田市鶴間5丁目19-10",
+    "phone": "042-788-3905",
+    "hours": "月-金 11:00-22:30 土日祝 10:30-23:00 ※月-金のラストオーダーは閉店時間の15分前となります。 ※土・日・祝のラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2055",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.50267804,139.4700613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3357659,
+     35.7183587
+    ]
+   },
+   "properties": {
+    "id": "srr_16",
+    "chain": "スシロー",
+    "name": "スシロー 福生店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0003",
+    "address": "東京都福生市熊川261-1",
+    "phone": "042-539-2501",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "デジロー / 駐車場あり / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=16",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7183587,139.3357659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4977319,
+     35.63926888
+    ]
+   },
+   "properties": {
+    "id": "srr_1903",
+    "chain": "スシロー",
+    "name": "スシロー 稲城百村店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0804",
+    "address": "東京都稲城市百村68-1",
+    "phone": "042-370-5061",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=1903",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63926888,139.4977319"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4242865,
+     35.72313108
+    ]
+   },
+   "properties": {
+    "id": "srr_449",
+    "chain": "スシロー",
+    "name": "スシロー 立川幸町店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0002",
+    "address": "東京都立川市幸町5-39-1",
+    "phone": "042-538-4621",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "デジロー / 駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=449",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72313108,139.4242865"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.573708,
+     35.731161
+    ]
+   },
+   "properties": {
+    "id": "srr_2227",
+    "chain": "スシロー",
+    "name": "スシロー 練馬関町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0051",
+    "address": "東京都練馬区関町北4-33-34",
+    "phone": "03-5927-6010",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 1F店舗 (スロープ有り) / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2227",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.731161,139.573708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631105,
+     35.753273
+    ]
+   },
+   "properties": {
+    "id": "srr_29",
+    "chain": "スシロー",
+    "name": "スシロー 光が丘店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0075",
+    "address": "東京都練馬区高松4-4-12 パピヨン・ドルメールII 2階",
+    "phone": "03-5971-3973",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=29",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.753273,139.631105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.314934,
+     35.77175
+    ]
+   },
+   "properties": {
+    "id": "srr_2074",
+    "chain": "スシロー",
+    "name": "スシロー 羽村SAKURA MALL店",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "postal_code": "205-0002",
+    "address": "東京都羽村市栄町3丁目3-3",
+    "phone": "042-578-4556",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "デジロー / 駐車場あり / 身障者用駐車場 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2074",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77175,139.314934"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8682977,
+     35.7316901
+    ]
+   },
+   "properties": {
+    "id": "srr_17",
+    "chain": "スシロー",
+    "name": "スシロー 葛飾店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0022",
+    "address": "東京都葛飾区奥戸6-4-1",
+    "phone": "03-5654-2031",
+    "hours": "月-金 11:00-23:00 土日祝 10:00-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=17",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7316901,139.8682977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5299594,
+     35.7338672
+    ]
+   },
+   "properties": {
+    "id": "srr_35",
+    "chain": "スシロー",
+    "name": "スシロー 田無店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "188-0014",
+    "address": "東京都西東京市芝久保町5-4-22",
+    "phone": "042-451-5400",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "デジロー / 駐車場あり / 2階建て店舗 / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=35",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7338672,139.5299594"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5539264,
+     35.6812187
+    ]
+   },
+   "properties": {
+    "id": "srr_217",
+    "chain": "スシロー",
+    "name": "スシロー 調布店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0011",
+    "address": "東京都調布市深大寺北町4-30-1",
+    "phone": "042-426-0076",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "デジロー / 駐車場あり / 身障者用駐車場 / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=217",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6812187,139.5539264"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.802345,
+     35.7973396
+    ]
+   },
+   "properties": {
+    "id": "srr_79",
+    "chain": "スシロー",
+    "name": "スシロー 足立保木間店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0064",
+    "address": "東京都足立区保木間4-2-1",
+    "phone": "03-5851-5661",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 2階建て店舗 / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=79",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7973396,139.802345"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.811935,
+     35.77836
+    ]
+   },
+   "properties": {
+    "id": "srr_302",
+    "chain": "スシロー",
+    "name": "スシロー 環七青井店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0012",
+    "address": "東京都足立区青井6-25-9",
+    "phone": "03-5845-3401",
+    "hours": "月-金 11:00-23:00 土日祝 10:30-23:00 ※ラストオーダーは閉店時間の30分前となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 身障者用駐車場 / 2階建て店舗 / エレベーター / おむつ替えシート / 自動土産 ロッカー",
+    "official_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=302",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77836,139.811935"
+   }
+  }
+ ]
+}

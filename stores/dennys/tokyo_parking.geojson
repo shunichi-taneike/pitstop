@@ -1,0 +1,1805 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2894678,
+     35.7321274
+    ]
+   },
+   "properties": {
+    "id": "dny_2488",
+    "chain": "デニーズ",
+    "name": "デニーズ 秋川店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0804",
+    "address": "東京都あきる野市秋川4-5-6",
+    "phone": "080-3457-5392",
+    "hours": "月 06:30-23:30 / 火 06:30-23:30 / 水 06:30-23:30 / 木 06:30-23:30 / 金 06:30-23:30 / 土 06:30-23:30 / 日 06:30-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 33台",
+    "official_url": "https://shop.dennys.jp/map/2488/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7321274,139.2894678"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6801194,
+     35.64276
+    ]
+   },
+   "properties": {
+    "id": "dny_2550",
+    "chain": "デニーズ",
+    "name": "デニーズ 世田谷公園店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "154-0002",
+    "address": "東京都世田谷区下馬2-29-12",
+    "phone": "080-3457-3435",
+    "hours": "月 06:30-24:00 / 火 06:30-24:00 / 水 06:30-24:00 / 木 06:30-24:00 / 金 06:30-24:00 / 土 06:30-24:00 / 日 06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 20台",
+    "official_url": "https://shop.dennys.jp/map/2550/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64276,139.6801194"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596808,
+     35.6504491
+    ]
+   },
+   "properties": {
+    "id": "dny_2398",
+    "chain": "デニーズ",
+    "name": "デニーズ 成城店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "157-0066",
+    "address": "東京都世田谷区成城9-5-11",
+    "phone": "080-3457-3502",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 共用54台",
+    "official_url": "https://shop.dennys.jp/map/2398/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6504491,139.596808"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6155658,
+     35.656437
+    ]
+   },
+   "properties": {
+    "id": "dny_2376",
+    "chain": "デニーズ",
+    "name": "デニーズ 千歳船橋店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "156-0055",
+    "address": "東京都世田谷区船橋7-17-10",
+    "phone": "080-3457-3559",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 20台",
+    "official_url": "https://shop.dennys.jp/map/2376/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.656437,139.6155658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6489312,
+     35.723756
+    ]
+   },
+   "properties": {
+    "id": "dny_2408",
+    "chain": "デニーズ",
+    "name": "デニーズ 野方店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "165-0032",
+    "address": "東京都中野区鷺宮1-9-11",
+    "phone": "080-3456-8281",
+    "hours": "月 06:00-24:00 / 火 06:00-24:00 / 水 06:00-24:00 / 木 06:00-24:00 / 金 00:00-00:30,06:00-24:00 / 土 00:00-00:30,06:00-24:00 / 日 06:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 35台",
+    "official_url": "https://shop.dennys.jp/map/2408/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.723756,139.6489312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3853649,
+     35.6104009
+    ]
+   },
+   "properties": {
+    "id": "dny_21765",
+    "chain": "デニーズ",
+    "name": "デニーズ 南大沢店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0364",
+    "address": "東京都八王子市南大沢2-212-6",
+    "phone": "080-3457-5794",
+    "hours": "月 06:00-23:00 / 火 06:00-23:00 / 水 06:00-23:00 / 木 06:00-23:00 / 金 06:00-23:00 / 土 06:00-23:00 / 日 06:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 27台",
+    "official_url": "https://shop.dennys.jp/map/21765/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6104009,139.3853649"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3230897,
+     35.6498477
+    ]
+   },
+   "properties": {
+    "id": "dny_2239",
+    "chain": "デニーズ",
+    "name": "デニーズ 富士森公園店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0931",
+    "address": "東京都八王子市台町2-5-2",
+    "phone": "080-3457-5568",
+    "hours": "月 06:00-23:30 / 火 06:00-23:30 / 水 06:00-23:30 / 木 06:00-23:30 / 金 06:00-23:30 / 土 06:00-23:30 / 日 06:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / 駐車場 26台",
+    "official_url": "https://shop.dennys.jp/map/2239/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6498477,139.3230897"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3302149,
+     35.6337734
+    ]
+   },
+   "properties": {
+    "id": "dny_2624",
+    "chain": "デニーズ",
+    "name": "デニーズ 八王子みなみ野店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0917",
+    "address": "東京都八王子市西片倉2-2-4",
+    "phone": "080-3457-5385",
+    "hours": "月 00:00-00:30,06:30-24:00 / 火 00:00-00:30,06:30-24:00 / 水 00:00-00:30,06:30-24:00 / 木 00:00-00:30,06:30-24:00 / 金 00:00-00:30,06:30-24:00 / 土 00:00-00:30,06:30-24:00 / 日 00:00-00:30,06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 45台",
+    "official_url": "https://shop.dennys.jp/map/2624/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6337734,139.3302149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7513744,
+     35.7636367
+    ]
+   },
+   "properties": {
+    "id": "dny_2372",
+    "chain": "デニーズ",
+    "name": "デニーズ 豊島店",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "114-0003",
+    "address": "東京都北区豊島5-1-32",
+    "phone": "080-3457-2516",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 14台",
+    "official_url": "https://shop.dennys.jp/map/2372/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7636367,139.7513744"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7993511,
+     35.7222459
+    ]
+   },
+   "properties": {
+    "id": "dny_2316",
+    "chain": "デニーズ",
+    "name": "デニーズ 東浅草店",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "postal_code": "111-0025",
+    "address": "東京都台東区東浅草1-14-1",
+    "phone": "080-3438-0179",
+    "hours": "月 07:00-23:00 / 火 07:00-23:00 / 水 07:00-23:00 / 木 07:00-23:00 / 金 07:00-23:00 / 土 07:00-23:00 / 日 07:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 8台",
+    "official_url": "https://shop.dennys.jp/map/2316/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7222459,139.7993511"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7698764,
+     35.7210355
+    ]
+   },
+   "properties": {
+    "id": "dny_2665",
+    "chain": "デニーズ",
+    "name": "デニーズ 上野谷中店",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "postal_code": "110-0001",
+    "address": "東京都台東区谷中6-1-7",
+    "phone": "080-3437-9903",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 21台",
+    "official_url": "https://shop.dennys.jp/map/2665/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7210355,139.7698764"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4699593,
+     35.6891451
+    ]
+   },
+   "properties": {
+    "id": "dny_21815",
+    "chain": "デニーズ",
+    "name": "デニーズ 西国分寺店",
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "postal_code": "185-0023",
+    "address": "東京都国分寺市西元町3-6",
+    "phone": "080-3457-5273",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 30台",
+    "official_url": "https://shop.dennys.jp/map/21815/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6891451,139.4699593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8123849,
+     35.7272846
+    ]
+   },
+   "properties": {
+    "id": "dny_2477",
+    "chain": "デニーズ",
+    "name": "デニーズ 墨田堤通り店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "131-0034",
+    "address": "東京都墨田区堤通1-19-11",
+    "phone": "080-3457-2505",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 共用100台",
+    "official_url": "https://shop.dennys.jp/map/2477/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7272846,139.8123849"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8321347,
+     35.7065138
+    ]
+   },
+   "properties": {
+    "id": "dny_2321",
+    "chain": "デニーズ",
+    "name": "デニーズ 墨田立花店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "131-0043",
+    "address": "東京都墨田区立花3－1－5",
+    "phone": "080-3457-2547",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / 駐車場 11台",
+    "official_url": "https://shop.dennys.jp/map/2321/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7065138,139.8321347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4425097,
+     35.6246815
+    ]
+   },
+   "properties": {
+    "id": "dny_21870",
+    "chain": "デニーズ",
+    "name": "デニーズ 多摩貝取店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0025",
+    "address": "東京都多摩市永山2-26-10",
+    "phone": "080-3444-9803",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / だれでもトイレ / 駐車場 44台",
+    "official_url": "https://shop.dennys.jp/map/21870/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6246815,139.4425097"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4263757,
+     35.6268551
+    ]
+   },
+   "properties": {
+    "id": "dny_21842",
+    "chain": "デニーズ",
+    "name": "デニーズ 多摩センター店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0033",
+    "address": "東京都多摩市落合１丁目２−６パステルプラザ ２Ｆ",
+    "phone": "080-3444-9824",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / だれでもトイレ / 駐車場 23台",
+    "official_url": "https://shop.dennys.jp/map/21842/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6268551,139.4263757"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6992184,
+     35.5938118
+    ]
+   },
+   "properties": {
+    "id": "dny_21911",
+    "chain": "デニーズ",
+    "name": "デニーズ 上池台店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "145-0064",
+    "address": "東京都大田区上池台3-14-2",
+    "phone": "080-3457-4639",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 21台",
+    "official_url": "https://shop.dennys.jp/map/21911/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5938118,139.6992184"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6875879,
+     35.5712199
+    ]
+   },
+   "properties": {
+    "id": "dny_21861",
+    "chain": "デニーズ",
+    "name": "デニーズ 下丸子店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "146-0092",
+    "address": "東京都大田区下丸子3-1-15",
+    "phone": "080-3457-4048",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 25台",
+    "official_url": "https://shop.dennys.jp/map/21861/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5712199,139.6875879"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7141548,
+     35.5764251
+    ]
+   },
+   "properties": {
+    "id": "dny_2389",
+    "chain": "デニーズ",
+    "name": "デニーズ 池上通り店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0024",
+    "address": "東京都大田区中央7-3-3",
+    "phone": "080-3457-4081",
+    "hours": "月 06:30-23:30 / 火 06:30-23:30 / 水 06:30-23:30 / 木 06:30-23:30 / 金 06:30-23:30 / 土 06:30-23:30 / 日 06:30-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 11台",
+    "official_url": "https://shop.dennys.jp/map/2389/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5764251,139.7141548"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7339057,
+     35.5728337
+    ]
+   },
+   "properties": {
+    "id": "dny_21867",
+    "chain": "デニーズ",
+    "name": "デニーズ 大森中店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0014",
+    "address": "東京都大田区大森中1-1-3",
+    "phone": "080-3457-4007",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 21台",
+    "official_url": "https://shop.dennys.jp/map/21867/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5728337,139.7339057"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7304559,
+     35.5845233
+    ]
+   },
+   "properties": {
+    "id": "dny_21872",
+    "chain": "デニーズ",
+    "name": "デニーズ 大森北店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0016",
+    "address": "東京都大田区大森北4-10-5",
+    "phone": "080-3457-3991",
+    "hours": "月 07:00-23:00 / 火 07:00-23:00 / 水 07:00-23:00 / 木 07:00-23:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 30台",
+    "official_url": "https://shop.dennys.jp/map/21872/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5845233,139.7304559"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4648339,
+     35.7319443
+    ]
+   },
+   "properties": {
+    "id": "dny_2411",
+    "chain": "デニーズ",
+    "name": "デニーズ 小平小川町店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0031",
+    "address": "東京都小平市小川東町1-5-19",
+    "phone": "080-3457-5344",
+    "hours": "月 06:00-24:00 / 火 06:00-24:00 / 水 06:00-24:00 / 木 06:00-24:00 / 金 06:00-24:00 / 土 06:00-24:00 / 日 06:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 共用98台",
+    "official_url": "https://shop.dennys.jp/map/2411/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7319443,139.4648339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5109492,
+     35.6890767
+    ]
+   },
+   "properties": {
+    "id": "dny_2394",
+    "chain": "デニーズ",
+    "name": "デニーズ 小金井南店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0013",
+    "address": "東京都小金井市前原町1-7-4",
+    "phone": "080-3457-5362",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 24台",
+    "official_url": "https://shop.dennys.jp/map/2394/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6890767,139.5109492"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5073478,
+     35.7046298
+    ]
+   },
+   "properties": {
+    "id": "dny_2401",
+    "chain": "デニーズ",
+    "name": "デニーズ 小金井本町店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0004",
+    "address": "東京都小金井市本町5-38-36",
+    "phone": "080-3457-5354",
+    "hours": "月 06:00-24:00 / 火 06:00-24:00 / 水 06:00-24:00 / 木 06:00-24:00 / 金 06:00-24:00 / 土 06:00-24:00 / 日 06:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / 駐車場 38台",
+    "official_url": "https://shop.dennys.jp/map/2401/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7046298,139.5073478"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.731073,
+     35.7081356
+    ]
+   },
+   "properties": {
+    "id": "dny_21864",
+    "chain": "デニーズ",
+    "name": "デニーズ 新宿山吹町店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "162-0801",
+    "address": "東京都新宿区山吹町346-3 アーバンステージ神楽坂2F",
+    "phone": "080-3457-5874",
+    "hours": "月 06:45-23:00 / 火 06:45-23:00 / 水 06:45-23:00 / 木 06:45-23:00 / 金 06:45-23:30 / 土 06:45-23:30 / 日 06:45-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 9台",
+    "official_url": "https://shop.dennys.jp/map/21864/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7081356,139.731073"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.369196,
+     35.7094825
+    ]
+   },
+   "properties": {
+    "id": "dny_21965",
+    "chain": "デニーズ",
+    "name": "デニーズ 昭島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0015",
+    "address": "東京都昭島市昭和町1-1-12",
+    "phone": "080-3457-0282",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 34台",
+    "official_url": "https://shop.dennys.jp/map/21965/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7094825,139.369196"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6016663,
+     35.7087092
+    ]
+   },
+   "properties": {
+    "id": "dny_21846",
+    "chain": "デニーズ",
+    "name": "デニーズ 西荻北店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "167-0042",
+    "address": "東京都杉並区西荻北5-7-18",
+    "phone": "080-3457-3921",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / 駐車場 26台",
+    "official_url": "https://shop.dennys.jp/map/21846/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7087092,139.6016663"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6180711,
+     35.6882718
+    ]
+   },
+   "properties": {
+    "id": "dny_297",
+    "chain": "デニーズ",
+    "name": "デニーズ 高井戸店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "168-0072",
+    "address": "東京都杉並区高井戸東 4-7-2",
+    "phone": "080-3457-2610",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 28台",
+    "official_url": "https://shop.dennys.jp/map/297/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6882718,139.6180711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4155976,
+     35.7428417
+    ]
+   },
+   "properties": {
+    "id": "dny_22006",
+    "chain": "デニーズ",
+    "name": "デニーズ 上北台店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0023",
+    "address": "東京都東大和市上北台2-1-29",
+    "phone": "080-3457-5749",
+    "hours": "月 09:00-23:00 / 火 09:00-23:00 / 水 09:00-23:00 / 木 09:00-23:00 / 金 09:00-23:00 / 土 09:00-23:00 / 日 09:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 31台",
+    "official_url": "https://shop.dennys.jp/map/22006/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7428417,139.4155976"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7080923,
+     35.7511351
+    ]
+   },
+   "properties": {
+    "id": "dny_22014",
+    "chain": "デニーズ",
+    "name": "デニーズ 大山東町店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "173-0014",
+    "address": "東京都板橋区大山東町33-5 ザ・パークハビオ板橋区役所前2F",
+    "phone": "080-3258-0769",
+    "hours": "月 00:00-00:30,06:30-24:00 / 火 00:00-00:30,06:30-24:00 / 水 00:00-00:30,06:30-24:00 / 木 00:00-00:30,06:30-24:00 / 金 00:00-00:30,06:30-24:00 / 土 00:00-00:30,06:30-24:00 / 日 00:00-00:30,06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 10台",
+    "official_url": "https://shop.dennys.jp/map/22014/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7511351,139.7080923"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6805692,
+     35.7493764
+    ]
+   },
+   "properties": {
+    "id": "dny_21974",
+    "chain": "デニーズ",
+    "name": "デニーズ 小茂根店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "173-0037",
+    "address": "東京都板橋区小茂根2-24-15",
+    "phone": "080-3457-5837",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 23台",
+    "official_url": "https://shop.dennys.jp/map/21974/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7493764,139.6805692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.673432,
+     35.782488
+    ]
+   },
+   "properties": {
+    "id": "dny_21946",
+    "chain": "デニーズ",
+    "name": "デニーズ 高島平店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0082",
+    "address": "東京都板橋区高島平1-27-13",
+    "phone": "080-3438-4707",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 00:00-00:30,07:00-24:00 / 土 00:00-00:30,07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 38台",
+    "official_url": "https://shop.dennys.jp/map/21946/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.782488,139.673432"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5685426,
+     35.720398
+    ]
+   },
+   "properties": {
+    "id": "dny_21924",
+    "chain": "デニーズ",
+    "name": "デニーズ 吉祥寺北町店",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "postal_code": "180-0001",
+    "address": "東京都武蔵野市吉祥寺北町5-10-12",
+    "phone": "080-3457-5271",
+    "hours": "月 06:30-23:30 / 火 06:30-23:30 / 水 06:30-23:30 / 木 06:30-23:30 / 金 06:30-23:30 / 土 06:30-23:30 / 日 06:30-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 24台",
+    "official_url": "https://shop.dennys.jp/map/21924/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.720398,139.5685426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8750882,
+     35.7173016
+    ]
+   },
+   "properties": {
+    "id": "dny_250",
+    "chain": "デニーズ",
+    "name": "デニーズ 本一色店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0044",
+    "address": "東京都江戸川区本一色2-23-16",
+    "phone": "080-3437-5166",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 39台",
+    "official_url": "https://shop.dennys.jp/map/250/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7173016,139.8750882"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9067023,
+     35.7047454
+    ]
+   },
+   "properties": {
+    "id": "dny_21955",
+    "chain": "デニーズ",
+    "name": "デニーズ 篠崎店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0061",
+    "address": "東京都江戸川区篠崎町2-22-18",
+    "phone": "080-3437-2724",
+    "hours": "月 00:00-01:00,07:00-24:00 / 火 00:00-01:00,07:00-24:00 / 水 00:00-01:00,07:00-24:00 / 木 00:00-01:00,07:00-24:00 / 金 00:00-01:00,07:00-24:00 / 土 00:00-01:00,07:00-24:00 / 日 00:00-01:00,07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 18台",
+    "official_url": "https://shop.dennys.jp/map/21955/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7047454,139.9067023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8639259,
+     35.6848761
+    ]
+   },
+   "properties": {
+    "id": "dny_2529",
+    "chain": "デニーズ",
+    "name": "デニーズ 船堀店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0091",
+    "address": "東京都江戸川区船堀1-6-11",
+    "phone": "080-3437-4607",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 共用80台",
+    "official_url": "https://shop.dennys.jp/map/2529/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6848761,139.8639259"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8638859,
+     35.6632089
+    ]
+   },
+   "properties": {
+    "id": "dny_2637",
+    "chain": "デニーズ",
+    "name": "デニーズ 西葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0088",
+    "address": "東京都江戸川区西葛西6-29-16",
+    "phone": "080-3437-3826",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 16台",
+    "official_url": "https://shop.dennys.jp/map/2637/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6632089,139.8638859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8360125,
+     35.6716382
+    ]
+   },
+   "properties": {
+    "id": "dny_2623",
+    "chain": "デニーズ",
+    "name": "デニーズ 南砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0076",
+    "address": "東京都江東区南砂6-7-15",
+    "phone": "080-3437-4562",
+    "hours": "月 07:00-23:00 / 火 07:00-23:00 / 水 07:00-23:00 / 木 07:00-23:00 / 金 00:00-04:00,07:00-24:00 / 土 00:00-04:00,06:00-24:00 / 日 06:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 共用940台",
+    "official_url": "https://shop.dennys.jp/map/2623/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6716382,139.8360125"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8072928,
+     35.659174
+    ]
+   },
+   "properties": {
+    "id": "dny_2681",
+    "chain": "デニーズ",
+    "name": "デニーズ 江東枝川店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0051",
+    "address": "東京都江東区枝川 2-2-8",
+    "phone": "080-3437-3478",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 30台",
+    "official_url": "https://shop.dennys.jp/map/2681/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.659174,139.8072928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7968838,
+     35.6817861
+    ]
+   },
+   "properties": {
+    "id": "dny_2413",
+    "chain": "デニーズ",
+    "name": "デニーズ 清澄店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0024",
+    "address": "東京都江東区清澄2-6-9",
+    "phone": "080-3437-5034",
+    "hours": "月 00:00-04:30,06:30-24:00 / 火 00:00-04:30,06:30-24:00 / 水 00:00-04:30,06:30-24:00 / 木 00:00-04:30,06:30-24:00 / 金 00:00-04:30,06:30-24:00 / 土 00:00-04:30,06:30-24:00 / 日 00:00-04:30,06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 15台",
+    "official_url": "https://shop.dennys.jp/map/2413/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6817861,139.7968838"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5055391,
+     35.7739814
+    ]
+   },
+   "properties": {
+    "id": "dny_2493",
+    "chain": "デニーズ",
+    "name": "デニーズ 清瀬店",
+    "prefecture": "東京都",
+    "city": "清瀬市",
+    "postal_code": "204-0024",
+    "address": "東京都清瀬市梅園2-10-19",
+    "phone": "080-3457-5212",
+    "hours": "月 06:30-24:00 / 火 06:30-24:00 / 水 06:30-24:00 / 木 06:30-24:00 / 金 06:30-24:00 / 土 06:30-24:00 / 日 06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 65台",
+    "official_url": "https://shop.dennys.jp/map/2493/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7739814,139.5055391"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6942549,
+     35.6535037
+    ]
+   },
+   "properties": {
+    "id": "dny_2475",
+    "chain": "デニーズ",
+    "name": "デニーズ 南平台店",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "postal_code": "150-0036",
+    "address": "東京都渋谷区南平台町16-11 MFPR渋谷南平台ビル",
+    "phone": "080-3457-3028",
+    "hours": "月 06:45-23:00 / 火 06:45-23:00 / 水 06:45-23:00 / 木 06:45-23:00 / 金 06:45-23:00 / 土 06:45-23:00 / 日 06:45-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 6台",
+    "official_url": "https://shop.dennys.jp/map/2475/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6535037,139.6942549"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6856439,
+     35.683879
+    ]
+   },
+   "properties": {
+    "id": "dny_2233",
+    "chain": "デニーズ",
+    "name": "デニーズ 西新宿店",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "postal_code": "151-0071",
+    "address": "東京都渋谷区本町1-55-1",
+    "phone": "080-3457-3980",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 共用28台",
+    "official_url": "https://shop.dennys.jp/map/2233/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.683879,139.6856439"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4759793,
+     35.5249761
+    ]
+   },
+   "properties": {
+    "id": "dny_22009",
+    "chain": "デニーズ",
+    "name": "デニーズ 南つくし野店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194‐0002",
+    "address": "東京都町田市南つくし野4-17-16",
+    "phone": "080-3444-9322",
+    "hours": "月 07:00-23:00 / 火 07:00-23:00 / 水 07:00-23:00 / 木 07:00-23:00 / 金 07:00-23:00 / 土 07:00-23:00 / 日 07:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 34台",
+    "official_url": "https://shop.dennys.jp/map/22009/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5249761,139.4759793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.471011,
+     35.5859466
+    ]
+   },
+   "properties": {
+    "id": "dny_21985",
+    "chain": "デニーズ",
+    "name": "デニーズ 町田大蔵店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0062",
+    "address": "東京都町田市大蔵町236",
+    "phone": "080-3444-9425",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / EV充電器 / 駐車場 46台",
+    "official_url": "https://shop.dennys.jp/map/21985/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5859466,139.471011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6921585,
+     35.634532
+    ]
+   },
+   "properties": {
+    "id": "dny_2297",
+    "chain": "デニーズ",
+    "name": "デニーズ 祐天寺店",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "postal_code": "153-0065",
+    "address": "東京都目黒区中町2-48-7",
+    "phone": "080-3457-3595",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 駐車場 27台",
+    "official_url": "https://shop.dennys.jp/map/2297/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.634532,139.6921585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4177379,
+     35.7204733
+    ]
+   },
+   "properties": {
+    "id": "dny_2684",
+    "chain": "デニーズ",
+    "name": "デニーズ 立川店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0004",
+    "address": "東京都立川市柏町1-5-1",
+    "phone": "080-3457-5321",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 41台",
+    "official_url": "https://shop.dennys.jp/map/2684/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7204733,139.4177379"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4181693,
+     35.6918883
+    ]
+   },
+   "properties": {
+    "id": "dny_21931",
+    "chain": "デニーズ",
+    "name": "デニーズ 立川南店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0022",
+    "address": "東京都立川市錦町3-8",
+    "phone": "080-3457-5808",
+    "hours": "月 06:00-24:00 / 火 06:00-24:00 / 水 06:00-24:00 / 木 06:00-24:00 / 金 00:00-01:00,06:00-24:00 / 土 00:00-01:00,06:00-24:00 / 日 00:00-01:00,06:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 18台",
+    "official_url": "https://shop.dennys.jp/map/21931/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6918883,139.4181693"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6471899,
+     35.7372145
+    ]
+   },
+   "properties": {
+    "id": "dny_21967",
+    "chain": "デニーズ",
+    "name": "デニーズ 中村橋店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "176-0023",
+    "address": "東京都練馬区中村北1-22-1",
+    "phone": "080-3457-5848",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 24台",
+    "official_url": "https://shop.dennys.jp/map/21967/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7372145,139.6471899"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5869756,
+     35.7679928
+    ]
+   },
+   "properties": {
+    "id": "dny_2677",
+    "chain": "デニーズ",
+    "name": "デニーズ 大泉店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "178-0061",
+    "address": "東京都練馬区大泉学園町5-9-1",
+    "phone": "080-3457-5877",
+    "hours": "月 06:30-24:00 / 火 06:30-24:00 / 水 06:30-24:00 / 木 06:30-24:00 / 金 06:30-24:00 / 土 06:30-24:00 / 日 06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 31台",
+    "official_url": "https://shop.dennys.jp/map/2677/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7679928,139.5869756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3154013,
+     35.7618448
+    ]
+   },
+   "properties": {
+    "id": "dny_2184",
+    "chain": "デニーズ",
+    "name": "デニーズ 羽村店",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "postal_code": "205-0003",
+    "address": "東京都羽村市緑ヶ丘1-23-11",
+    "phone": "080-3457-5592",
+    "hours": "月 00:00-00:30,06:00-24:00 / 火 00:00-00:30,06:00-24:00 / 水 00:00-00:30,06:00-24:00 / 木 00:00-00:30,06:00-24:00 / 金 00:00-00:30,06:00-24:00 / 土 00:00-00:30,06:00-24:00 / 日 00:00-00:30,06:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / だれでもトイレ / 駐車場 34台",
+    "official_url": "https://shop.dennys.jp/map/2184/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7618448,139.3154013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8657464,
+     35.7345424
+    ]
+   },
+   "properties": {
+    "id": "dny_282",
+    "chain": "デニーズ",
+    "name": "デニーズ 奥戸店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0022",
+    "address": "東京都葛飾区奥戸7-4-1",
+    "phone": "080-3437-5149",
+    "hours": "月 00:00-01:00,07:00-24:00 / 火 00:00-01:00,07:00-24:00 / 水 00:00-01:00,07:00-24:00 / 木 00:00-01:00,07:00-24:00 / 金 00:00-01:00,07:00-24:00 / 土 00:00-01:00,07:00-24:00 / 日 00:00-01:00,07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 30台",
+    "official_url": "https://shop.dennys.jp/map/282/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7345424,139.8657464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5531152,
+     35.7253351
+    ]
+   },
+   "properties": {
+    "id": "dny_21797",
+    "chain": "デニーズ",
+    "name": "デニーズ 保谷柳沢店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "202-0022",
+    "address": "東京都西東京市柳沢2-18-45",
+    "phone": "080-3457-5288",
+    "hours": "月 06:00-24:00 / 火 06:00-24:00 / 水 06:00-24:00 / 木 06:00-24:00 / 金 00:00-01:00,06:00-24:00 / 土 00:00-01:00,06:00-24:00 / 日 06:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 28台",
+    "official_url": "https://shop.dennys.jp/map/21797/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7253351,139.5531152"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5621748,
+     35.6460798
+    ]
+   },
+   "properties": {
+    "id": "dny_21865",
+    "chain": "デニーズ",
+    "name": "デニーズ 調布店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0022",
+    "address": "東京都調布市国領町4-51-1",
+    "phone": "080-3457-4091",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / 駐車場 30台",
+    "official_url": "https://shop.dennys.jp/map/21865/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6460798,139.5621748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7106571,
+     35.7392323
+    ]
+   },
+   "properties": {
+    "id": "dny_2513",
+    "chain": "デニーズ",
+    "name": "デニーズ 北池袋店",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "postal_code": "170-0011",
+    "address": "東京都豊島区池袋本町2-1-5",
+    "phone": "080-3457-5898",
+    "hours": "月 00:00-01:00,07:00-24:00 / 火 00:00-01:00,07:00-24:00 / 水 00:00-01:00,07:00-24:00 / 木 00:00-01:00,07:00-24:00 / 金 00:00-01:00,07:00-24:00 / 土 00:00-01:00,07:00-24:00 / 日 00:00-01:00,07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 28台",
+    "official_url": "https://shop.dennys.jp/map/2513/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7392323,139.7106571"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7084096,
+     35.7154318
+    ]
+   },
+   "properties": {
+    "id": "dny_2606",
+    "chain": "デニーズ",
+    "name": "デニーズ 高田馬場店",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "postal_code": "171-0033",
+    "address": "東京都豊島区高田3-26-3",
+    "phone": "080-3457-3979",
+    "hours": "月 06:30-24:00 / 火 06:30-24:00 / 水 06:30-24:00 / 木 06:30-24:00 / 金 06:30-24:00 / 土 06:30-24:00 / 日 06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / パーティールームまたは個室あり / ベビーシート / 駐車場 共用64台",
+    "official_url": "https://shop.dennys.jp/map/2606/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7154318,139.7084096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.803578,
+     35.773482
+    ]
+   },
+   "properties": {
+    "id": "dny_21930",
+    "chain": "デニーズ",
+    "name": "デニーズ 梅島店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0011",
+    "address": "東京都足立区中央本町１丁目１２−７",
+    "phone": "080-3457-3367",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 34台",
+    "official_url": "https://shop.dennys.jp/map/21930/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.773482,139.803578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7955584,
+     35.7931015
+    ]
+   },
+   "properties": {
+    "id": "dny_2195",
+    "chain": "デニーズ",
+    "name": "デニーズ 竹の塚店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0813",
+    "address": "東京都足立区竹の塚 5-3-4",
+    "phone": "080-3457-2604",
+    "hours": "月 06:00-24:00 / 火 06:00-24:00 / 水 06:00-24:00 / 木 06:00-24:00 / 金 06:00-24:00 / 土 06:00-24:00 / 日 06:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / だれでもトイレ / 車椅子対応の入り口 / 駐車場 14台",
+    "official_url": "https://shop.dennys.jp/map/2195/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7931015,139.7955584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7702798,
+     35.7853539
+    ]
+   },
+   "properties": {
+    "id": "dny_2340",
+    "chain": "デニーズ",
+    "name": "デニーズ 谷在家店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0863",
+    "address": "東京都足立区谷在家1-10-2",
+    "phone": "080-3457-2533",
+    "hours": "月 0:00-0:30,06:45-24:00 / 火 0:00-0:30,06:45-24:00 / 水 0:00-0:30,06:45-24:00 / 木 0:00-0:30,06:45-24:00 / 金 0:00-0:30,06:45-24:00 / 土 0:00-0:30,06:45-24:00 / 日 0:00-0:30,06:45-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 18台",
+    "official_url": "https://shop.dennys.jp/map/2340/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7853539,139.7702798"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.276651,
+     35.7873202
+    ]
+   },
+   "properties": {
+    "id": "dny_2289",
+    "chain": "デニーズ",
+    "name": "デニーズ 東青梅店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0042",
+    "address": "東京都青梅市東青梅4-1-11",
+    "phone": "080-3457-5503",
+    "hours": "月 06:30-24:00 / 火 06:30-24:00 / 水 06:30-24:00 / 木 06:30-24:00 / 金 06:30-24:00 / 土 06:30-24:00 / 日 06:30-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ドリンクバー / 出前サービス / コンセント / Wi-Fi / 全席禁煙 / ベビーシート / 駐車場 42台",
+    "official_url": "https://shop.dennys.jp/map/2289/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7873202,139.276651"
+   }
+  }
+ ]
+}

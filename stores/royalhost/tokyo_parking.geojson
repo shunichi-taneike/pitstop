@@ -1,0 +1,1025 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5798933,
+     35.6874348
+    ]
+   },
+   "properties": {
+    "id": "rhs_112402",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト牟礼店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0002",
+    "address": "東京都三鷹市牟礼2-14-23",
+    "phone": "0422-49-3344",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/112402/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6874348,139.5798933"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6325589,
+     35.639672
+    ]
+   },
+   "properties": {
+    "id": "rhs_110604",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト馬事公苑店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "158-0098",
+    "address": "東京都世田谷区上用賀2-3-1",
+    "phone": "03-3425-7821",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/110604/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.639672,139.6325589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6563026,
+     35.6022056
+    ]
+   },
+   "properties": {
+    "id": "rhs_111805",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト尾山台店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "158-0086",
+    "address": "東京都世田谷区尾山台2-25-9",
+    "phone": "03-3702-3566",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/111805/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6022056,139.6563026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6462539,
+     35.6315858
+    ]
+   },
+   "properties": {
+    "id": "rhs_111708",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト桜新町駅前店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "154-0014",
+    "address": "東京都世田谷区新町2-37-14",
+    "phone": "03-5451-3381",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/111708/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6315858,139.6462539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6423464,
+     35.6264647
+    ]
+   },
+   "properties": {
+    "id": "rhs_109908",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト桜新町店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "154-0015",
+    "address": "東京都世田谷区桜新町1-34-6",
+    "phone": "03-5707-8811",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/109908/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6264647,139.6423464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6602841,
+     35.6484218
+    ]
+   },
+   "properties": {
+    "id": "rhs_111902",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト若林店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "154-0023",
+    "address": "東京都世田谷区若林5-32-22",
+    "phone": "03-3413-7740",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/111902/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6484218,139.6602841"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6555231,
+     35.6245711
+    ]
+   },
+   "properties": {
+    "id": "rhs_199572",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト駒沢店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "154-0012",
+    "address": "東京都世田谷区駒沢5-19-7",
+    "phone": "03-5752-2600",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/199572/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6245711,139.6555231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.774376,
+     35.651413
+    ]
+   },
+   "properties": {
+    "id": "rhs_199615",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホストららテラスHARUMI FLAG店",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "postal_code": "104-0053",
+    "address": "東京都中央区晴海５丁目２番31号 ２F",
+    "phone": "03-3532-9335",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/199615/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.651413,139.774376"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6662816,
+     35.7023715
+    ]
+   },
+   "properties": {
+    "id": "rhs_106402",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト中野店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "164-0011",
+    "address": "東京都中野区中央4-59-4",
+    "phone": "03-3380-7551",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/106402/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7023715,139.6662816"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6726064,
+     35.7320595
+    ]
+   },
+   "properties": {
+    "id": "rhs_106500",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト江古田店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "165-0023",
+    "address": "東京都中野区江原町3-33-10",
+    "phone": "03-3950-1895",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/106500/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7320595,139.6726064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.339525,
+     35.65592
+    ]
+   },
+   "properties": {
+    "id": "rhs_199524",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホストCELEO八王子店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0083",
+    "address": "東京都八王子市旭町1-1 セレオ八王子北館10F",
+    "phone": "042-686-3747",
+    "hours": "月 11:00-21:30 / 火 11:00-21:30 / 水 11:00-21:30 / 木 11:00-21:30 / 金 11:00-21:30 / 土 11:00-21:30 / 日 11:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/199524/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65592,139.339525"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.818312,
+     35.7181692
+    ]
+   },
+   "properties": {
+    "id": "rhs_107107",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト曳舟店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "131-0046",
+    "address": "東京都墨田区京島1-38-1 曵舟駅前プラザ1F",
+    "phone": "03-3617-1385",
+    "hours": "月 09:00-23:00 / 火 09:00-23:00 / 水 09:00-23:00 / 木 09:00-23:00 / 金 09:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/107107/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7181692,139.818312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7358115,
+     35.5847147
+    ]
+   },
+   "properties": {
+    "id": "rhs_110302",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト大森北店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0016",
+    "address": "東京都大田区大森北2-20-9",
+    "phone": "03-3766-2236",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/110302/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5847147,139.7358115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4690394,
+     35.7174083
+    ]
+   },
+   "properties": {
+    "id": "rhs_113000",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト小平店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0022",
+    "address": "東京都小平市上水本町3-6-1",
+    "phone": "042-325-5624",
+    "hours": "月 09:00-23:00 / 火 09:00-23:00 / 水 09:00-23:00 / 木 09:00-23:00 / 金 09:00-23:00 / 土 09:00-23:00 / 日 09:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/113000/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7174083,139.4690394"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4883299,
+     35.730609
+    ]
+   },
+   "properties": {
+    "id": "rhs_113107",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト小平学園店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0042",
+    "address": "東京都小平市仲町402",
+    "phone": "042-344-6681",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/113107/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.730609,139.4883299"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4842825,
+     35.6728346
+    ]
+   },
+   "properties": {
+    "id": "rhs_111104",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト府中東店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0006",
+    "address": "東京都府中市緑町1-14-1",
+    "phone": "042-368-6610",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/111104/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6728346,139.4842825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.707932,
+     35.698565
+    ]
+   },
+   "properties": {
+    "id": "rhs_106704",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト東新宿駅前店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "160-0022",
+    "address": "東京都新宿区新宿7-27-9 相鉄フレッサイン東新宿駅前1F",
+    "phone": "03-5291-5061",
+    "hours": "月 06:30-10:30,11:00-23:00 / 火 06:30-10:30,11:00-23:00 / 水 06:30-10:30,11:00-23:00 / 木 06:30-10:30,11:00-23:00 / 金 06:30-10:30,11:00-23:00 / 土 06:30-10:30,11:00-23:00 / 日 06:30-10:30,11:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/106704/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.698565,139.707932"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6393343,
+     35.6787498
+    ]
+   },
+   "properties": {
+    "id": "rhs_112305",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト永福町店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "168-0064",
+    "address": "東京都杉並区永福4-17-5",
+    "phone": "03-3327-1918",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/112305/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6787498,139.6393343"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5145944,
+     35.746424
+    ]
+   },
+   "properties": {
+    "id": "rhs_112909",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0032",
+    "address": "東京都東久留米市前沢1-7-16",
+    "phone": "042-475-1724",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/112909/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.746424,139.5145944"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6808579,
+     35.7758519
+    ]
+   },
+   "properties": {
+    "id": "rhs_109207",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト板橋店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "174-0044",
+    "address": "東京都板橋区相生町4-9",
+    "phone": "03-3934-8111",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/109207/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7758519,139.6808579"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.871731,
+     35.6489929
+    ]
+   },
+   "properties": {
+    "id": "rhs_109703",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト南葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0085",
+    "address": "東京都江戸川区南葛西3-24",
+    "phone": "03-3675-6568",
+    "hours": "月 09:00-23:00 / 火 09:00-23:00 / 水 09:00-23:00 / 木 09:00-23:00 / 金 09:00-23:00 / 土 09:00-23:00 / 日 09:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/109703/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6489929,139.871731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8278037,
+     35.6895856
+    ]
+   },
+   "properties": {
+    "id": "rhs_109509",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト西大島店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0072",
+    "address": "東京都江東区大島3-1-2",
+    "phone": "03-3681-1147",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/109509/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6895856,139.8278037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4431798,
+     35.553734
+    ]
+   },
+   "properties": {
+    "id": "rhs_115509",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト町田店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0021",
+    "address": "東京都町田市中町2-17-15",
+    "phone": "042-723-1897",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/115509/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.553734,139.4431798"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7073837,
+     35.6324268
+    ]
+   },
+   "properties": {
+    "id": "rhs_110205",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト目黒店",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "postal_code": "153-0063",
+    "address": "東京都目黒区目黒3-10-12",
+    "phone": "03-3794-0906",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/110205/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6324268,139.7073837"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4081428,
+     35.6877629
+    ]
+   },
+   "properties": {
+    "id": "rhs_111406",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト立川南店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0023",
+    "address": "東京都立川市柴崎町6-9-4",
+    "phone": "042-548-0551",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/111406/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6877629,139.4081428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6293056,
+     35.7602995
+    ]
+   },
+   "properties": {
+    "id": "rhs_199614",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト光が丘IMA店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0072",
+    "address": "東京都練馬区光が丘二丁目10番1号 東館２階",
+    "phone": "03-5998-7017",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/199614/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7602995,139.6293056"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5823643,
+     35.7377715
+    ]
+   },
+   "properties": {
+    "id": "rhs_108006",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト石神井台店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0045",
+    "address": "東京都練馬区石神井台6-18-1",
+    "phone": "03-3923-9010",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/108006/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7377715,139.5823643"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.844157,
+     35.7577623
+    ]
+   },
+   "properties": {
+    "id": "rhs_109401",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト亀有店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0061",
+    "address": "東京都葛飾区亀有4-1-18",
+    "phone": "03-3690-8406",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/109401/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7577623,139.844157"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8437426,
+     35.7440566
+    ]
+   },
+   "properties": {
+    "id": "rhs_107204",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト立石店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0012",
+    "address": "東京都葛飾区立石5-3-8",
+    "phone": "03-3694-5445",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/107204/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7440566,139.8437426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5320401,
+     35.7124682
+    ]
+   },
+   "properties": {
+    "id": "rhs_112607",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト桜堤店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "202-0023",
+    "address": "東京都西東京市新町6-5-7",
+    "phone": "0422-55-1252",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 08:00-22:00 / 日 08:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/112607/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7124682,139.5320401"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5854937,
+     35.662516
+    ]
+   },
+   "properties": {
+    "id": "rhs_110809",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト仙川駅前店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0002",
+    "address": "東京都調布市仙川町1-44-1",
+    "phone": "03-5314-5061",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/110809/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.662516,139.5854937"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5255078,
+     35.6633664
+    ]
+   },
+   "properties": {
+    "id": "rhs_111007",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト味の素スタジアム店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0032",
+    "address": "東京都調布市西町376-3 味の素スタジアム内ポケットガーデン1F",
+    "phone": "042-490-1082",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/111007/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6633664,139.5255078"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7985373,
+     35.7930233
+    ]
+   },
+   "properties": {
+    "id": "rhs_107000",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト竹の塚店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0813",
+    "address": "東京都足立区竹の塚4-4-7",
+    "phone": "03-3859-3625",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / ベビーシート / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/107000/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7930233,139.7985373"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7741842,
+     35.7784005
+    ]
+   },
+   "properties": {
+    "id": "rhs_106801",
+    "chain": "ロイヤルホスト",
+    "name": "ロイヤルホスト西新井大師店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0841",
+    "address": "東京都足立区西新井６丁目８−８",
+    "phone": "03-3856-1808",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 08:00-23:00 / 日 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "スロープ / テイクアウト / デリバリー / ドリンクバー / 駐車場",
+    "official_url": "https://locations.royalhost.jp/detail/106801/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7784005,139.7741842"
+   }
+  }
+ ]
+}

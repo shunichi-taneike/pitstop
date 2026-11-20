@@ -1,0 +1,1025 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.287598,
+     35.726054
+    ]
+   },
+   "properties": {
+    "id": "jnt_020161",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 秋川店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "",
+    "address": "東京都あきる野市油平35",
+    "phone": "042-532-7013",
+    "hours": "月 08:00-23:00 / 火 08:00-23:00 / 水 08:00-23:00 / 木 08:00-23:00 / 金 08:00-23:00 / 土 07:00-23:00 / 日・祝 07:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020161/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.726054,139.287598"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.54996,
+     35.687407
+    ]
+   },
+   "properties": {
+    "id": "jnt_020488",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 三鷹井口店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "",
+    "address": "東京都三鷹市井口2丁目3-3",
+    "phone": "0422-39-5080",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 多目的トイレ / 車椅子対応 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020488/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.687407,139.54996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6325772,
+     35.6248625
+    ]
+   },
+   "properties": {
+    "id": "jnt_020525",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 用賀店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "",
+    "address": "東京都世田谷区玉川台2丁目22-20 イイダアネックスVII",
+    "phone": "03-3700-0981",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日・祝 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020525/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6248625,139.6325772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629222,
+     35.73367
+    ]
+   },
+   "properties": {
+    "id": "jnt_020033",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 富士見台店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "",
+    "address": "東京都中野区上鷺宮4丁目6-16",
+    "phone": "03-5241-7565",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020033/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73367,139.629222"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.669113,
+     35.688307
+    ]
+   },
+   "properties": {
+    "id": "jnt_020165",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 中野弥生町店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "",
+    "address": "東京都中野区弥生町4丁目26-9",
+    "phone": "03-5385-7485",
+    "hours": "月 08:00-02:00 / 火 08:00-02:00 / 水 08:00-02:00 / 木 08:00-02:00 / 金 08:00-02:00 / 土 08:00-02:00 / 日・祝 08:00-02:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020165/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.688307,139.669113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.732624,
+     35.77818
+    ]
+   },
+   "properties": {
+    "id": "jnt_020156",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 志茂駅前店",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "",
+    "address": "東京都北区志茂3丁目21-5-201",
+    "phone": "03-5249-7180",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020156/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77818,139.732624"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.735483,
+     35.764853
+    ]
+   },
+   "properties": {
+    "id": "jnt_020908",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 王子店",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "",
+    "address": "東京都北区王子5丁目2-14",
+    "phone": "03-5390-7096",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020908/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.764853,139.735483"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.742719,
+     35.60566
+    ]
+   },
+   "properties": {
+    "id": "jnt_020485",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 鮫洲店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "",
+    "address": "東京都品川区東大井1丁目2-20",
+    "phone": "03-5783-0273",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日・祝 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020485/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.60566,139.742719"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.432699,
+     35.685436
+    ]
+   },
+   "properties": {
+    "id": "jnt_020017",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 矢川駅前店",
+    "prefecture": "東京都",
+    "city": "国立市",
+    "postal_code": "",
+    "address": "東京都国立市富士見台3丁目36-2",
+    "phone": "042-580-7116",
+    "hours": "月 07:00-02:00 / 火 07:00-02:00 / 水 07:00-02:00 / 木 07:00-02:00 / 金 07:00-02:00 / 土 07:00-02:00 / 日・祝 07:00-02:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 車椅子対応 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020017/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.685436,139.432699"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.805593,
+     35.688775
+    ]
+   },
+   "properties": {
+    "id": "jnt_020466",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 菊川店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "",
+    "address": "東京都墨田区菊川2丁目7-9",
+    "phone": "03-5600-7230",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020466/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.688775,139.805593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.704999,
+     35.585302
+    ]
+   },
+   "properties": {
+    "id": "jnt_020166",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 西馬込店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "",
+    "address": "東京都大田区南馬込5丁目43-3 ヴィラ森1F",
+    "phone": "03-5742-7186",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020166/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.585302,139.704999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.722973,
+     35.568245
+    ]
+   },
+   "properties": {
+    "id": "jnt_020254",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 梅屋敷店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "",
+    "address": "東京都大田区蒲田1丁目3-12",
+    "phone": "03-5744-3172",
+    "hours": "月 07:00-02:00 / 火 07:00-02:00 / 水 07:00-02:00 / 木 07:00-02:00 / 金 07:00-02:00 / 土 07:00-02:00 / 日・祝 07:00-02:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020254/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.568245,139.722973"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.511143,
+     35.725844
+    ]
+   },
+   "properties": {
+    "id": "jnt_020313",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 花小金井店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "",
+    "address": "東京都小平市花小金井南町1丁目26-1",
+    "phone": "042-460-8898",
+    "hours": "月 07:00-02:00 / 火 07:00-02:00 / 水 07:00-02:00 / 木 07:00-02:00 / 金 07:00-02:00 / 土 07:00-02:00 / 日・祝 07:00-02:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020313/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.725844,139.511143"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.380262,
+     35.662407
+    ]
+   },
+   "properties": {
+    "id": "jnt_020499",
+    "chain": "ジョナサン",
+    "name": "ジョナサン イオンモール多摩平の森店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "",
+    "address": "東京都日野市多摩平2丁目4ー1 イオンモール多摩平の森",
+    "phone": "042-589-8511",
+    "hours": "月 09:00-22:00 / 火 09:00-22:00 / 水 09:00-22:00 / 木 09:00-22:00 / 金 09:00-22:00 / 土 09:00-22:00 / 日・祝 09:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020499/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.662407,139.380262"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61591,
+     35.719279
+    ]
+   },
+   "properties": {
+    "id": "jnt_020192",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 下井草店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "",
+    "address": "東京都杉並区下井草5丁目1-7",
+    "phone": "03-5382-7110",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日・祝 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020192/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.719279,139.61591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643698,
+     35.697919
+    ]
+   },
+   "properties": {
+    "id": "jnt_020281",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 杉並梅里店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "",
+    "address": "東京都杉並区阿佐谷南1丁目1-44",
+    "phone": "03-5305-7097",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日・祝 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020281/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.697919,139.643698"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.693683,
+     35.748078
+    ]
+   },
+   "properties": {
+    "id": "jnt_020061",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 板橋大山店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "",
+    "address": "東京都板橋区大谷口上町39-1",
+    "phone": "03-5995-7017",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020061/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.748078,139.693683"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.376708,
+     35.738279
+    ]
+   },
+   "properties": {
+    "id": "jnt_020160",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 武蔵村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "",
+    "address": "東京都武蔵村山市伊奈平5丁目61-1",
+    "phone": "042-520-7009",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020160/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.738279,139.376708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.900797,
+     35.694323
+    ]
+   },
+   "properties": {
+    "id": "jnt_020257",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 瑞江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "",
+    "address": "東京都江戸川区南篠崎町3丁目24-14",
+    "phone": "03-5666-7212",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020257/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.694323,139.900797"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.86581,
+     35.710076
+    ]
+   },
+   "properties": {
+    "id": "jnt_020482",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 新小岩店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "",
+    "address": "東京都江戸川区松島3丁目47-9",
+    "phone": "03-5678-5026",
+    "hours": "月 08:00-24:00 / 火 08:00-24:00 / 水 08:00-24:00 / 木 08:00-24:00 / 金 08:00-24:00 / 土 08:00-24:00 / 日・祝 08:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020482/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.710076,139.86581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.859128,
+     35.662123
+    ]
+   },
+   "properties": {
+    "id": "jnt_020072",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 西葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "",
+    "address": "東京都江戸川区西葛西7丁目3-6",
+    "phone": "03-5696-7383",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020072/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.662123,139.859128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.844399,
+     35.689498
+    ]
+   },
+   "properties": {
+    "id": "jnt_020437",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 東大島駅前店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "",
+    "address": "東京都江東区大島8丁目41-13",
+    "phone": "03-3637-8701",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 車椅子対応 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020437/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.689498,139.844399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751169,
+     35.653298
+    ]
+   },
+   "properties": {
+    "id": "jnt_020449",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 芝公園店",
+    "prefecture": "東京都",
+    "city": "港区",
+    "postal_code": "",
+    "address": "東京都港区芝2丁目1-27 穴水ビル2F",
+    "phone": "03-3455-1081",
+    "hours": "月 07:00-23:00 / 火 07:00-23:00 / 水 07:00-23:00 / 木 07:00-23:00 / 金 07:00-23:00 / 土 07:00-23:00 / 日・祝 07:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 多目的トイレ / 車椅子対応 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020449/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.653298,139.751169"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.580035,
+     35.633059
+    ]
+   },
+   "properties": {
+    "id": "jnt_020027",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 狛江店",
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "postal_code": "",
+    "address": "東京都狛江市東和泉1丁目2-16",
+    "phone": "03-5497-7143",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 多目的トイレ / 車椅子対応 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020027/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.633059,139.580035"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.334226,
+     35.733308
+    ]
+   },
+   "properties": {
+    "id": "jnt_020139",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 牛浜店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "",
+    "address": "東京都福生市大字熊川949",
+    "phone": "042-539-7216",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020139/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.733308,139.334226"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597656,
+     35.729311
+    ]
+   },
+   "properties": {
+    "id": "jnt_020305",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 上石神井店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "",
+    "address": "東京都練馬区上石神井2丁目7-11",
+    "phone": "03-5927-4312",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日・祝 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020305/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.729311,139.597656"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.667029,
+     35.752536
+    ]
+   },
+   "properties": {
+    "id": "jnt_020121",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 氷川台店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "",
+    "address": "東京都練馬区氷川台4丁目8-4",
+    "phone": "03-5399-7267",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日・祝 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020121/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.752536,139.667029"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65486,
+     35.728381
+    ]
+   },
+   "properties": {
+    "id": "jnt_020021",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 豊玉店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "",
+    "address": "東京都練馬区豊玉南2丁目18-19",
+    "phone": "03-5999-7218",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020021/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.728381,139.65486"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620133,
+     35.759531
+    ]
+   },
+   "properties": {
+    "id": "jnt_020001",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 練馬高松店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "",
+    "address": "東京都練馬区高松6丁目31-23",
+    "phone": "03-5372-7200",
+    "hours": "月 07:00-02:00 / 火 07:00-02:00 / 水 07:00-02:00 / 木 07:00-02:00 / 金 07:00-02:00 / 土 07:00-02:00 / 日・祝 07:00-02:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020001/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.759531,139.620133"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.789554,
+     35.73107
+    ]
+   },
+   "properties": {
+    "id": "jnt_020331",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 大関横丁店",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "postal_code": "",
+    "address": "東京都荒川区東日暮里1丁目8-1",
+    "phone": "03-5850-6563",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020331/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73107,139.789554"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.833094,
+     35.7436344
+    ]
+   },
+   "properties": {
+    "id": "jnt_020524",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 堀切店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "",
+    "address": "東京都葛飾区堀切3丁目32-6",
+    "phone": "03-5698-7543",
+    "hours": "月 08:00-22:00 / 火 08:00-22:00 / 水 08:00-22:00 / 木 08:00-22:00 / 金 08:00-22:00 / 土 07:00-22:00 / 日・祝 07:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020524/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7436344,139.833094"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.869604,
+     35.778258
+    ]
+   },
+   "properties": {
+    "id": "jnt_020509",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 水元店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "",
+    "address": "東京都葛飾区東水元2丁目9-5",
+    "phone": "03-5876-2510",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 多目的トイレ / 車椅子対応 / 身障者用駐車場 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020509/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.778258,139.869604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8779,
+     35.752646
+    ]
+   },
+   "properties": {
+    "id": "jnt_020029",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 柴又店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "",
+    "address": "東京都葛飾区柴又4丁目31-8",
+    "phone": "03-5693-7043",
+    "hours": "月 07:00-24:00 / 火 07:00-24:00 / 水 07:00-24:00 / 木 07:00-24:00 / 金 07:00-24:00 / 土 07:00-24:00 / 日・祝 07:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 車椅子対応 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020029/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.752646,139.8779"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.284642,
+     35.788548
+    ]
+   },
+   "properties": {
+    "id": "jnt_020030",
+    "chain": "ジョナサン",
+    "name": "ジョナサン 青梅店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "",
+    "address": "東京都青梅市師岡町4丁目9-4",
+    "phone": "0428-20-7197",
+    "hours": "月 07:00-23:30 / 火 07:00-23:30 / 水 07:00-23:30 / 木 07:00-23:30 / 金 07:00-23:30 / 土 07:00-23:30 / 日・祝 07:00-23:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / 宅配 / Wi-Fi / おむつ替え台 / 完全禁煙 / 駐車場",
+    "official_url": "https://store-info.skylark.co.jp/jonathan/map/020030/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.788548,139.284642"
+   }
+  }
+ ]
+}

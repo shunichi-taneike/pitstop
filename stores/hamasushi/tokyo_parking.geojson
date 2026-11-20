@@ -1,0 +1,1235 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.288630826393,
+     35.7289662005619
+    ]
+   },
+   "properties": {
+    "id": "hms_4471",
+    "chain": "はま寿司",
+    "name": "はま寿司 あきる野秋川店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0804",
+    "address": "東京都あきる野市秋川1-5-3",
+    "phone": "0570-081-677",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4471.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7289662005619,139.288630826393"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.582318590796,
+     35.6821680027313
+    ]
+   },
+   "properties": {
+    "id": "hms_4334",
+    "chain": "はま寿司",
+    "name": "はま寿司 三鷹北野店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0003",
+    "address": "東京都三鷹市北野2-4-1",
+    "phone": "0570-081-428",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4334.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6821680027313,139.582318590796"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.54522373399,
+     35.6856367059911
+    ]
+   },
+   "properties": {
+    "id": "hms_4548",
+    "chain": "はま寿司",
+    "name": "はま寿司 三鷹野崎店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0014",
+    "address": "東京都三鷹市野崎3-4-5",
+    "phone": "0570-081-848",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4548.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6856367059911,139.54522373399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635035519271,
+     35.6477606593415
+    ]
+   },
+   "properties": {
+    "id": "hms_4209",
+    "chain": "はま寿司",
+    "name": "はま寿司 経堂店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "156-0052",
+    "address": "東京都世田谷区経堂5-29-17",
+    "phone": "0570-081-176",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4209.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6477606593415,139.635035519271"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.400764674456,
+     35.6241304836455
+    ]
+   },
+   "properties": {
+    "id": "hms_4171",
+    "chain": "はま寿司",
+    "name": "はま寿司 京王堀之内店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0363",
+    "address": "東京都八王子市別所2-1 堀之内センター商業ビル2F 205-1",
+    "phone": "0570-081-063",
+    "hours": "月-金 11:00-23:00 土日祝 10:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4171.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6241304836455,139.400764674456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.380913719574,
+     35.6143128536692
+    ]
+   },
+   "properties": {
+    "id": "hms_4549",
+    "chain": "はま寿司",
+    "name": "はま寿司 南大沢駅前店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0364",
+    "address": "東京都八王子市南大沢2-29 プラザA2F",
+    "phone": "0570-081-850",
+    "hours": "月-金 11:00-23:00 土日祝 10:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4549.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6143128536692,139.380913719574"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.31089,
+     35.636345
+    ]
+   },
+   "properties": {
+    "id": "hms_6053",
+    "chain": "はま寿司",
+    "name": "はま寿司 八王子椚田店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0942",
+    "address": "東京都八王子市椚田町525-1",
+    "phone": "0570-550-381",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/6053.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.636345,139.31089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7638625,
+     35.67754482
+    ]
+   },
+   "properties": {
+    "id": "hms_6633",
+    "chain": "はま寿司",
+    "name": "はま寿司 東京国際フォーラム店",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "postal_code": "100-0005",
+    "address": "東京都千代田区丸の内3-5-1 東京国際フォーラム 地上広場Aブロック1F",
+    "phone": "0570-002-588",
+    "hours": "毎日 10:00-22:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/6633.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67754482,139.7638625"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.744579878591,
+     35.5968174661485
+    ]
+   },
+   "properties": {
+    "id": "hms_4109",
+    "chain": "はま寿司",
+    "name": "はま寿司 ウィラ大井店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0012",
+    "address": "東京都品川区勝島1-6-16",
+    "phone": "0570-081-033",
+    "hours": "毎日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4109.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5968174661485,139.744579878591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.671606154471,
+     35.5861053928189
+    ]
+   },
+   "properties": {
+    "id": "hms_4282",
+    "chain": "はま寿司",
+    "name": "はま寿司 田園調布店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "145-0072",
+    "address": "東京都大田区田園調布本町40-7",
+    "phone": "0570-081-318",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4282.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5861053928189,139.671606154471"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7373808,
+     35.5522727
+    ]
+   },
+   "properties": {
+    "id": "hms_5390",
+    "chain": "はま寿司",
+    "name": "はま寿司 環八大鳥居店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "144-0047",
+    "address": "東京都大田区萩中3-4-5",
+    "phone": "0570-082-788",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/5390.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5522727,139.7373808"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.722898622269,
+     35.5666847548935
+    ]
+   },
+   "properties": {
+    "id": "hms_4274",
+    "chain": "はま寿司",
+    "name": "はま寿司 蒲田東邦医大通り店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "144-0052",
+    "address": "東京都大田区蒲田2-17-18",
+    "phone": "0570-081-283",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4274.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5666847548935,139.722898622269"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.434678903925,
+     35.7305099753959
+    ]
+   },
+   "properties": {
+    "id": "hms_4248",
+    "chain": "はま寿司",
+    "name": "はま寿司 小平中島町店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0033",
+    "address": "東京都小平市中島町22-18",
+    "phone": "0570-081-205",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4248.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7305099753959,139.434678903925"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.39589968053,
+     35.6689681028069
+    ]
+   },
+   "properties": {
+    "id": "hms_4087",
+    "chain": "はま寿司",
+    "name": "はま寿司 日野神明店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0016",
+    "address": "東京都日野市神明1-10-3",
+    "phone": "0570-080-998",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4087.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6689681028069,139.39589968053"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.365337061502,
+     35.7146101870536
+    ]
+   },
+   "properties": {
+    "id": "hms_4117",
+    "chain": "はま寿司",
+    "name": "はま寿司 昭島昭和の森店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0012",
+    "address": "東京都昭島市つつじヶ丘2-8-45",
+    "phone": "0570-081-056",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4117.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7146101870536,139.365337061502"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614872595742,
+     35.7295190622186
+    ]
+   },
+   "properties": {
+    "id": "hms_4341",
+    "chain": "はま寿司",
+    "name": "はま寿司 杉並井草店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "167-0021",
+    "address": "東京都杉並区井草3-31-5",
+    "phone": "0570-081-439",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4341.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7295190622186,139.614872595742"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.664278,
+     35.690131
+    ]
+   },
+   "properties": {
+    "id": "hms_6077",
+    "chain": "はま寿司",
+    "name": "はま寿司 杉並和田店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "166-0012",
+    "address": "東京都杉並区和田1-3-14",
+    "phone": "0570-666-641",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/6077.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.690131,139.664278"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.512751361982,
+     35.7474561932009
+    ]
+   },
+   "properties": {
+    "id": "hms_4301",
+    "chain": "はま寿司",
+    "name": "はま寿司 東久留米前沢店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0032",
+    "address": "東京都東久留米市前沢4-20-16",
+    "phone": "0570-081-388",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4301.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7474561932009,139.512751361982"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4732609785,
+     35.7606507587773
+    ]
+   },
+   "properties": {
+    "id": "hms_4361",
+    "chain": "はま寿司",
+    "name": "はま寿司 東村山久米川店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0003",
+    "address": "東京都東村山市久米川町3-3-47",
+    "phone": "0570-081-470",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4361.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7606507587773,139.4732609785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655414339286,
+     35.7814119976506
+    ]
+   },
+   "properties": {
+    "id": "hms_4323",
+    "chain": "はま寿司",
+    "name": "はま寿司 板橋徳丸店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0083",
+    "address": "東京都板橋区徳丸8-26-5",
+    "phone": "0570-081-400",
+    "hours": "月-金 11:00-24:00 土日祝 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4323.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7814119976506,139.655414339286"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3915075,
+     35.7460126
+    ]
+   },
+   "properties": {
+    "id": "hms_4745",
+    "chain": "はま寿司",
+    "name": "はま寿司 武蔵村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0011",
+    "address": "東京都武蔵村山市学園1-52-1",
+    "phone": "0570-081-870",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4745.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7460126,139.3915075"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.55462769999997,
+     35.716795
+    ]
+   },
+   "properties": {
+    "id": "hms_4744",
+    "chain": "はま寿司",
+    "name": "はま寿司 武蔵野八幡町店",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "postal_code": "180-0011",
+    "address": "東京都武蔵野市八幡町3-2-25",
+    "phone": "0570-081-866",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4744.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.716795,139.55462769999997"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.867602301394,
+     35.6903037823312
+    ]
+   },
+   "properties": {
+    "id": "hms_4272",
+    "chain": "はま寿司",
+    "name": "はま寿司 江戸川松江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0025",
+    "address": "東京都江戸川区松江5-9-2",
+    "phone": "0570-081-229",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4272.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6903037823312,139.867602301394"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.792496,
+     35.638111
+    ]
+   },
+   "properties": {
+    "id": "hms_6269",
+    "chain": "はま寿司",
+    "name": "はま寿司 有明ガーデン店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0063",
+    "address": "東京都江東区有明2-1-8 住友不動産ショッピングシティ 有明ガーデン モール棟 2階 240区画",
+    "phone": "0570-666-260",
+    "hours": "月-金 11:00-23:00 土日祝 10:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/6269.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.638111,139.792496"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.798277930341,
+     35.6568967002186
+    ]
+   },
+   "properties": {
+    "id": "hms_4546",
+    "chain": "はま寿司",
+    "name": "はま寿司 スーパービバホーム豊洲店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0061",
+    "address": "東京都江東区豊洲3-4-8 スーパービバホーム豊洲2階",
+    "phone": "0570-081-781",
+    "hours": "毎日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4546.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6568967002186,139.798277930341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.568132,
+     35.645725
+    ]
+   },
+   "properties": {
+    "id": "hms_6157",
+    "chain": "はま寿司",
+    "name": "はま寿司 狛江店",
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "postal_code": "201-0001",
+    "address": "東京都狛江市西野川3-14-1",
+    "phone": "0570-200-032",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/6157.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.645725,139.568132"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.347107895476,
+     35.6087261940581
+    ]
+   },
+   "properties": {
+    "id": "hms_4075",
+    "chain": "はま寿司",
+    "name": "はま寿司 町田小山ヶ丘店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0215",
+    "address": "東京都町田市小山ヶ丘6-4-4",
+    "phone": "0570-080-988",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4075.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6087261940581,139.347107895476"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.44600925886,
+     35.5877487764687
+    ]
+   },
+   "properties": {
+    "id": "hms_4527",
+    "chain": "はま寿司",
+    "name": "はま寿司 町田野津田店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0063",
+    "address": "東京都町田市野津田町686",
+    "phone": "0570-081-753",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4527.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5877487764687,139.44600925886"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4132537,
+     35.7007789
+    ]
+   },
+   "properties": {
+    "id": "hms_5682",
+    "chain": "はま寿司",
+    "name": "はま寿司 立川髙島屋S.C.店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-8507",
+    "address": "東京都立川市曙町2-39-3 立川髙島屋S.C.",
+    "phone": "0570-550-851",
+    "hours": "毎日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/5682.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7007789,139.4132537"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607972230443,
+     35.7619626937185
+    ]
+   },
+   "properties": {
+    "id": "hms_4501",
+    "chain": "はま寿司",
+    "name": "はま寿司 練馬土支田店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0076",
+    "address": "東京都練馬区土支田3-28-13",
+    "phone": "0570-081-733",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4501.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7619626937185,139.607972230443"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646603,
+     35.754502
+    ]
+   },
+   "properties": {
+    "id": "hms_5215",
+    "chain": "はま寿司",
+    "name": "はま寿司 練馬春日町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0074",
+    "address": "東京都練馬区春日町2-7-18",
+    "phone": "0570-081-978",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/5215.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.754502,139.646603"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.574264042677,
+     35.7351416403904
+    ]
+   },
+   "properties": {
+    "id": "hms_4322",
+    "chain": "はま寿司",
+    "name": "はま寿司 練馬関町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0051",
+    "address": "東京都練馬区関町北5-17-20",
+    "phone": "0570-081-394",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4322.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7351416403904,139.574264042677"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2980467,
+     35.780955
+    ]
+   },
+   "properties": {
+    "id": "hms_5244",
+    "chain": "はま寿司",
+    "name": "はま寿司 羽村小作台店",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "postal_code": "205-0001",
+    "address": "東京都羽村市小作台2-3-3",
+    "phone": "0570-081-981",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/5244.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.780955,139.2980467"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.855008960042,
+     35.7795487388843
+    ]
+   },
+   "properties": {
+    "id": "hms_4328",
+    "chain": "はま寿司",
+    "name": "はま寿司 葛飾水元店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0035",
+    "address": "東京都葛飾区南水元2-12-11",
+    "phone": "0570-081-413",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4328.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7795487388843,139.855008960042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.857061515003,
+     35.726393071412
+    ]
+   },
+   "properties": {
+    "id": "hms_4547",
+    "chain": "はま寿司",
+    "name": "はま寿司 東新小岩店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0023",
+    "address": "東京都葛飾区東新小岩7-32-8",
+    "phone": "0570-081-830",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4547.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.726393071412,139.857061515003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.559530819031,
+     35.7593321289438
+    ]
+   },
+   "properties": {
+    "id": "hms_4534",
+    "chain": "はま寿司",
+    "name": "はま寿司 西東京北町店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "202-0003",
+    "address": "東京都西東京市北町3-5-10",
+    "phone": "0570-081-770",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4534.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7593321289438,139.559530819031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.827048022528,
+     35.7779484216526
+    ]
+   },
+   "properties": {
+    "id": "hms_4226",
+    "chain": "はま寿司",
+    "name": "はま寿司 加平店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0055",
+    "address": "東京都足立区加平2-4-18",
+    "phone": "0570-081-178",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4226.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7779484216526,139.827048022528"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.795624499085,
+     35.7422316930519
+    ]
+   },
+   "properties": {
+    "id": "hms_4364",
+    "chain": "はま寿司",
+    "name": "はま寿司 ポンテポルタ千住店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0038",
+    "address": "東京都足立区千住橋戸町1-13",
+    "phone": "0570-081-508",
+    "hours": "月-金 11:00-23:00 土日祝 10:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4364.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7422316930519,139.795624499085"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8413303,
+     35.7665837
+    ]
+   },
+   "properties": {
+    "id": "hms_5214",
+    "chain": "はま寿司",
+    "name": "はま寿司 足立東和店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0003",
+    "address": "東京都足立区東和2-1-12",
+    "phone": "0570-081-922",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ベビーシート あり / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/5214.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7665837,139.8413303"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.811007720747,
+     35.8073997135649
+    ]
+   },
+   "properties": {
+    "id": "hms_4412",
+    "chain": "はま寿司",
+    "name": "はま寿司 足立花畑店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0061",
+    "address": "東京都足立区花畑5-13-2",
+    "phone": "0570-081-633",
+    "hours": "毎日 10:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / 回転レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4412.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.8073997135649,139.811007720747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.750169364206,
+     35.7788828121789
+    ]
+   },
+   "properties": {
+    "id": "hms_4194",
+    "chain": "はま寿司",
+    "name": "はま寿司 鹿浜店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0864",
+    "address": "東京都足立区鹿浜2-2-2",
+    "phone": "0570-081-094",
+    "hours": "毎日 10:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / ストレート レーン / レーンオーダーあり / お1人様用 カウンターあり / 車いす席あり / 多目的トイレあり / AUTO SHOCK AEDあり / クレジットカード利用可",
+    "official_url": "https://maps.hama-sushi.co.jp/jp/detail/4194.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7788828121789,139.750169364206"
+   }
+  }
+ ]
+}

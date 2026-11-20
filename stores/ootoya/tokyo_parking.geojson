@@ -1,0 +1,725 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6356064,
+     35.6513616
+    ]
+   },
+   "properties": {
+    "id": "oty_27331",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 経堂コルティ店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "",
+    "address": "東京都世田谷区 経堂2-1-33 経堂コルティ4F",
+    "phone": "03-5799-4929",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / 無料Wi-Fiあり / スマホ注文 / クレジットカード / QRコード決済 / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27331/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6513616,139.6356064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6616888,
+     35.706818
+    ]
+   },
+   "properties": {
+    "id": "oty_27291",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 中野セントラルパーク店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "",
+    "address": "東京都中野区 中野4-10-2中野セントラルパーク南棟2F",
+    "phone": "03-5942-5062",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / 無料Wi-Fiあり / スマホ注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27291/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.706818,139.6616888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.66169,
+     35.70698
+    ]
+   },
+   "properties": {
+    "id": "oty_116248",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 中野マルイ店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "",
+    "address": "東京都中野区中野3丁目34-28 中野マルイ5階",
+    "phone": "03-6382-5035",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / 禁煙 / 2階以上店舗 / エレベーターあり / 無料Wi-Fiあり / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/116248/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70698,139.66169"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3387939,
+     35.6573288
+    ]
+   },
+   "properties": {
+    "id": "oty_27317",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 八王子オクトーレ店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "",
+    "address": "東京都八王子市 旭町9-1 八王子オクトーレ9F",
+    "phone": "042-643-8910",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / 無料Wi-Fiあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27317/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6573288,139.3387939"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7664624,
+     35.6841083
+    ]
+   },
+   "properties": {
+    "id": "oty_27240",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 新丸の内センタービル店",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "postal_code": "",
+    "address": "東京都千代田区 丸の内1-6-2新丸の内センタービルディング3F",
+    "phone": "03-3216-1975",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-21:30 / 日 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / コーヒードリンクバーのみ / 禁煙 / 2階以上店舗 / 無料Wi-Fiあり / スマホ注文 / セルフレジ / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27240/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6841083,139.7664624"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7342746,
+     35.6055784
+    ]
+   },
+   "properties": {
+    "id": "oty_27318",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 阪急大井町ガーデン店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "",
+    "address": "東京都品川区 大井1-50-5 阪急大井町ガーデン2F",
+    "phone": "03-6429-9636",
+    "hours": "月 06:30-10:00,11:00-23:00 / 火 06:30-10:00,11:00-23:00 / 水 06:30-10:00,11:00-23:00 / 木 06:30-10:00,11:00-23:00 / 金 06:30-10:00,11:00-23:00 / 土 06:30-10:00,11:00-23:00 / 日 06:30-10:00,11:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / タッチパネル注文 / 朝食あり / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27318/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6055784,139.7342746"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7313854,
+     35.6188486
+    ]
+   },
+   "properties": {
+    "id": "oty_27275",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 ゲートシティ大崎店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "",
+    "address": "東京都品川区 大崎1-11-1 ゲートシティ大崎B1F",
+    "phone": "03-3490-2925",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 地下店舗 / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27275/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6188486,139.7313854"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.813704,
+     35.6950356
+    ]
+   },
+   "properties": {
+    "id": "oty_27257",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 丸井錦糸町店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "",
+    "address": "東京都墨田区 江東橋3-9-10 丸井錦糸町店7F",
+    "phone": "03-6284-0555",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / 無料Wi-Fiあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27257/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6950356,139.813704"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4747994,
+     35.7302783
+    ]
+   },
+   "properties": {
+    "id": "oty_65939",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 小平店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "",
+    "address": "東京都小平市 小川町2-1311",
+    "phone": "042-313-6306",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 無料Wi-Fiあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/65939/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7302783,139.4747994"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6894173,
+     35.6961562
+    ]
+   },
+   "properties": {
+    "id": "oty_23103",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 新宿フロントタワー店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "",
+    "address": "東京都新宿区 北新宿2-21-1新宿フロントタワー2F",
+    "phone": "03-5937-0272",
+    "hours": "月 10:00-21:30 / 火 10:00-21:30 / 水 10:00-21:30 / 木 10:00-21:30 / 金 10:00-21:30 / 土 10:00-21:30 / 日 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / コーヒードリンクバーのみ / 禁煙 / 2階以上店舗 / 無料Wi-Fiあり / スマホ注文 / セルフレジ / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/23103/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6961562,139.6894173"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6867214,
+     35.682955
+    ]
+   },
+   "properties": {
+    "id": "oty_27417",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 東京オペラシティ店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "",
+    "address": "東京都新宿区 西新宿3-20-2 東京オペラシティビルB1F",
+    "phone": "03-6383-3374",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / コーヒードリンクバーのみ / 禁煙 / 地下店舗 / タッチパネル注文 / QRコード決済 / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27417/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.682955,139.6867214"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5068,
+     35.75421
+    ]
+   },
+   "properties": {
+    "id": "oty_129181",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "",
+    "address": "東京都東久留米市下里2丁目14-22",
+    "phone": "042-420-4180",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 無料Wi-Fiあり / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/129181/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.75421,139.5068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4366098,
+     35.7423896
+    ]
+   },
+   "properties": {
+    "id": "oty_81054",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 東大和店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "",
+    "address": "東京都東大和市 向原3丁目2-10",
+    "phone": "042-843-6767",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 無料Wi-Fiあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/81054/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7423896,139.4366098"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8351728,
+     35.6653072
+    ]
+   },
+   "properties": {
+    "id": "oty_27211",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 南砂町SCスナモ店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "",
+    "address": "東京都江東区 新砂3-4-31南砂町ショッピングセンターSUNAMO 4F",
+    "phone": "03-6666-0408",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / エレベーターあり / 無料Wi-Fiあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27211/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6653072,139.8351728"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8144197,
+     35.6751779
+    ]
+   },
+   "properties": {
+    "id": "oty_27212",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 東陽町イースト21店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "",
+    "address": "東京都江東区 東陽6-3-2イースト21ビル1F",
+    "phone": "03-5690-1033",
+    "hours": "月 11:00-23:00 / 火 11:00-23:00 / 水 11:00-23:00 / 木 11:00-23:00 / 金 11:00-23:00 / 土 11:00-23:00 / 日 11:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 無料Wi-Fiあり / スマホ注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27212/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6751779,139.8144197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.800045,
+     35.6650823
+    ]
+   },
+   "properties": {
+    "id": "oty_27428",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 越中島店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "",
+    "address": "東京都江東区 越中島3-6-15",
+    "phone": "03-6458-5901",
+    "hours": "月 11:00-21:30 / 火 11:00-21:30 / 水 11:00-21:30 / 木 11:00-21:30 / 金 11:00-21:30 / 土 11:00-21:30 / 日 11:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 無料Wi-Fiあり / スマホ注文 / セルフレジ / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27428/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6650823,139.800045"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.829417,
+     35.69523
+    ]
+   },
+   "properties": {
+    "id": "oty_151426",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 カメイドクロック店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "",
+    "address": "東京都江東区亀戸六丁目31番6 KAMEIDO CLOCK1階",
+    "phone": "03-5875-2700",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / タッチパネル注文 / セルフレジ / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/151426/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69523,139.829417"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7406906,
+     35.6260302
+    ]
+   },
+   "properties": {
+    "id": "oty_27282",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 品川グランパサージュ店",
+    "prefecture": "東京都",
+    "city": "港区",
+    "postal_code": "",
+    "address": "東京都港区 港南２丁目16-3 品川グランパサージュ地下1F",
+    "phone": "03-6718-2766",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-21:30 / 日 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / コーヒードリンクバーのみ / 禁煙 / 地下店舗 / 無料Wi-Fiあり / スマホ注文 / セルフレジ / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27282/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6260302,139.7406906"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3352882,
+     35.7228185
+    ]
+   },
+   "properties": {
+    "id": "oty_27209",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 熊川店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "",
+    "address": "東京都福生市 熊川645-1",
+    "phone": "042-843-7350",
+    "hours": "月 10:00-22:30 / 火 10:00-22:30 / 水 10:00-22:30 / 木 10:00-22:30 / 金 10:00-22:30 / 土 10:00-22:30 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 無料Wi-Fiあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27209/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7228185,139.3352882"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4147374,
+     35.6972684
+    ]
+   },
+   "properties": {
+    "id": "oty_27287",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 グランデュオ立川店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "",
+    "address": "東京都立川市 柴崎町3-2-1グランデュオ立川7F",
+    "phone": "042-540-2225",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / 無料Wi-Fiあり / タッチパネル注文 / クレジットカード / QRコード決済 / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27287/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6972684,139.4147374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8018824,
+     35.7354794
+    ]
+   },
+   "properties": {
+    "id": "oty_27378",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 LaLaテラス南千住店",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "postal_code": "",
+    "address": "東京都荒川区 南千住4-7-2 ララテラス南千住2F",
+    "phone": "03-5811-5531",
+    "hours": "月 11:00-21:30 / 火 11:00-21:30 / 水 11:00-21:30 / 木 11:00-21:30 / 金 11:00-21:30 / 土 11:00-21:30 / 日 11:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / エレベーターあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27378/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7354794,139.8018824"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8524859,
+     35.7635983
+    ]
+   },
+   "properties": {
+    "id": "oty_101002",
+    "chain": "大戸屋",
+    "name": "大戸屋 ごはん処アリオ亀有店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "",
+    "address": "東京都葛飾区 亀有３丁目４９−３",
+    "phone": "03-6662-4008",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / エレベーターあり / フードコート型店舗 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/101002/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7635983,139.8524859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2749441,
+     35.7344247
+    ]
+   },
+   "properties": {
+    "id": "oty_51504",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 イオンモール日の出店",
+    "prefecture": "東京都",
+    "city": "西多摩郡 日の出町",
+    "postal_code": "",
+    "address": "東京都西多摩郡 日の出町平井字三吉野桜木237番地3号 イオンモール日の出3F",
+    "phone": "042-588-4080",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / 禁煙 / 2階以上店舗 / エレベーターあり / フードコート型店舗 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/51504/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7344247,139.2749441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7895925,
+     35.7757751
+    ]
+   },
+   "properties": {
+    "id": "oty_27424",
+    "chain": "大戸屋",
+    "name": "大戸屋ごはん処 パサージオ西新井店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "",
+    "address": "東京都足立区 西新井栄町1-17-1 パサージオ西新井4F",
+    "phone": "03-5888-6677",
+    "hours": "月 11:00-22:30 / 火 11:00-22:30 / 水 11:00-22:30 / 木 11:00-22:30 / 金 11:00-22:30 / 土 11:00-22:30 / 日 11:00-22:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場 / ドリンクバー / 禁煙 / 2階以上店舗 / エレベーターあり / タッチパネル注文 / クレジットカード / QRコード決済 / 電子マネー / 交通系電子マネー",
+    "official_url": "https://store.ootoya.com/detail/27424/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7757751,139.7895925"
+   }
+  }
+ ]
+}

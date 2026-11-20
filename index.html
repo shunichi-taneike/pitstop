@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>駐車場あり店舗マップ</title>
+<style>
+  :root {
+    --accent: #e8590c;
+    --bg: #fff;
+    --fg: #222;
+    --muted: #666;
+    --line: #e5e5e5;
+    --hover: #fff4ec;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; color: var(--fg); background: var(--bg); }
+  .app { display: flex; height: 100%; }
+  aside { width: 360px; display: flex; flex-direction: column; border-right: 1px solid var(--line); }
+  #map { flex: 1; }
+  header { padding: 12px 16px; border-bottom: 1px solid var(--line); }
+  h1 { font-size: 16px; margin: 0 0 8px; }
+  .controls { display: grid; gap: 8px; }
+  .controls input[type=search], .controls select { width: 100%; padding: 6px 8px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chips label { font-size: 13px; padding: 4px 8px; border: 1px solid #ccc; border-radius: 999px; cursor: pointer; user-select: none; }
+  .chips input { display: none; }
+  .chips label:has(input:checked) { background: var(--accent); border-color: var(--accent); color: #fff; }
+  button#locate { padding: 8px; font-size: 14px; border: 0; border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+  button#locate:disabled { opacity: .6; cursor: default; }
+  .status { font-size: 12px; color: var(--muted); }
+  ul#list { list-style: none; margin: 0; padding: 0; overflow-y: auto; flex: 1; }
+  #list li { padding: 10px 16px; border-bottom: 1px solid var(--line); cursor: pointer; }
+  #list li:hover, #list li.active { background: var(--hover); }
+  .name { font-weight: 600; font-size: 14px; }
+  .addr { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .dist { float: right; font-size: 12px; color: var(--accent); font-weight: 600; }
+  .tags { margin-top: 4px; display: flex; gap: 4px; flex-wrap: wrap; }
+  .tag { font-size: 11px; padding: 1px 6px; border-radius: 4px; background: #f1f1f1; color: #444; }
+  /* チェーン切り替え */
+  .chains { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
+  .chains label { white-space: nowrap; overflow: hidden; }
+  .chains label { flex: 1; display: flex; align-items: center; gap: 6px; padding: 6px 8px; font-size: 13px; font-weight: 600;
+                  border: 2px solid #ddd; border-radius: 8px; cursor: pointer; user-select: none; opacity: .5; transition: opacity .15s, border-color .15s; }
+  .chains label:has(input:checked) { opacity: 1; border-color: var(--chain-color); }
+  .chains input { display: none; }
+  .chains img { width: 22px; height: 22px; border-radius: 5px; }
+  .chains .cnt { margin-left: auto; font-size: 11px; font-weight: 400; color: var(--muted); }
+  .name img { width: 16px; height: 16px; border-radius: 3px; vertical-align: -3px; margin-right: 4px; }
+  /* 店舗ピン：ロゴ＋白フチ＋しっぽ */
+  .ypin { position: relative; display: flex; flex-direction: column; align-items: center; cursor: pointer;
+          transform-origin: 50% 100%; transition: transform .15s ease; filter: drop-shadow(0 2px 3px rgba(0,0,0,.35)); }
+  .ypin:hover { transform: scale(1.15); }
+  .ypin.active { transform: scale(1.35); z-index: 1; }
+  .ypin img { width: 36px; height: 36px; display: block; border-radius: 9px; border: 2px solid #fff; background: #fff; }
+  .ypin::after { content: ""; width: 0; height: 0; margin-top: -1px;
+                 border-left: 7px solid transparent; border-right: 7px solid transparent; border-top: 9px solid #fff; }
+  .ypin .badge { position: absolute; top: -6px; right: -10px; font-size: 9px; font-weight: 700; line-height: 1;
+                 padding: 2px 4px; border-radius: 999px; background: #222; color: #fff; border: 1.5px solid #fff; }
+  .iw { font-size: 13px; line-height: 1.5; max-width: 280px; }
+  .iw b { font-size: 14px; }
+  .iw .hours { font-size: 12px; color: var(--muted); }
+  .iw a { color: var(--accent); }
+  @media (max-width: 720px) {
+    .app { flex-direction: column-reverse; }
+    aside { width: 100%; height: 50%; border-right: 0; border-top: 1px solid var(--line); }
+    #map { height: 50%; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <header>
+      <h1>駐車場あり店舗マップ（東京都）</h1>
+      <div class="controls">
+        <div class="chains" id="chains"></div>
+        <input type="search" id="q" placeholder="店名・住所で検索">
+        <select id="city"><option value="">すべての市区町村</option></select>
+        <div class="chips">
+          <label><input type="checkbox" data-key="is_24h">24時間営業</label>
+          <label><input type="checkbox" data-key="drive_thru">ドライブスルー</label>
+          <label><input type="checkbox" data-key="kids_menu">お子様メニュー</label>
+          <label title="丸亀製麺は公式データにテーブル席の情報がないため、選ぶと表示されません"><input type="checkbox" data-key="table_seats">テーブル席</label>
+        </div>
+        <button id="locate">現在地から近い順に並べる</button>
+        <div class="status" id="status"></div>
+      </div>
+    </header>
+    <ul id="list"></ul>
+  </aside>
+  <div id="map"></div>
+</div>
+
+<script src="stores.js"></script>
+<script>
+  // Google Maps JS API ブートストラップローダー（公式）
+  (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
+    key: "AIzaSyDfGjLw6j7wOet8RBLqtd6PCHxdjHAWcr8",
+    v: "weekly",
+    language: "ja",
+    region: "JP",
+  });
+</script>
+<script>
+const STORES = window.STORES || [];
+// チェーン名 → { icon, color }。stores/<chain>/meta.json と icon.* から build_stores_js.mjs が生成する
+const CHAINS = window.CHAINS || {};
+const TAG_LABELS = { is_24h: "24h", drive_thru: "ドライブスルー", kids_menu: "お子様メニュー", table_seats: "テーブル席" };
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+let map, infoWindow, here = null, hereMarker = null, activeId = null;
+const markers = new Map(); // id -> AdvancedMarkerElement
+
+function haversineKm(a, b) {
+  const R = 6371, toRad = (d) => (d * Math.PI) / 180;
+  const dLat = toRad(b.lat - a.lat), dLng = toRad(b.lng - a.lng);
+  const x = Math.sin(dLat / 2) ** 2 + Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(x));
+}
+
+function filtered() {
+  const q = $("#q").value.trim();
+  const city = $("#city").value;
+  const keys = [...document.querySelectorAll(".chips input:checked")].map((i) => i.dataset.key);
+  const chains = new Set([...document.querySelectorAll("#chains input:checked")].map((i) => i.value));
+  let rows = STORES.filter((s) =>
+    chains.has(s.chain) &&
+    (!q || s.name.includes(q) || s.address.includes(q)) &&
+    (!city || s.city === city) &&
+    keys.every((k) => s[k])
+  );
+  if (here) {
+    rows = rows.map((s) => ({ ...s, km: haversineKm(here, s) })).sort((a, b) => a.km - b.km);
+  }
+  return rows;
+}
+
+function infoHtml(s) {
+  const nav = `https://www.google.com/maps/dir/?api=1&destination=${s.lat},${s.lng}`;
+  return `<div class="iw"><b>${esc(s.name)}</b><br>${esc(s.address)}<br>
+    TEL: <a href="tel:${esc(s.phone)}">${esc(s.phone)}</a><br>
+    <div class="hours">${esc(s.hours).replaceAll(" / ", "<br>")}</div>
+    ${s.facilities ? `<div class="hours">設備: ${esc(s.facilities)}</div>` : ""}
+    <a href="${esc(s.url)}" target="_blank" rel="noopener">公式ページ</a> ・
+    <a href="${nav}" target="_blank" rel="noopener">ここへのルート</a></div>`;
+}
+
+function openStore(s, pan = true) {
+  const m = markers.get(s.id);
+  activeId = s.id;
+  infoWindow.setContent(infoHtml(s));
+  infoWindow.open({ map, anchor: m });
+  if (pan) { map.panTo({ lat: s.lat, lng: s.lng }); if (map.getZoom() < 14) map.setZoom(14); }
+  document.querySelectorAll("#list li").forEach((li) => li.classList.toggle("active", li.dataset.id === s.id));
+  markers.forEach((mk, id) => { mk.content.classList.toggle("active", id === s.id); mk.zIndex = id === s.id ? 1000 : null; });
+}
+
+function render() {
+  const rows = filtered();
+  const visible = new Set(rows.map((s) => s.id));
+  markers.forEach((m, id) => { m.map = visible.has(id) ? map : null; });
+  if (activeId && !visible.has(activeId)) { infoWindow.close(); activeId = null; }
+
+  $("#list").innerHTML = rows.map((s) => `
+    <li data-id="${s.id}" class="${s.id === activeId ? "active" : ""}">
+      ${s.km != null ? `<span class="dist">${s.km.toFixed(1)} km</span>` : ""}
+      <div class="name"><img src="${CHAINS[s.chain]?.icon ?? ""}" alt="">${esc(s.name)}</div>
+      <div class="addr">${esc(s.address)}</div>
+      <div class="tags">${Object.keys(TAG_LABELS).filter((k) => s[k]).map((k) => `<span class="tag">${TAG_LABELS[k]}</span>`).join("")}</div>
+    </li>`).join("");
+  $("#status").textContent = `${rows.length} / ${STORES.length} 店舗` + (here ? "（現在地から近い順）" : "");
+}
+
+function fitTo(rows) {
+  if (!rows.length) return;
+  const b = new google.maps.LatLngBounds();
+  rows.forEach((s) => b.extend({ lat: s.lat, lng: s.lng }));
+  if (here) b.extend(here);
+  map.fitBounds(b, 40);
+}
+
+async function locate(AdvancedMarkerElement) {
+  const btn = $("#locate");
+  if (!navigator.geolocation) { $("#status").textContent = "このブラウザは位置情報に対応していません"; return; }
+  btn.disabled = true; btn.textContent = "現在地を取得中…";
+  navigator.geolocation.getCurrentPosition((pos) => {
+    here = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+    const dot = document.createElement("div");
+    dot.style.cssText = "width:16px;height:16px;border-radius:50%;background:#1a73e8;border:3px solid #fff;box-shadow:0 0 0 1px #1a73e8";
+    if (hereMarker) hereMarker.map = null;
+    hereMarker = new AdvancedMarkerElement({ map, position: here, content: dot, title: "現在地" });
+    btn.disabled = false; btn.textContent = "現在地を更新";
+    render();
+    fitTo(filtered().slice(0, 5));
+  }, (err) => {
+    btn.disabled = false; btn.textContent = "現在地から近い順に並べる";
+    $("#status").textContent = "現在地を取得できませんでした: " + err.message;
+  }, { enableHighAccuracy: true, timeout: 10000 });
+}
+
+async function init() {
+  const { Map, InfoWindow } = await google.maps.importLibrary("maps");
+  const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+
+  map = new Map($("#map"), {
+    center: { lat: 35.69, lng: 139.5 }, zoom: 10,
+    mapId: "DEMO_MAP_ID", // 本番では Cloud Console で作成した Map ID に差し替え
+    mapTypeControl: false, streetViewControl: false,
+  });
+  infoWindow = new InfoWindow({ pixelOffset: new google.maps.Size(0, -6) });
+  infoWindow.addListener("closeclick", () => {
+    activeId = null;
+    markers.forEach((mk) => { mk.content.classList.remove("active"); mk.zIndex = null; });
+    document.querySelectorAll("#list li.active").forEach((li) => li.classList.remove("active"));
+  });
+
+  for (const s of STORES) {
+    const pin = document.createElement("div");
+    pin.className = "ypin";
+    pin.innerHTML = `<img src="${CHAINS[s.chain]?.icon ?? ""}" alt="">` + (s.is_24h ? `<span class="badge">24h</span>` : "");
+    const m = new AdvancedMarkerElement({ map, position: { lat: s.lat, lng: s.lng }, title: s.name, content: pin });
+    m.addListener("click", () => openStore(s, false));
+    markers.set(s.id, m);
+  }
+
+  for (const [name, c] of Object.entries(CHAINS)) {
+    const n = STORES.filter((s) => s.chain === name).length;
+    if (!n) continue;
+    $("#chains").insertAdjacentHTML("beforeend",
+      `<label style="--chain-color:${c.color}"><input type="checkbox" value="${esc(name)}" checked>` +
+      `<img src="${c.icon}" alt="">${esc(name)}<span class="cnt">${n}</span></label>`);
+  }
+  [...new Set(STORES.map((s) => s.city))].sort((a, b) => a.localeCompare(b, "ja")).forEach((c) => {
+    $("#city").insertAdjacentHTML("beforeend", `<option>${esc(c)}</option>`);
+  });
+
+  const onFilter = () => { render(); fitTo(filtered()); };
+  $("#q").addEventListener("input", render);
+  $("#city").addEventListener("change", onFilter);
+  document.querySelectorAll(".chips input, #chains input").forEach((i) => i.addEventListener("change", onFilter));
+  $("#locate").addEventListener("click", () => locate(AdvancedMarkerElement));
+  $("#list").addEventListener("click", (e) => {
+    const li = e.target.closest("li"); if (!li) return;
+    const s = STORES.find((x) => x.id === li.dataset.id); if (s) openStore(s);
+  });
+
+  render();
+  fitTo(STORES);
+}
+
+init().catch((e) => { $("#status").textContent = "地図の読み込みに失敗しました: " + e.message; console.error(e); });
+</script>
+</body>
+</html>

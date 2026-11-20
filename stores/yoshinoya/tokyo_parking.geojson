@@ -1,0 +1,1055 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622126,
+     35.670918
+    ]
+   },
+   "properties": {
+    "id": "ysn_041423",
+    "chain": "吉野家",
+    "name": "吉野家 上北沢店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "156-0057",
+    "address": "東京都世田谷区上北沢5丁目2-4",
+    "phone": "03-5374-7309",
+    "hours": "月 0:00-1:00,5:00-24:00 / 火 0:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041423",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.670918,139.622126"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.350999,
+     35.66252
+    ]
+   },
+   "properties": {
+    "id": "ysn_041895",
+    "chain": "吉野家",
+    "name": "吉野家 八王子大和田店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0045",
+    "address": "東京都八王子市大和田5丁目3-3",
+    "phone": "042-660-8088",
+    "hours": "月 8:00-1:00 / 火 8:00-1:00 / 水 8:00-1:00 / 木 8:00-1:00 / 金 8:00-1:00 / 土 8:00-1:00 / 日 8:00-1:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041895",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66252,139.350999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.374375,
+     35.680167
+    ]
+   },
+   "properties": {
+    "id": "ysn_041903",
+    "chain": "吉野家",
+    "name": "吉野家 石川パーキングエリア店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0032",
+    "address": "東京都八王子市石川町956-2",
+    "phone": "042-646-3802",
+    "hours": "月 0:00-24:00 / 火 0:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "24時間営業 / テイクアウト / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041903",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.680167,139.374375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.352231,
+     35.649203
+    ]
+   },
+   "properties": {
+    "id": "ysn_061408",
+    "chain": "吉野家",
+    "name": "吉野家 １６号線八王子北野店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0906",
+    "address": "東京都八王子市北野町574-1",
+    "phone": "042-631-5117",
+    "hours": "月 5:00-2:00 / 火 5:00-2:00 / 水 5:00-2:00 / 木 5:00-2:00 / 金 5:00-2:00 / 土 5:00-2:00 / 日 5:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061408",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.649203,139.352231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.350574,
+     35.682301
+    ]
+   },
+   "properties": {
+    "id": "ysn_041480",
+    "chain": "吉野家",
+    "name": "吉野家 １６号線八王子宇津木店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0024",
+    "address": "東京都八王子市宇津木町709",
+    "phone": "042-696-5005",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 8:00-22:00 / 日 8:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041480",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.682301,139.350574"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.451572,
+     35.716768
+    ]
+   },
+   "properties": {
+    "id": "ysn_041479",
+    "chain": "吉野家",
+    "name": "吉野家 五日市街道並木町店",
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "postal_code": "185-0005",
+    "address": "東京都国分寺市並木町2丁目23-7",
+    "phone": "042-359-8229",
+    "hours": "月 8:00-23:00 / 火 8:00-23:00 / 水 8:00-23:00 / 木 8:00-23:00 / 金 8:00-23:00 / 土 8:00-23:00 / 日 8:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041479",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.716768,139.451572"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.445087,
+     35.676129
+    ]
+   },
+   "properties": {
+    "id": "ysn_041456",
+    "chain": "吉野家",
+    "name": "吉野家 国立府中インター店",
+    "prefecture": "東京都",
+    "city": "国立市",
+    "postal_code": "186-0011",
+    "address": "東京都国立市谷保620-1",
+    "phone": "042-580-3876",
+    "hours": "月 5:00-2:00 / 火 5:00-2:00 / 水 5:00-2:00 / 木 5:00-2:00 / 金 5:00-2:00 / 土 5:00-2:00 / 日 5:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041456",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.676129,139.445087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.507,
+     35.689508
+    ]
+   },
+   "properties": {
+    "id": "ysn_061372",
+    "chain": "吉野家",
+    "name": "吉野家 小金井店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0013",
+    "address": "東京都小金井市前原町4丁目13-7",
+    "phone": "042-382-5221",
+    "hours": "水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061372",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.689508,139.507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.458431,
+     35.662242
+    ]
+   },
+   "properties": {
+    "id": "ysn_041408",
+    "chain": "吉野家",
+    "name": "吉野家 府中中河原店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0034",
+    "address": "東京都府中市住吉町1丁目20-1",
+    "phone": "042-352-7007",
+    "hours": "月 4:00-2:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041408",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.662242,139.458431"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.504701,
+     35.670053
+    ]
+   },
+   "properties": {
+    "id": "ysn_061450",
+    "chain": "吉野家",
+    "name": "吉野家 甲州街道府中白糸台店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0005",
+    "address": "東京都府中市若松町1丁目25-6",
+    "phone": "042-310-9710",
+    "hours": "月 0:00-24:00 / 火 0:00-1:00,5:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061450",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.670053,139.504701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.38104,
+     35.662151
+    ]
+   },
+   "properties": {
+    "id": "ysn_061514",
+    "chain": "吉野家",
+    "name": "吉野家 イオンモール多摩平の森店（テイクアウト・デリバリー専門店）",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0062",
+    "address": "東京都日野市多摩平2丁目4-1イオンモール多摩平の森 1F",
+    "phone": "042-518-8829",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": false,
+    "takeout_only": true,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061514",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.662151,139.38104"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.348543,
+     35.706816
+    ]
+   },
+   "properties": {
+    "id": "ysn_041490",
+    "chain": "吉野家",
+    "name": "吉野家 １６号線昭島緑町店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0004",
+    "address": "東京都昭島市緑町3丁目5-14",
+    "phone": "042-549-7048",
+    "hours": "月 5:00-3:00 / 火 5:00-3:00 / 水 5:00-3:00 / 木 5:00-3:00 / 金 5:00-3:00 / 土 5:00-3:00 / 日 5:00-3:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / ドライブスルー / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041490",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.706816,139.348543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.509981,
+     35.738809
+    ]
+   },
+   "properties": {
+    "id": "ysn_061381",
+    "chain": "吉野家",
+    "name": "吉野家 新青梅街道島忠小平店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0032",
+    "address": "東京都東久留米市前沢5丁目33-17島忠家具センター1F",
+    "phone": "042-452-1061",
+    "hours": "月 8:00-23:00 / 火 8:00-23:00 / 水 8:00-23:00 / 木 8:00-23:00 / 金 8:00-23:00 / 土 8:00-23:00 / 日 8:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061381",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.738809,139.509981"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.506849,
+     35.75688
+    ]
+   },
+   "properties": {
+    "id": "ysn_061442",
+    "chain": "吉野家",
+    "name": "吉野家 東久留米下里店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0043",
+    "address": "東京都東久留米市下里1丁目10-4",
+    "phone": "042-479-4016",
+    "hours": "月 0:00-24:00 / 火 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / 24時間営業 / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061442",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.75688,139.506849"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.418214,
+     35.746795
+    ]
+   },
+   "properties": {
+    "id": "ysn_061322",
+    "chain": "吉野家",
+    "name": "吉野家 新青梅街道東大和店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0032",
+    "address": "東京都東大和市蔵敷3丁目889-1",
+    "phone": "042-590-5883",
+    "hours": "月 4:00-2:00 / 火 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061322",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.746795,139.418214"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652856,
+     35.78477
+    ]
+   },
+   "properties": {
+    "id": "ysn_041446",
+    "chain": "吉野家",
+    "name": "吉野家 高島平大門店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0082",
+    "address": "東京都板橋区高島平3丁目3-2",
+    "phone": "03-5968-4335",
+    "hours": "月 4:00-2:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041446",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.78477,139.652856"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.362999,
+     35.760562
+    ]
+   },
+   "properties": {
+    "id": "ysn_041368",
+    "chain": "吉野家",
+    "name": "吉野家 武蔵村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0035",
+    "address": "東京都武蔵村山市中原3丁目1-2",
+    "phone": "042-520-7022",
+    "hours": "月 0:00-24:00 / 火 0:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / 24時間営業 / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / ドライブスルー / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041368",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.760562,139.362999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.886945,
+     35.728417
+    ]
+   },
+   "properties": {
+    "id": "ysn_061342",
+    "chain": "吉野家",
+    "name": "吉野家 千葉街道南小岩店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0056",
+    "address": "東京都江戸川区南小岩8丁目2-20",
+    "phone": "03-5889-8950",
+    "hours": "月 0:00-24:00 / 火 0:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / 24時間営業 / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061342",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.728417,139.886945"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.868959,
+     35.706299
+    ]
+   },
+   "properties": {
+    "id": "ysn_061449",
+    "chain": "吉野家",
+    "name": "吉野家 江戸川区役所前店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0021",
+    "address": "東京都江戸川区中央1丁目12-8",
+    "phone": "03-5879-2273",
+    "hours": "月 7:00-22:00 / 火 7:00-22:00 / 水 7:00-22:00 / 木 7:00-22:00 / 金 7:00-22:00 / 土 7:00-22:00 / 日 7:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061449",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.706299,139.868959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.903852,
+     35.703807
+    ]
+   },
+   "properties": {
+    "id": "ysn_061383",
+    "chain": "吉野家",
+    "name": "吉野家 １４号線篠崎店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0061",
+    "address": "東京都江戸川区篠崎町7丁目22-18",
+    "phone": "03-5664-3639",
+    "hours": "月 4:00-2:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061383",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.703807,139.903852"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.864658,
+     35.702274
+    ]
+   },
+   "properties": {
+    "id": "ysn_061374",
+    "chain": "吉野家",
+    "name": "吉野家 １４号線西小松川店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0032",
+    "address": "東京都江戸川区西小松川町37-5",
+    "phone": "03-5661-3655",
+    "hours": "月 4:00-2:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061374",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.702274,139.864658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.825314,
+     35.645964
+    ]
+   },
+   "properties": {
+    "id": "ysn_041420",
+    "chain": "吉野家",
+    "name": "吉野家 新木場駅前店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0082",
+    "address": "東京都江東区新木場1丁目1-1",
+    "phone": "03-5569-7072",
+    "hours": "月 0:00-24:00 / 火 0:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": false,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / 24時間営業 / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041420",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.645964,139.825314"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.467587,
+     35.524905
+    ]
+   },
+   "properties": {
+    "id": "ysn_061367",
+    "chain": "吉野家",
+    "name": "吉野家 町田小川店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0003",
+    "address": "東京都町田市小川3丁目2-1",
+    "phone": "042-706-1357",
+    "hours": "月 8:00-23:00 / 火 8:00-23:00 / 水 8:00-23:00 / 木 8:00-23:00 / 金 8:00-23:00 / 土 8:00-23:00 / 日 8:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061367",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.524905,139.467587"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.410456,
+     35.57828
+    ]
+   },
+   "properties": {
+    "id": "ysn_041447",
+    "chain": "吉野家",
+    "name": "吉野家 町田根岸店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0034",
+    "address": "東京都町田市根岸町1019-8",
+    "phone": "042-789-5630",
+    "hours": "月 5:00-2:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-1:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041447",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.57828,139.410456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.35338,
+     35.601145
+    ]
+   },
+   "properties": {
+    "id": "ysn_061384",
+    "chain": "吉野家",
+    "name": "吉野家 町田街道小山町店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0212",
+    "address": "東京都町田市小山町3647-1",
+    "phone": "042-775-5129",
+    "hours": "月 7:00-22:45 / 火 7:00-22:45 / 水 7:00-22:45 / 木 7:00-22:45 / 金 7:00-22:45 / 土 7:00-22:45 / 日 7:00-22:45",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061384",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.601145,139.35338"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3298,
+     35.74154
+    ]
+   },
+   "properties": {
+    "id": "ysn_061369",
+    "chain": "吉野家",
+    "name": "吉野家 福生店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0011",
+    "address": "東京都福生市福生799-5",
+    "phone": "042-539-5138",
+    "hours": "月 8:00-22:00 / 火 8:00-22:00 / 水 8:00-22:00 / 木 8:00-22:00 / 金 8:00-22:00 / 土 8:00-22:00 / 日 8:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061369",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74154,139.3298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.514066,
+     35.64194
+    ]
+   },
+   "properties": {
+    "id": "ysn_041489",
+    "chain": "吉野家",
+    "name": "吉野家 川崎街道矢野口店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0812",
+    "address": "東京都稲城市矢野口868",
+    "phone": "042-370-3180",
+    "hours": "月 4:00-2:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / ドライブスルー / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041489",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64194,139.514066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60912,
+     35.728527
+    ]
+   },
+   "properties": {
+    "id": "ysn_041487",
+    "chain": "吉野家",
+    "name": "吉野家 下石神井千川通り店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0042",
+    "address": "東京都練馬区下石神井2丁目3-1",
+    "phone": "03-5910-8200",
+    "hours": "月 0:00-2:00,4:00-24:00 / 火 0:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041487",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.728527,139.60912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.862921,
+     35.723671
+    ]
+   },
+   "properties": {
+    "id": "ysn_041497",
+    "chain": "吉野家",
+    "name": "吉野家 東新小岩店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0023",
+    "address": "東京都葛飾区東新小岩3丁目13-3",
+    "phone": "03-5671-3857",
+    "hours": "月 0:00-24:00 / 火 0:00-24:00 / 水 0:00-2:00,4:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041497",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.723671,139.862921"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.846968,
+     35.748718
+    ]
+   },
+   "properties": {
+    "id": "ysn_061345",
+    "chain": "吉野家",
+    "name": "吉野家 ６号線白鳥店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0063",
+    "address": "東京都葛飾区白鳥2丁目21-24",
+    "phone": "03-5629-6810",
+    "hours": "月 6:00-24:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061345",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.748718,139.846968"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.769867,
+     35.793099
+    ]
+   },
+   "properties": {
+    "id": "ysn_061320",
+    "chain": "吉野家",
+    "name": "吉野家 尾久橋通り皿沼店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0862",
+    "address": "東京都足立区皿沼3丁目32-1",
+    "phone": "03-5839-5113",
+    "hours": "月 0:00-24:00 / 火 0:00-24:00 / 水 0:00-24:00 / 木 0:00-24:00 / 金 0:00-24:00 / 土 0:00-24:00 / 日 0:00-24:00",
+    "parking": true,
+    "is_24h": true,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / 24時間営業 / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / ドライブスルー / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061320",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.793099,139.769867"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.808342,
+     35.789704
+    ]
+   },
+   "properties": {
+    "id": "ysn_061436",
+    "chain": "吉野家",
+    "name": "吉野家 足立保木間店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0064",
+    "address": "東京都足立区保木間1丁目27-1",
+    "phone": "03-5851-1370",
+    "hours": "月 5:00-3:00 / 火 5:00-3:00 / 水 5:00-3:00 / 木 5:00-3:00 / 金 5:00-3:00 / 土 5:00-3:00 / 日 5:00-3:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061436",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.789704,139.808342"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.752159,
+     35.785481
+    ]
+   },
+   "properties": {
+    "id": "ysn_061516",
+    "chain": "吉野家",
+    "name": "吉野家 足立鹿浜店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0864",
+    "address": "東京都足立区鹿浜5丁目15-10",
+    "phone": "03-5856-9299",
+    "hours": "月 4:00-2:00 / 火 4:00-2:00 / 水 4:00-2:00 / 木 4:00-2:00 / 金 4:00-2:00 / 土 4:00-2:00 / 日 4:00-2:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061516",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.785481,139.752159"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.803559,
+     35.773288
+    ]
+   },
+   "properties": {
+    "id": "ysn_061325",
+    "chain": "吉野家",
+    "name": "吉野家 ４号線梅島店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0011",
+    "address": "東京都足立区中央本町1丁目12-2",
+    "phone": "03-5681-7281",
+    "hours": "月 5:00-3:00 / 火 5:00-3:00 / 水 5:00-3:00 / 木 5:00-3:00 / 金 5:00-3:00 / 土 5:00-3:00 / 日 5:00-3:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_061325",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.773288,139.803559"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.305483,
+     35.786968
+    ]
+   },
+   "properties": {
+    "id": "ysn_041906",
+    "chain": "吉野家",
+    "name": "吉野家 青梅新町店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0024",
+    "address": "東京都青梅市新町5丁目3-14",
+    "phone": "0428-30-7277",
+    "hours": "月 7:00-23:00 / 火 7:00-23:00 / 水 7:00-23:00 / 木 7:00-23:00 / 金 7:00-23:00 / 土 7:00-23:00 / 日 7:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": true,
+    "takeout_only": false,
+    "facilities": "から揚げ / お子様メニュー / スマートフォン専用 テイクアウト事前注文 / テイクアウト / デリバリーサービス / テーブル席 / 駐車場 / 株主優待券 / Vポイント / 楽天ポイント / キャッシュレス決済 / クレジット決済",
+    "official_url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_041906",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.786968,139.305483"
+   }
+  }
+ ]
+}

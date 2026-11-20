@@ -1,0 +1,815 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.550816,
+     35.688869
+    ]
+   },
+   "properties": {
+    "id": "kty_447",
+    "chain": "かつや",
+    "name": "かつや 三鷹上連雀店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0012",
+    "address": "東京都三鷹市上連雀9-40-11",
+    "phone": "0422-24-8578",
+    "hours": "毎日 10:00-22:30(ラストオーダー22:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 18台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=447",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.688869,139.550816"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.353562,
+     35.666558
+    ]
+   },
+   "properties": {
+    "id": "kty_210",
+    "chain": "かつや",
+    "name": "かつや 八王子大和田店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0045",
+    "address": "東京都八王子市大和田町5-31-20",
+    "phone": "042-660-5329",
+    "hours": "毎日 10:30-22:00(ラストオーダー22:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 共同34台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=210",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.666558,139.353562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.391128,
+     35.623253
+    ]
+   },
+   "properties": {
+    "id": "kty_203",
+    "chain": "かつや",
+    "name": "かつや 八王子南大沢店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0362",
+    "address": "東京都八王子市松木31-21",
+    "phone": "042-678-7929",
+    "hours": "毎日 10:30-22:00(ラストオーダー22:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 24台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=203",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.623253,139.391128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.437692,
+     35.676031
+    ]
+   },
+   "properties": {
+    "id": "kty_313",
+    "chain": "かつや",
+    "name": "かつや 国立府中インター店",
+    "prefecture": "東京都",
+    "city": "国立市",
+    "postal_code": "186-0012",
+    "address": "東京都国立市泉5-15-4",
+    "phone": "042-501-2929",
+    "hours": "毎日 10:30-22:00(ラストオーダー22:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 22台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=313",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.676031,139.437692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.510551,
+     35.724106
+    ]
+   },
+   "properties": {
+    "id": "kty_702",
+    "chain": "かつや",
+    "name": "かつや 花小金井店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0003",
+    "address": "東京都小平市花小金井南町1-17-4",
+    "phone": "042-450-1020",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 19台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=702",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.724106,139.510551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.511468,
+     35.689116
+    ]
+   },
+   "properties": {
+    "id": "kty_250",
+    "chain": "かつや",
+    "name": "かつや 小金井前原店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0013",
+    "address": "東京都小金井市前原町1-7-2",
+    "phone": "042-401-2927",
+    "hours": "毎日 10:00-22:30(ラストオーダー22:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 22台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=250",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.689116,139.511468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.485571,
+     35.672144
+    ]
+   },
+   "properties": {
+    "id": "kty_1010",
+    "chain": "かつや",
+    "name": "かつや 府中緑町店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0006",
+    "address": "東京都府中市緑町1丁目12-5",
+    "phone": "042-362-5130",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 23台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=1010",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.672144,139.485571"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.34706,
+     35.707027
+    ]
+   },
+   "properties": {
+    "id": "kty_759",
+    "chain": "かつや",
+    "name": "かつや 東京昭島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0002",
+    "address": "東京都昭島市拝島町1-8",
+    "phone": "042-549-1298",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 24台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=759",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.707027,139.34706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.521606,
+     35.736327
+    ]
+   },
+   "properties": {
+    "id": "kty_796",
+    "chain": "かつや",
+    "name": "かつや 東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0031",
+    "address": "東京都東久留米市南町2-5-16",
+    "phone": "042-451-5507",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 共同",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=796",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.736327,139.521606"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.438442,
+     35.746729
+    ]
+   },
+   "properties": {
+    "id": "kty_704",
+    "chain": "かつや",
+    "name": "かつや 東大和店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0016",
+    "address": "東京都東大和市仲原3-1-7",
+    "phone": "042-590-1102",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 29台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=704",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.746729,139.438442"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.680804,
+     35.749644
+    ]
+   },
+   "properties": {
+    "id": "kty_791",
+    "chain": "かつや",
+    "name": "かつや 板橋小茂根店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "173-0037",
+    "address": "東京都板橋区小茂根2-22-7",
+    "phone": "03-6909-5626",
+    "hours": "毎日 10:00-23:30(ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 12台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=791",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.749644,139.680804"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.365996,
+     35.759532
+    ]
+   },
+   "properties": {
+    "id": "kty_175",
+    "chain": "かつや",
+    "name": "かつや 東京武蔵村山店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0031",
+    "address": "東京都武蔵村山市岸1-16-1",
+    "phone": "042-520-2299",
+    "hours": "毎日 9:30-24:30(ラストオーダー24:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / クレジットカード / 交通系IC / iD / 駐車場 23台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=175",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.759532,139.365996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.882403,
+     35.692101
+    ]
+   },
+   "properties": {
+    "id": "kty_728",
+    "chain": "かつや",
+    "name": "かつや 一之江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0024",
+    "address": "東京都江戸川区一之江4-17-11",
+    "phone": "03-5661-2840",
+    "hours": "毎日 10:00-23:30(ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 20台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=728",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.692101,139.882403"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.87546,
+     35.670725
+    ]
+   },
+   "properties": {
+    "id": "kty_808",
+    "chain": "かつや",
+    "name": "かつや 東葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0084",
+    "address": "東京都江戸川区東葛西2-6-3",
+    "phone": "03-5659-1266",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 18台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=808",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.670725,139.87546"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.893085,
+     35.701686
+    ]
+   },
+   "properties": {
+    "id": "kty_718",
+    "chain": "かつや",
+    "name": "かつや 瑞江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0011",
+    "address": "東京都江戸川区瑞江1-10-5",
+    "phone": "03-5636-4481",
+    "hours": "毎日 10:00-23:30(ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 16台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=718",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.701686,139.893085"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.419089,
+     35.574618
+    ]
+   },
+   "properties": {
+    "id": "kty_206",
+    "chain": "かつや",
+    "name": "かつや 町田忠生店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0035",
+    "address": "東京都町田市忠生1-27-1",
+    "phone": "042-789-8129",
+    "hours": "毎日 10:30-22:00(ラストオーダー22:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 16台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=206",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.574618,139.419089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.450205,
+     35.588006
+    ]
+   },
+   "properties": {
+    "id": "kty_116",
+    "chain": "かつや",
+    "name": "かつや 町田鶴川店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0063",
+    "address": "東京都町田市野津田町826",
+    "phone": "042-737-4405",
+    "hours": "毎日 10:30-23:00(ラストオーダー22:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 28台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=116",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.588006,139.450205"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.329114,
+     35.73607
+    ]
+   },
+   "properties": {
+    "id": "kty_859",
+    "chain": "かつや",
+    "name": "かつや 福生店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0023",
+    "address": "東京都福生市志茂44-3",
+    "phone": "042-539-3011",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 14台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=859",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73607,139.329114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.520998,
+     35.640522
+    ]
+   },
+   "properties": {
+    "id": "kty_390",
+    "chain": "かつや",
+    "name": "かつや 稲城矢野口店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0812",
+    "address": "東京都稲城市矢野口318",
+    "phone": "042-379-0029",
+    "hours": "毎日 10:30-23:30(ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 20台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=390",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.640522,139.520998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.592282,
+     35.719853
+    ]
+   },
+   "properties": {
+    "id": "kty_886",
+    "chain": "かつや",
+    "name": "かつや 練馬関町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0053",
+    "address": "東京都練馬区関町南1-5-2",
+    "phone": "03-6279-7791",
+    "hours": "毎日 10:00-23:30(ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 13台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=886",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.719853,139.592282"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.302858,
+     35.772912
+    ]
+   },
+   "properties": {
+    "id": "kty_809",
+    "chain": "かつや",
+    "name": "かつや 羽村店",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "postal_code": "205-0001",
+    "address": "東京都羽村市小作台5-28-7",
+    "phone": "042-570-1381",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 18台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=809",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.772912,139.302858"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.852631,
+     35.763569
+    ]
+   },
+   "properties": {
+    "id": "kty_1006",
+    "chain": "かつや",
+    "name": "かつや アリオ亀有店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0061",
+    "address": "東京都葛飾区亀有3-49-3 アリオ亀有1階フードコート",
+    "phone": "03-5647-7373",
+    "hours": "毎日 10:00-22:00(ラストオーダー21:30)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=1006",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.763569,139.852631"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.816192,
+     35.778778
+    ]
+   },
+   "properties": {
+    "id": "kty_864",
+    "chain": "かつや",
+    "name": "かつや 足立一ツ家店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0075",
+    "address": "東京都足立区一ツ家4-1-22",
+    "phone": "03-5851-1160",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 17台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=864",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.778778,139.816192"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.759277,
+     35.80375
+    ]
+   },
+   "properties": {
+    "id": "kty_1012",
+    "chain": "かつや",
+    "name": "かつや 足立入谷店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0836",
+    "address": "東京都足立区入谷8-1-35",
+    "phone": "03-5809-4886",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 18台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=1012",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.80375,139.759277"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.76414,
+     35.778096
+    ]
+   },
+   "properties": {
+    "id": "kty_746",
+    "chain": "かつや",
+    "name": "かつや 足立江北店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0872",
+    "address": "東京都足立区江北3-35-11",
+    "phone": "03-5838-0960",
+    "hours": "毎日 10:00-23:00 (ラストオーダー23:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 14台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=746",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.778096,139.76414"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.78608,
+     35.774102
+    ]
+   },
+   "properties": {
+    "id": "kty_895",
+    "chain": "かつや",
+    "name": "かつや アリオ西新井店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0843",
+    "address": "東京都足立区西新井栄町20-1 アリオ西新井1F",
+    "phone": "03-5888-6191",
+    "hours": "毎日 10:00-21:00 (ラストオーダー20:30)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / ネット注文 / クレジットカード / 交通系IC / iD / 駐車場 1550台(共用)",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=895",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.774102,139.78608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.28565,
+     35.788432
+    ]
+   },
+   "properties": {
+    "id": "kty_417",
+    "chain": "かつや",
+    "name": "かつや 青梅河辺店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0031",
+    "address": "東京都青梅市師岡町4-13-6",
+    "phone": "0428-84-0551",
+    "hours": "毎日 10:00-24:30(ラストオーダー24:00)",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリー / クレジットカード / 交通系IC / iD / QR決済 / 駐車場 24台",
+    "official_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=417",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.788432,139.28565"
+   }
+  }
+ ]
+}

@@ -1,0 +1,665 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.336842,
+     35.663272
+    ]
+   },
+   "properties": {
+    "id": "bkd_1007",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 八王子店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "",
+    "address": "東京都八王子市元横山町2-10-13",
+    "phone": "042-660-7779",
+    "hours": "毎日 8:00-3:00 (LO 2:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 31台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1007/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.663272,139.336842"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.452159,
+     35.644348
+    ]
+   },
+   "properties": {
+    "id": "bkd_1026",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 聖蹟桜ヶ丘店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "",
+    "address": "東京都多摩市関戸5丁目6番地8号",
+    "phone": "042-356-6480",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 42台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1026/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.644348,139.452159"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.714768,
+     35.547524
+    ]
+   },
+   "properties": {
+    "id": "bkd_1612",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 東六郷店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "",
+    "address": "東京都大田区東六郷2-19-8セントラルコート2F",
+    "phone": "03-3737-1122",
+    "hours": "毎日 11:00-1:00 (LO 深夜0:30) / ランチ:11:00-17:00 / / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / ベビーシート / クレジット / 電子マネー / 自動精算機 / 駐車場 20台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1612/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.547524,139.714768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.498931,
+     35.742274
+    ]
+   },
+   "properties": {
+    "id": "bkd_1001",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 小平大沼店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "",
+    "address": "東京都小平市大沼町4丁目28番30号",
+    "phone": "0423-48-7279",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 34台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1001/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.742274,139.498931"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.452113,
+     35.676733
+    ]
+   },
+   "properties": {
+    "id": "bkd_1040",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 西府中店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "",
+    "address": "東京都府中市西府町5丁目1番1号",
+    "phone": "042-580-0581",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / 車イス入店 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 40台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1040/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.676733,139.452113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.754574,
+     35.704228
+    ]
+   },
+   "properties": {
+    "id": "bkd_1060",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー ポケットキッチン東京ドームシティ店",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "postal_code": "",
+    "address": "東京都文京区後楽1-3-61 GO-FUN内",
+    "phone": "03-5805-2661",
+    "hours": "毎日 11:00-21:00 (LO 20:30) / 閉店時間は延長の場合あり。土日祝日のみ10時から営業 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文 / 宅配 / テイクアウト / 車イス駐車場 / 小上がり席 / クレジット / 電子マネー / 駐車場",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1060/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.704228,139.754574"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.472704,
+     35.769434
+    ]
+   },
+   "properties": {
+    "id": "bkd_1019",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 東村山店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "",
+    "address": "東京都東村山市久米川町5丁目2番地3",
+    "phone": "042-399-7140",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / 車イス入店 / 小上がり席 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1019/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.769434,139.472704"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.679543,
+     35.749259
+    ]
+   },
+   "properties": {
+    "id": "bkd_1049",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 板橋こもね店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "",
+    "address": "東京都板橋区小茂根3丁目16-1",
+    "phone": "03-5917-6016",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / 車イス入店 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 30台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1049/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.749259,139.679543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8656022,
+     35.6667734
+    ]
+   },
+   "properties": {
+    "id": "bkd_1981",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 中葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "",
+    "address": "東京都江戸川区中葛西4丁目4番6号",
+    "phone": "03-5605-4315",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / 車イス入店 / クレジット / 電子マネー / 自動精算機 / 駐車場",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1981/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6667734,139.8656022"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8798187,
+     35.70251298
+    ]
+   },
+   "properties": {
+    "id": "bkd_1985",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 一之江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "",
+    "address": "東京都江戸川区西一之江2-13-7",
+    "phone": "03-5879-9676",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / 車イス入店 / 車イス駐車場 / クレジット / 電子マネー / 自動精算機 / 駐車場",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1985/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70251298,139.8798187"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5889701,
+     35.6328034
+    ]
+   },
+   "properties": {
+    "id": "bkd_1012",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 狛江店",
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "postal_code": "",
+    "address": "東京都狛江市岩戸南2丁目5-5",
+    "phone": "03-5497-7202",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 29台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1012/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6328034,139.5889701"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4385303,
+     35.55375485
+    ]
+   },
+   "properties": {
+    "id": "bkd_1080",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 町田旭町店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "",
+    "address": "東京都町田市旭町1-4-1",
+    "phone": "042-850-8495",
+    "hours": "毎日 7:00-深夜0:00 (LO 23:30) / モーニング:7:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / 車イス駐車場 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1080/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.55375485,139.4385303"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.324636,
+     35.749253
+    ]
+   },
+   "properties": {
+    "id": "bkd_1024",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 福生店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "",
+    "address": "東京都福生市加美平2丁目9-3",
+    "phone": "042-539-7283",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 41台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1024/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.749253,139.324636"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.417756,
+     35.713347
+    ]
+   },
+   "properties": {
+    "id": "bkd_1075",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー ポケットキッチンららぽーと立川立飛店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "",
+    "address": "東京都立川市泉町935-1 ららぽーと立川立飛3F 3410",
+    "phone": "042-519-3068",
+    "hours": "毎日 10:00-21:00 (LO 20:30) / / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "クレジット / 電子マネー / 駐車場",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1075/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.713347,139.417756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.400845,
+     35.724287
+    ]
+   },
+   "properties": {
+    "id": "bkd_1021",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 立川砂川店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "",
+    "address": "東京都立川市砂川町4丁目10",
+    "phone": "042-538-7219",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / 車イス入店 / 車イス駐車場 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 60台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1021/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.724287,139.400845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.588868,
+     35.759755
+    ]
+   },
+   "properties": {
+    "id": "bkd_1011",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 大泉学園店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "",
+    "address": "東京都練馬区大泉学園町1丁目7-16",
+    "phone": "03-5387-7228",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 28台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1011/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.759755,139.588868"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.582004,
+     35.723455
+    ]
+   },
+   "properties": {
+    "id": "bkd_1008",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 関町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "",
+    "address": "東京都練馬区関町東1丁目18-12",
+    "phone": "03-5991-7167",
+    "hours": "毎日 8:00-2:00 (LO 1:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 32台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1008/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.723455,139.582004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.336593,
+     35.776918
+    ]
+   },
+   "properties": {
+    "id": "bkd_1013",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 瑞穂店",
+    "prefecture": "東京都",
+    "city": "西多摩郡瑞穂町",
+    "postal_code": "",
+    "address": "東京都西多摩郡瑞穂町箱根ヶ崎1268",
+    "phone": "0425-68-7926",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 小上がり席 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1013/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.776918,139.336593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.524125,
+     35.729679
+    ]
+   },
+   "properties": {
+    "id": "bkd_1015",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 田無店",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "postal_code": "",
+    "address": "東京都西東京市芝久保町3丁目5-55",
+    "phone": "0424-50-7252",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 小上がり席 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 29台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1015/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.729679,139.524125"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.799185,
+     35.749791
+    ]
+   },
+   "properties": {
+    "id": "bkd_1614",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 北千住店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "",
+    "address": "東京都足立区千住中居町17-20 マルアイビル2F",
+    "phone": "03-3888-8878",
+    "hours": "毎日 11:00-深夜0:00 (LO 23:30) / ランチ:11:00-17:00 / / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / クレジット / 電子マネー / 自動精算機 / 駐車場 80台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1614/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.749791,139.799185"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.838013,
+     35.776674
+    ]
+   },
+   "properties": {
+    "id": "bkd_1050",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 足立東和店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "",
+    "address": "東京都足立区東和5丁目15-12",
+    "phone": "03-5613-8561",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / ベビーシート / 多目的トイレ / 小上がり席 / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 33台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1050/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.776674,139.838013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7627144,
+     35.78289003
+    ]
+   },
+   "properties": {
+    "id": "bkd_1081",
+    "chain": "びっくりドンキー",
+    "name": "びっくりドンキー 足立江北店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "",
+    "address": "東京都足立区江北7丁目24-14",
+    "phone": "03-5837-4164",
+    "hours": "毎日 8:00-深夜0:00 (LO 23:30) / モーニング:8:00-11:00 / ランチ:10:00-17:00 / ※午前10時まではモーニングメニューのみのご提供となります。 / ※表示の営業時間と異なる場合がございます。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "モーニング / WEB来店予約 / ネット注文 / 宅配 / テイクアウト / Wi-Fi / コンセント席 / ベビーシート / 多目的トイレ / クレジット / 電子マネー / QRコード決済 / 自動精算機 / 駐車場 36台",
+    "official_url": "https://www.bikkuri-donkey.com/shop/shop_1081/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.78289003,139.7627144"
+   }
+  }
+ ]
+}

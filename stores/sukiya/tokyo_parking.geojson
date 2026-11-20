@@ -1,0 +1,2615 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.296365179217,
+     35.7230389140911
+    ]
+   },
+   "properties": {
+    "id": "sky_371",
+    "chain": "すき家",
+    "name": "すき家 あきる野睦橋通り店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0828",
+    "address": "東京都あきる野市秋留2-1-5",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/371.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7230389140911,139.296365179217"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5460809663,
+     35.6899040423054
+    ]
+   },
+   "properties": {
+    "id": "sky_1773",
+    "chain": "すき家",
+    "name": "すき家 三鷹井口店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0011",
+    "address": "東京都三鷹市井口2-13-42",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1773.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6899040423054,139.5460809663"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.576393754741,
+     35.6892935259787
+    ]
+   },
+   "properties": {
+    "id": "sky_1206",
+    "chain": "すき家",
+    "name": "すき家 三鷹牟礼店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "181-0002",
+    "address": "東京都三鷹市牟礼4-8-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1206.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6892935259787,139.576393754741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62832011112,
+     35.656671255625
+    ]
+   },
+   "properties": {
+    "id": "sky_1536",
+    "chain": "すき家",
+    "name": "すき家 世田谷赤堤通り店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "156-0045",
+    "address": "東京都世田谷区桜上水2-1-8",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1536.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.656671255625,139.62832011112"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.330287414534,
+     35.6314104183748
+    ]
+   },
+   "properties": {
+    "id": "sky_1574",
+    "chain": "すき家",
+    "name": "すき家 八王子みなみ野駅前店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0916",
+    "address": "東京都八王子市みなみ野1-3-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1574.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6314104183748,139.330287414534"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.370762525355,
+     35.6887188845054
+    ]
+   },
+   "properties": {
+    "id": "sky_1152",
+    "chain": "すき家",
+    "name": "すき家 八王子小宮店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0031",
+    "address": "東京都八王子市小宮町924-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1152.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6887188845054,139.370762525355"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.324556957279,
+     35.6637410268433
+    ]
+   },
+   "properties": {
+    "id": "sky_661",
+    "chain": "すき家",
+    "name": "すき家 八王子平岡店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0061",
+    "address": "東京都八王子市平岡町25-2",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/661.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6637410268433,139.324556957279"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.306891552391,
+     35.6377808410849
+    ]
+   },
+   "properties": {
+    "id": "sky_6538",
+    "chain": "すき家",
+    "name": "すき家 八王子椚田店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0942",
+    "address": "東京都八王子市椚田町553-19",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/6538.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6377808410849,139.306891552391"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.310090530562,
+     35.678588908237
+    ]
+   },
+   "properties": {
+    "id": "sky_781",
+    "chain": "すき家",
+    "name": "すき家 八王子楢原店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0803",
+    "address": "東京都八王子市楢原町397-5",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/781.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.678588908237,139.310090530562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.39192410717,
+     35.6282648870061
+    ]
+   },
+   "properties": {
+    "id": "sky_57",
+    "chain": "すき家",
+    "name": "すき家 八王子南店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0361",
+    "address": "東京都八王子市越野25-34",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/57.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6282648870061,139.39192410717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.702187023038,
+     35.789583329522
+    ]
+   },
+   "properties": {
+    "id": "sky_1733",
+    "chain": "すき家",
+    "name": "すき家 北赤羽駅浮間口店",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "115-0051",
+    "address": "東京都北区浮間3-28-9",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1733.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.789583329522,139.702187023038"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.788897712013,
+     35.7268162799509
+    ]
+   },
+   "properties": {
+    "id": "sky_1738",
+    "chain": "すき家",
+    "name": "すき家 台東下谷店",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "postal_code": "110-0004",
+    "address": "東京都台東区下谷3-19-8",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1738.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7268162799509,139.788897712013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.744593476883,
+     35.5970713281216
+    ]
+   },
+   "properties": {
+    "id": "sky_1332",
+    "chain": "すき家",
+    "name": "すき家 ウィラ大井店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0012",
+    "address": "東京都品川区勝島1-6-16",
+    "phone": "",
+    "hours": "毎日 9:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1332.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5970713281216,139.744593476883"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.73391432384,
+     35.5919061385019
+    ]
+   },
+   "properties": {
+    "id": "sky_492",
+    "chain": "すき家",
+    "name": "すき家 桜新道南大井店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0013",
+    "address": "東京都品川区南大井3-7-20",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/492.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5919061385019,139.73391432384"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.731554670749,
+     35.5886281145713
+    ]
+   },
+   "properties": {
+    "id": "sky_1910",
+    "chain": "すき家",
+    "name": "すき家 大森ベルポート店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0013",
+    "address": "東京都品川区南大井6-26-3 大森ベルポートD館1F",
+    "phone": "",
+    "hours": "毎日 9:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1910.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5886281145713,139.731554670749"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.435406707611,
+     35.6321144014507
+    ]
+   },
+   "properties": {
+    "id": "sky_1215",
+    "chain": "すき家",
+    "name": "すき家 多摩乞田店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0014",
+    "address": "東京都多摩市乞田791-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1215.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6321144014507,139.435406707611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.448416871955,
+     35.6292104948626
+    ]
+   },
+   "properties": {
+    "id": "sky_1552",
+    "chain": "すき家",
+    "name": "すき家 グリナード永山店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0025",
+    "address": "東京都多摩市永山1-4 グリナード永山1F",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1552.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6292104948626,139.448416871955"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.699609010622,
+     35.5942230692375
+    ]
+   },
+   "properties": {
+    "id": "sky_693",
+    "chain": "すき家",
+    "name": "すき家 上池台三丁目店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "145-0064",
+    "address": "東京都大田区上池台3-13-3",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/693.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5942230692375,139.699609010622"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.713823937398,
+     35.5762080222128
+    ]
+   },
+   "properties": {
+    "id": "sky_1241",
+    "chain": "すき家",
+    "name": "すき家 池上通り中央店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0024",
+    "address": "東京都大田区中央7-3-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1241.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5762080222128,139.713823937398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.698205362635,
+     35.5794579573386
+    ]
+   },
+   "properties": {
+    "id": "sky_1354",
+    "chain": "すき家",
+    "name": "すき家 大田久が原店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "146-0085",
+    "address": "東京都大田区久が原5-3-6",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1354.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5794579573386,139.698205362635"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.722787910803,
+     35.5461402837426
+    ]
+   },
+   "properties": {
+    "id": "sky_1228",
+    "chain": "すき家",
+    "name": "すき家 大田南六郷店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "144-0045",
+    "address": "東京都大田区南六郷2-34-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1228.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5461402837426,139.722787910803"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.727014152441,
+     35.5779108482529
+    ]
+   },
+   "properties": {
+    "id": "sky_1418",
+    "chain": "すき家",
+    "name": "すき家 大田東邦医大通店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0015",
+    "address": "東京都大田区大森西1-8-17",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1418.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5779108482529,139.727014152441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.719275373016,
+     35.5894911411083
+    ]
+   },
+   "properties": {
+    "id": "sky_1392",
+    "chain": "すき家",
+    "name": "すき家 環七山王店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0023",
+    "address": "東京都大田区山王4-12-4",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1392.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5894911411083,139.719275373016"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.671919698963,
+     35.5863334204767
+    ]
+   },
+   "properties": {
+    "id": "sky_6613",
+    "chain": "すき家",
+    "name": "すき家 田園調布店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "145-0072",
+    "address": "東京都大田区田園調布本町40-10",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/6613.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5863334204767,139.671919698963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.477176551377,
+     35.717017438664
+    ]
+   },
+   "properties": {
+    "id": "sky_1625",
+    "chain": "すき家",
+    "name": "すき家 小平上水本町店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0022",
+    "address": "東京都小平市上水本町4-12-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1625.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.717017438664,139.477176551377"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.434619752824,
+     35.7302786102208
+    ]
+   },
+   "properties": {
+    "id": "sky_34",
+    "chain": "すき家",
+    "name": "すき家 小平中島町店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0033",
+    "address": "東京都小平市中島町22-19",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/34.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7302786102208,139.434619752824"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.513816715493,
+     35.7378575162681
+    ]
+   },
+   "properties": {
+    "id": "sky_1567",
+    "chain": "すき家",
+    "name": "すき家 新青梅街道花小金井店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0002",
+    "address": "東京都小平市花小金井3-21-14",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1567.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7378575162681,139.513816715493"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.497762027648,
+     35.7238392907896
+    ]
+   },
+   "properties": {
+    "id": "sky_976",
+    "chain": "すき家",
+    "name": "すき家 小平鈴木店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0011",
+    "address": "東京都小平市鈴木町1-215-3",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/976.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7238392907896,139.497762027648"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.518346,
+     35.694698
+    ]
+   },
+   "properties": {
+    "id": "sky_1792",
+    "chain": "すき家",
+    "name": "すき家 小金井中町店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0012",
+    "address": "東京都小金井市中町2-8-2",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1792.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.694698,139.518346"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.459207929042,
+     35.6772788752623
+    ]
+   },
+   "properties": {
+    "id": "sky_733",
+    "chain": "すき家",
+    "name": "すき家 府中本宿店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0032",
+    "address": "東京都府中市本宿町4-29-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/733.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6772788752623,139.459207929042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.479286305719,
+     35.6883847047578
+    ]
+   },
+   "properties": {
+    "id": "sky_1430",
+    "chain": "すき家",
+    "name": "すき家 府中栄店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0051",
+    "address": "東京都府中市栄町2-22-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1430.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6883847047578,139.479286305719"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.498562041758,
+     35.6798623418995
+    ]
+   },
+   "properties": {
+    "id": "sky_1752",
+    "chain": "すき家",
+    "name": "すき家 府中浅間店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0001",
+    "address": "東京都府中市浅間町4-19-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1752.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6798623418995,139.498562041758"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.41503166999,
+     35.6696794720141
+    ]
+   },
+   "properties": {
+    "id": "sky_998",
+    "chain": "すき家",
+    "name": "すき家 20号日野万願寺店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0024",
+    "address": "東京都日野市万願寺5-14-8",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/998.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6696794720141,139.41503166999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.398633269229,
+     35.6584920488585
+    ]
+   },
+   "properties": {
+    "id": "sky_621",
+    "chain": "すき家",
+    "name": "すき家 日野南平店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0041",
+    "address": "東京都日野市南平4-40-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/621.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6584920488585,139.398633269229"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.390337200479,
+     35.6785672566915
+    ]
+   },
+   "properties": {
+    "id": "sky_1520",
+    "chain": "すき家",
+    "name": "すき家 日野大坂上店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0061",
+    "address": "東京都日野市大坂上1-29-2-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1520.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6785672566915,139.390337200479"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614233048618,
+     35.678609774115
+    ]
+   },
+   "properties": {
+    "id": "sky_1438",
+    "chain": "すき家",
+    "name": "すき家 環八高井戸店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "168-0071",
+    "address": "東京都杉並区高井戸西1-1-28",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1438.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.678609774115,139.614233048618"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.505611196219,
+     35.7518689298255
+    ]
+   },
+   "properties": {
+    "id": "sky_1593",
+    "chain": "すき家",
+    "name": "すき家 東久留米下里店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0043",
+    "address": "東京都東久留米市下里2-6-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1593.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7518689298255,139.505611196219"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.452478767231,
+     35.7496351851117
+    ]
+   },
+   "properties": {
+    "id": "sky_1690",
+    "chain": "すき家",
+    "name": "すき家 新青梅街道東村山店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0024",
+    "address": "東京都東村山市富士見町3-2-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1690.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7496351851117,139.452478767231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.481222547441,
+     35.7725437924248
+    ]
+   },
+   "properties": {
+    "id": "sky_1456",
+    "chain": "すき家",
+    "name": "すき家 東村山秋津店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0001",
+    "address": "東京都東村山市秋津町3-47-3",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1456.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7725437924248,139.481222547441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.670270930551,
+     35.786416999595
+    ]
+   },
+   "properties": {
+    "id": "sky_1866",
+    "chain": "すき家",
+    "name": "すき家 西台駅西店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0082",
+    "address": "東京都板橋区高島平1-75-15 高桐マンション1F",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1866.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.786416999595,139.670270930551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.37775158187526,
+     35.73516630749703
+    ]
+   },
+   "properties": {
+    "id": "sky_5475",
+    "chain": "すき家",
+    "name": "すき家 武蔵村山伊奈平店",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0023",
+    "address": "東京都武蔵村山市伊奈平4-9",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/5475.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73516630749703,139.37775158187526"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.590269139609,
+     35.6981375446048
+    ]
+   },
+   "properties": {
+    "id": "sky_1765",
+    "chain": "すき家",
+    "name": "すき家 井ノ頭通り吉祥寺店",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "postal_code": "180-0003",
+    "address": "東京都武蔵野市吉祥寺南町3-33-3",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1765.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6981375446048,139.590269139609"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.881923895453,
+     35.7022455329716
+    ]
+   },
+   "properties": {
+    "id": "sky_1226",
+    "chain": "すき家",
+    "name": "すき家 14号江戸川一之江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0024",
+    "address": "東京都江戸川区一之江1-8-4",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1226.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7022455329716,139.881923895453"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.884060823934,
+     35.686673069272
+    ]
+   },
+   "properties": {
+    "id": "sky_1841",
+    "chain": "すき家",
+    "name": "すき家 一之江駅前店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0024",
+    "address": "東京都江戸川区一之江3-2-14",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1841.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.686673069272,139.884060823934"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.885240433649,
+     35.7352490052747
+    ]
+   },
+   "properties": {
+    "id": "sky_1211",
+    "chain": "すき家",
+    "name": "すき家 柴又街道小岩店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0052",
+    "address": "東京都江戸川区東小岩6-3-5",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1211.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7352490052747,139.885240433649"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.868258048573,
+     35.7030571518991
+    ]
+   },
+   "properties": {
+    "id": "sky_1538",
+    "chain": "すき家",
+    "name": "すき家 14号江戸川松江店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0025",
+    "address": "東京都江戸川区松江1-8-8",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1538.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7030571518991,139.868258048573"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.901256982265,
+     35.702893023635
+    ]
+   },
+   "properties": {
+    "id": "sky_1306",
+    "chain": "すき家",
+    "name": "すき家 14号江戸川篠崎店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0061",
+    "address": "東京都江戸川区篠崎町7-1-17",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1306.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.702893023635,139.901256982265"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8780031254,
+     35.7200077312969
+    ]
+   },
+   "properties": {
+    "id": "sky_1953",
+    "chain": "すき家",
+    "name": "すき家 江戸川興宮店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0042",
+    "address": "東京都江戸川区興宮町33-17",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1953.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7200077312969,139.8780031254"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.816203724009,
+     35.6797201276814
+    ]
+   },
+   "properties": {
+    "id": "sky_1223",
+    "chain": "すき家",
+    "name": "すき家 江東千石店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0015",
+    "address": "東京都江東区千石2-9-9",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1223.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6797201276814,139.816203724009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.809013699448,
+     35.6630587286492
+    ]
+   },
+   "properties": {
+    "id": "sky_1210",
+    "chain": "すき家",
+    "name": "すき家 江東塩浜店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0043",
+    "address": "東京都江東区塩浜2-14-3",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1210.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6630587286492,139.809013699448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.824587996959,
+     35.6441926852811
+    ]
+   },
+   "properties": {
+    "id": "sky_723",
+    "chain": "すき家",
+    "name": "すき家 新木場駅南店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0082",
+    "address": "東京都江東区新木場1-4-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/723.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6441926852811,139.824587996959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.829754827595,
+     35.6675080594823
+    ]
+   },
+   "properties": {
+    "id": "sky_1404",
+    "chain": "すき家",
+    "name": "すき家 江東新砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0075",
+    "address": "東京都江東区新砂3-2-6 SGHレジデンス新砂1F",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1404.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6675080594823,139.829754827595"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.790607543983,
+     35.6308612954454
+    ]
+   },
+   "properties": {
+    "id": "sky_1201",
+    "chain": "すき家",
+    "name": "すき家 TFTワンザ有明店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0063",
+    "address": "東京都江東区有明3-6-11 TFTビル東館2F",
+    "phone": "",
+    "hours": "毎日 8:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1201.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6308612954454,139.790607543983"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.802338507396,
+     35.6491062155323
+    ]
+   },
+   "properties": {
+    "id": "sky_1928",
+    "chain": "すき家",
+    "name": "すき家 イオン東雲店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0062",
+    "address": "東京都江東区東雲1-9-10 イオン東雲店2Fフードコート内",
+    "phone": "",
+    "hours": "毎日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1928.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6491062155323,139.802338507396"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.377548287007,
+     35.5935816789704
+    ]
+   },
+   "properties": {
+    "id": "sky_1253",
+    "chain": "すき家",
+    "name": "すき家 町田小山店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0212",
+    "address": "東京都町田市小山町959-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1253.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5935816789704,139.377548287007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.41578331588906,
+     35.57580743251654
+    ]
+   },
+   "properties": {
+    "id": "sky_6238",
+    "chain": "すき家",
+    "name": "すき家 町田根岸店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0038",
+    "address": "東京都町田市根岸2-33-10",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/6238.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.57580743251654,139.41578331588906"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.479150569512,
+     35.5899999479052
+    ]
+   },
+   "properties": {
+    "id": "sky_1177",
+    "chain": "すき家",
+    "name": "すき家 町田能ヶ谷店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0053",
+    "address": "東京都町田市能ヶ谷町7-12-11",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1177.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5899999479052,139.479150569512"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.468213850588,
+     35.574665008216
+    ]
+   },
+   "properties": {
+    "id": "sky_1380",
+    "chain": "すき家",
+    "name": "すき家 町田金井店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0076",
+    "address": "東京都町田市金井ヶ丘3-1-45",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1380.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.574665008216,139.468213850588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.46171449137,
+     35.5423086333258
+    ]
+   },
+   "properties": {
+    "id": "sky_1137",
+    "chain": "すき家",
+    "name": "すき家 町田高ヶ坂店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0014",
+    "address": "東京都町田市高ヶ坂6-4-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1137.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.5423086333258,139.46171449137"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.324435203695,
+     35.7503034326134
+    ]
+   },
+   "properties": {
+    "id": "sky_61",
+    "chain": "すき家",
+    "name": "すき家 福生店",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "postal_code": "197-0012",
+    "address": "東京都福生市加美平1-19-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/61.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7503034326134,139.324435203695"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.521578585577,
+     35.6410180098623
+    ]
+   },
+   "properties": {
+    "id": "sky_881",
+    "chain": "すき家",
+    "name": "すき家 稲城矢野口店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0812",
+    "address": "東京都稲城市矢野口323-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/881.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6410180098623,139.521578585577"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.472926918669,
+     35.6201852216697
+    ]
+   },
+   "properties": {
+    "id": "sky_1330",
+    "chain": "すき家",
+    "name": "すき家 フレスポ若葉台店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "206-0824",
+    "address": "東京都稲城市若葉台2-1-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1330.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6201852216697,139.472926918669"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.600373244279,
+     35.7295204754693
+    ]
+   },
+   "properties": {
+    "id": "sky_1164",
+    "chain": "すき家",
+    "name": "すき家 下石神井店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0042",
+    "address": "東京都練馬区下石神井5-16-3",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1164.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7295204754693,139.600373244279"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.57440872499,
+     35.7357474114573
+    ]
+   },
+   "properties": {
+    "id": "sky_1545",
+    "chain": "すき家",
+    "name": "すき家 練馬南大泉店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "178-0064",
+    "address": "東京都練馬区南大泉1-17-17",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1545.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7357474114573,139.57440872499"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.589480084049,
+     35.7212778334999
+    ]
+   },
+   "properties": {
+    "id": "sky_1763",
+    "chain": "すき家",
+    "name": "すき家 練馬関町南店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0053",
+    "address": "東京都練馬区関町南1-11-2",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1763.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7212778334999,139.589480084049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623524392714,
+     35.7472800913891
+    ]
+   },
+   "properties": {
+    "id": "sky_1305",
+    "chain": "すき家",
+    "name": "すき家 目白通り高野台店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0033",
+    "address": "東京都練馬区高野台2-5-15",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1305.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7472800913891,139.623524392714"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.84450059806,
+     35.756895978285
+    ]
+   },
+   "properties": {
+    "id": "sky_1449",
+    "chain": "すき家",
+    "name": "すき家 葛飾亀有一丁目店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0061",
+    "address": "東京都葛飾区亀有1-14-5",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1449.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.756895978285,139.84450059806"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.858431712768,
+     35.7799520888614
+    ]
+   },
+   "properties": {
+    "id": "sky_1224",
+    "chain": "すき家",
+    "name": "すき家 葛飾南水元店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0035",
+    "address": "東京都葛飾区南水元2-30-5",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1224.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7799520888614,139.858431712768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.864303243896,
+     35.7240456712072
+    ]
+   },
+   "properties": {
+    "id": "sky_1504",
+    "chain": "すき家",
+    "name": "すき家 葛飾東新小岩店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "124-0023",
+    "address": "東京都葛飾区東新小岩2-2-8",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1504.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7240456712072,139.864303243896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.878522429606,
+     35.7522792885815
+    ]
+   },
+   "properties": {
+    "id": "sky_1125",
+    "chain": "すき家",
+    "name": "すき家 葛飾柴又店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0052",
+    "address": "東京都葛飾区柴又5-9-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1125.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7522792885815,139.878522429606"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.283247194019,
+     35.7391377963417
+    ]
+   },
+   "properties": {
+    "id": "sky_1076",
+    "chain": "すき家",
+    "name": "すき家 日の出IC店",
+    "prefecture": "東京都",
+    "city": "西多摩郡日の出町",
+    "postal_code": "190-0182",
+    "address": "東京都西多摩郡日の出町大字平井15-16",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1076.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7391377963417,139.283247194019"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.339311463711,
+     35.768499246226
+    ]
+   },
+   "properties": {
+    "id": "sky_995",
+    "chain": "すき家",
+    "name": "すき家 16号瑞穂南平店",
+    "prefecture": "東京都",
+    "city": "西多摩郡瑞穂町",
+    "postal_code": "190-1224",
+    "address": "東京都西多摩郡瑞穂町南平1-6-6",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/995.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.768499246226,139.339311463711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.357797783943,
+     35.7607787282572
+    ]
+   },
+   "properties": {
+    "id": "sky_768",
+    "chain": "すき家",
+    "name": "すき家 ジョイフル本田瑞穂店",
+    "prefecture": "東京都",
+    "city": "西多摩郡瑞穂町",
+    "postal_code": "190-1212",
+    "address": "東京都西多摩郡瑞穂町殿ヶ谷442",
+    "phone": "",
+    "hours": "毎日 9:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/768.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7607787282572,139.357797783943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.581385712998,
+     35.6498275567022
+    ]
+   },
+   "properties": {
+    "id": "sky_1466",
+    "chain": "すき家",
+    "name": "すき家 調布入間店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0004",
+    "address": "東京都調布市入間町2-4-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1466.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6498275567022,139.581385712998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.564095344472,
+     35.6467878575917
+    ]
+   },
+   "properties": {
+    "id": "sky_993",
+    "chain": "すき家",
+    "name": "すき家 イトーヨーカドー国領店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0022",
+    "address": "東京都調布市国領町8-2-64",
+    "phone": "",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/993.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6467878575917,139.564095344472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.566774981186,
+     35.6558769322246
+    ]
+   },
+   "properties": {
+    "id": "sky_1369",
+    "chain": "すき家",
+    "name": "すき家 甲州街道柴崎店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0007",
+    "address": "東京都調布市菊野台1-47-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1369.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6558769322246,139.566774981186"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.810687546136,
+     35.7816066334832
+    ]
+   },
+   "properties": {
+    "id": "sky_1004",
+    "chain": "すき家",
+    "name": "すき家 足立一ツ家店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0075",
+    "address": "東京都足立区一ツ家1-15-6",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1004.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7816066334832,139.810687546136"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.761933694988,
+     35.7963283739041
+    ]
+   },
+   "properties": {
+    "id": "sky_1513",
+    "chain": "すき家",
+    "name": "すき家 足立入谷店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0836",
+    "address": "東京都足立区入谷7-1-7",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1513.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7963283739041,139.761933694988"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.840581454996,
+     35.7936144823936
+    ]
+   },
+   "properties": {
+    "id": "sky_994",
+    "chain": "すき家",
+    "name": "すき家 足立六木店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0052",
+    "address": "東京都足立区六木2-7-8",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/994.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7936144823936,139.840581454996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.770531939369,
+     35.7646549674556
+    ]
+   },
+   "properties": {
+    "id": "sky_1368",
+    "chain": "すき家",
+    "name": "すき家 足立扇店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0873",
+    "address": "東京都足立区扇2-26-42",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1368.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7646549674556,139.770531939369"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.786014769557,
+     35.7838523512015
+    ]
+   },
+   "properties": {
+    "id": "sky_66",
+    "chain": "すき家",
+    "name": "すき家 足立栗原店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0842",
+    "address": "東京都足立区栗原4-9-6",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/66.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7838523512015,139.786014769557"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.801810024017,
+     35.7980983255659
+    ]
+   },
+   "properties": {
+    "id": "sky_62",
+    "chain": "すき家",
+    "name": "すき家 4号足立保木間店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0812",
+    "address": "東京都足立区西保木間1-17-20",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/62.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7980983255659,139.801810024017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.776903855441,
+     35.7779089388805
+    ]
+   },
+   "properties": {
+    "id": "sky_643",
+    "chain": "すき家",
+    "name": "すき家 環七西新井店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0845",
+    "address": "東京都足立区西新井本町2-2-25",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/643.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7779089388805,139.776903855441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.816682312043,
+     35.7638133635974
+    ]
+   },
+   "properties": {
+    "id": "sky_1798",
+    "chain": "すき家",
+    "name": "すき家 足立西綾瀬店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0014",
+    "address": "東京都足立区西綾瀬3-11-13",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1798.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7638133635974,139.816682312043"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751230437347,
+     35.783826190855
+    ]
+   },
+   "properties": {
+    "id": "sky_1450",
+    "chain": "すき家",
+    "name": "すき家 足立鹿浜店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0864",
+    "address": "東京都足立区鹿浜2-34-17",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1450.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.783826190855,139.751230437347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.316967907195,
+     35.7834819756039
+    ]
+   },
+   "properties": {
+    "id": "sky_1424",
+    "chain": "すき家",
+    "name": "すき家 青梅新町店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0024",
+    "address": "東京都青梅市新町7-6-10",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/1424.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7834819756039,139.316967907195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.288229033766,
+     35.7806864948415
+    ]
+   },
+   "properties": {
+    "id": "sky_911",
+    "chain": "すき家",
+    "name": "すき家 青梅河辺店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0036",
+    "address": "東京都青梅市河辺町5-25-1",
+    "phone": "",
+    "hours": "毎日 4:00-翌3:00 ※AM3:00-AM4:00の間、休業いたします。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "駐車場あり / 店内禁煙 / ドライブスルー あり / デリバリー / クレジットカード利用可",
+    "official_url": "https://maps.sukiya.jp/jp/detail/911.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7806864948415,139.288229033766"
+   }
+  }
+ ]
+}

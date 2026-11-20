@@ -1,0 +1,215 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.567398,
+     35.681442
+    ]
+   },
+   "properties": {
+    "id": "kps_0228",
+    "chain": "かっぱ寿司",
+    "name": "かっぱ寿司 三鷹店",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "postal_code": "",
+    "address": "東京都三鷹市新川6-25-12",
+    "phone": "0422-76-4082",
+    "hours": "月曜-木曜 午前10:30-午後11:00 / 金曜 午前10:30-午後11:00 / 土曜 午前10:00-午後11:30 / 日曜祝 午前10:00-午後11:00 / 祝前日は土曜日の閉店時間となります。",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "多目的トイレ / 駐車場 / 客席 183席",
+    "official_url": "https://www.kappasushi.jp/shop/0228",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.681442,139.567398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.683334,
+     35.757385
+    ]
+   },
+   "properties": {
+    "id": "kps_0239",
+    "chain": "かっぱ寿司",
+    "name": "かっぱ寿司 板橋店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "",
+    "address": "東京都板橋区東新町1-48-10",
+    "phone": "03-5986-9621",
+    "hours": "月曜-木曜 午前10:30-午後11:00 / 金曜 午前10:30-午後11:00 / 土日祝 午前10:00-午後11:00 / 最終入店時間 閉店時間30分前",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "多目的トイレ / 駐車場 / その他昇降機あり / 客席 270席",
+    "official_url": "https://www.kappasushi.jp/shop/0239",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.757385,139.683334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.47139,
+     35.62352
+    ]
+   },
+   "properties": {
+    "id": "kps_0597",
+    "chain": "かっぱ寿司",
+    "name": "かっぱ寿司 アクロスプラザ若葉台店",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "postal_code": "",
+    "address": "東京都稲城市若葉台2-8",
+    "phone": "042-350-6081",
+    "hours": "月曜-木曜 午前10:30-午後11:00 / 金曜 午前10:30-午後11:00 / 土日祝 午前10:00-午後11:00 / 最終入店時間 閉店時間30分前",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "バリアフリー / 多目的トイレ / 駐車場 / 客席 202席",
+    "official_url": "https://www.kappasushi.jp/shop/0597",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.62352,139.47139"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638565,
+     35.73962
+    ]
+   },
+   "properties": {
+    "id": "kps_0302",
+    "chain": "かっぱ寿司",
+    "name": "かっぱ寿司 練馬貫井店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "",
+    "address": "東京都練馬区貫井2-4-15",
+    "phone": "03-5971-2882",
+    "hours": "月曜-木曜 午前10:30-午後11:00 / 金曜 午前10:30-午後11:00 / 土日祝 午前10:00-午後11:00 / 最終入店時間 閉店時間30分前",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "多目的トイレ / 駐車場 / その他昇降機あり / 客席 195席",
+    "official_url": "https://www.kappasushi.jp/shop/0302",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73962,139.638565"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.842712,
+     35.742748
+    ]
+   },
+   "properties": {
+    "id": "kps_0545",
+    "chain": "かっぱ寿司",
+    "name": "かっぱ寿司 葛飾立石店",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "",
+    "address": "東京都葛飾区立石5-2-3",
+    "phone": "03-5671-5203",
+    "hours": "月曜-木曜 午前10:30-午後11:00 / 金曜 午前10:30-午後11:00 / 土日祝 午前10:00-午後11:00 / 最終入店時間 閉店時間30分前",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "エレベーターあり / 多目的トイレ / 駐車場 / 客席 197席",
+    "official_url": "https://www.kappasushi.jp/shop/0545",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.742748,139.842712"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.769577,
+     35.783249
+    ]
+   },
+   "properties": {
+    "id": "kps_0311",
+    "chain": "かっぱ寿司",
+    "name": "かっぱ寿司 足立谷在家店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "",
+    "address": "東京都足立区谷在家2-1-1",
+    "phone": "03-5837-1361",
+    "hours": "月曜-木曜 午前10:30-午後11:00 / 金曜 午前10:30-午後11:00 / 土日祝 午前10:00-午後11:00 / 最終入店時間 閉店時間30分前",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "エレベーターあり / 多目的トイレ / 駐車場 / 客席 195席",
+    "official_url": "https://www.kappasushi.jp/shop/0311",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.783249,139.769577"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.310989,
+     35.785194
+    ]
+   },
+   "properties": {
+    "id": "kps_0401",
+    "chain": "かっぱ寿司",
+    "name": "かっぱ寿司 青梅店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "",
+    "address": "東京都青梅市新町7-1-7",
+    "phone": "0428-30-1036",
+    "hours": "月曜-木曜 午前10:30-午後11:00 / 金曜 午前10:30-午後11:00 / 土日祝 午前10:00-午後11:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "バリアフリー / 多目的トイレ / 駐車場 / 客席 130席",
+    "official_url": "https://www.kappasushi.jp/shop/0401",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.785194,139.310989"
+   }
+  }
+ ]
+}

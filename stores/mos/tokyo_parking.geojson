@@ -1,0 +1,1025 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.289662,
+     35.733768
+    ]
+   },
+   "properties": {
+    "id": "mos_05454",
+    "chain": "モスバーガー",
+    "name": "モスバーガー秋川店",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0804",
+    "address": "東京都あきる野市秋川4丁目14-7",
+    "phone": "042-559-4811",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日・祝 10:00-22:00（※当店のお電話注文の受付は2023年6月15日にて終了させていただきました。今後はネット注文のご利用をお願いいたします。）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / ドライブスルー / お席で注文 / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05454",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.733768,139.289662"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604784,
+     35.632947
+    ]
+   },
+   "properties": {
+    "id": "mos_04910",
+    "chain": "モスバーガー",
+    "name": "モスバーガーサミットストア成城店",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "postal_code": "157-0066",
+    "address": "東京都世田谷区成城1丁目3-1",
+    "phone": "03-5727-0742",
+    "hours": "月 09:00-20:00 / 火 09:00-20:00 / 水 09:00-20:00 / 木 09:00-20:00 / 金 09:00-20:00 / 土 - / 日・祝 -",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=04910",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.632947,139.604784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.669447,
+     35.690825
+    ]
+   },
+   "properties": {
+    "id": "mos_00843",
+    "chain": "モスバーガー",
+    "name": "モスバーガー中野富士見町店",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "postal_code": "164-0013",
+    "address": "東京都中野区弥生町2丁目52-5",
+    "phone": "03-5385-4633",
+    "hours": "月 07:00-21:00 / 火 07:00-21:00 / 水 07:00-21:00 / 木 07:00-21:00 / 金 07:00-21:00 / 土 07:00-21:00 / 日・祝 07:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=00843",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.690825,139.669447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.328825,
+     35.632348
+    ]
+   },
+   "properties": {
+    "id": "mos_05309",
+    "chain": "モスバーガー",
+    "name": "モスバーガー八王子みなみ野店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0916",
+    "address": "東京都八王子市みなみ野1丁目7-3",
+    "phone": "042-632-7021",
+    "hours": "月 09:00-21:00 / 火 09:00-21:00 / 水 09:00-21:00 / 木 09:00-21:00 / 金 09:00-21:00 / 土 09:00-21:00 / 日・祝 09:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / こどモスプロジェクト / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05309",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.632348,139.328825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.38424,
+     35.627678
+    ]
+   },
+   "properties": {
+    "id": "mos_05299",
+    "chain": "モスバーガー",
+    "name": "モスバーガー多摩下柚木店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0372",
+    "address": "東京都八王子市下柚木2丁目9-7",
+    "phone": "0426-77-5503",
+    "hours": "月 09:00-22:00 / 火 09:00-22:00 / 水 09:00-22:00 / 木 09:00-22:00 / 金 09:00-22:00 / 土 09:00-22:00 / 日・祝 09:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / ドライブスルー / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05299",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.627678,139.38424"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4466781,
+     35.64974825
+    ]
+   },
+   "properties": {
+    "id": "mos_08274",
+    "chain": "モスバーガー",
+    "name": "モスバーガーヴィータモールせいせき店",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "postal_code": "206-0011",
+    "address": "東京都多摩市関戸4丁目72 ヴィータ聖蹟桜ヶ丘2階230区画",
+    "phone": "042-313-7100",
+    "hours": "月 07:00-21:00 / 火 07:00-21:00 / 水 07:00-21:00 / 木 07:00-21:00 / 金 07:00-21:00 / 土 - / 日・祝 -（朝モスやってます!）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=08274",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64974825,139.4466781"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7683122,
+     35.54432469
+    ]
+   },
+   "properties": {
+    "id": "mos_02390",
+    "chain": "モスバーガー",
+    "name": "モスバーガー羽田空港第3ターミナル店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "144-0041",
+    "address": "東京都大田区羽田空港2丁目6-5",
+    "phone": "03-5708-7521",
+    "hours": "月 08:00-21:00 / 火 08:00-21:00 / 水 08:00-21:00 / 木 08:00-21:00 / 金 08:00-21:00 / 土 - / 日・祝 91:00-21:00（金曜日のみ8:00〜オールナイト営業。 22時〜翌日8時までの間はメニューを限定しております。）（22:00〜翌日8:00までの間はメニューを限定しております。）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / モスカフェ / 駐車場 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=02390",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.54432469,139.7683122"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.457901,
+     35.73092
+    ]
+   },
+   "properties": {
+    "id": "mos_05101",
+    "chain": "モスバーガー",
+    "name": "モスバーガー小平小川町店",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0032",
+    "address": "東京都小平市小川町1丁目2350",
+    "phone": "042-344-7771",
+    "hours": "月 09:00-22:00 / 火 09:00-22:00 / 水 09:00-22:00 / 木 09:00-22:00 / 金 09:00-22:00 / 土 07:00-22:00 / 日・祝 07:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05101",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73092,139.457901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4795073,
+     35.67033665
+    ]
+   },
+   "properties": {
+    "id": "mos_05229",
+    "chain": "モスバーガー",
+    "name": "モスバーガー府中フォーリス店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0023",
+    "address": "東京都府中市宮町1丁目41-1 フォレストサイドビル1階",
+    "phone": "042-306-7707",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / バーコード決済 / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05229",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.67033665,139.4795073"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7131105,
+     35.69237792
+    ]
+   },
+   "properties": {
+    "id": "mos_02398",
+    "chain": "モスバーガー",
+    "name": "モスバーガーヨークフーズ新宿富久店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "162-0067",
+    "address": "東京都新宿区富久町17-2",
+    "phone": "03-6273-1739",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / バーコード決済 / 電子マネー / クレジットカード / 特別メニュー / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=02398",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69237792,139.7131105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.372671,
+     35.658667
+    ]
+   },
+   "properties": {
+    "id": "mos_04149",
+    "chain": "モスバーガー",
+    "name": "モスバーガー豊田旭ヶ丘店",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0065",
+    "address": "東京都日野市旭が丘1丁目10-12",
+    "phone": "042-583-8021",
+    "hours": "月 09:00-22:00 / 火 09:00-22:00 / 水 09:00-22:00 / 木 09:00-22:00 / 金 09:00-22:00 / 土 09:00-22:00 / 日・祝 09:00-22:00（※現在、一部のメニューの販売を休止しています。）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / 駐車場 / お席で注文 / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=04149",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.658667,139.372671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3626016,
+     35.71373212
+    ]
+   },
+   "properties": {
+    "id": "mos_05125",
+    "chain": "モスバーガー",
+    "name": "モスバーガーモリタウン昭島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0005",
+    "address": "東京都昭島市代官山2丁目3-1",
+    "phone": "042-500-7737",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日・祝 10:00-22:00（※21:30 ラストオーダー）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / 電話注文（お持ち帰り） / アルコール / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05125",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.71373212,139.3626016"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.348008,
+     35.714381
+    ]
+   },
+   "properties": {
+    "id": "mos_05490",
+    "chain": "モスバーガー",
+    "name": "モスバーガー拝島店",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0004",
+    "address": "東京都昭島市緑町2丁目30-24",
+    "phone": "042-541-6355",
+    "hours": "月 07:00-22:00 / 火 07:00-22:00 / 水 07:00-22:00 / 木 07:00-22:00 / 金 07:00-22:00 / 土 07:00-22:00 / 日・祝 07:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / こどモスプロジェクト / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05490",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.714381,139.348008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60510417,
+     35.7117708
+    ]
+   },
+   "properties": {
+    "id": "mos_05483",
+    "chain": "モスバーガー",
+    "name": "モスバーガーヤオコー杉並桃井店",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "postal_code": "167-0034",
+    "address": "東京都杉並区桃井3丁目5-1 ヤオコー杉並桃井店 2F",
+    "phone": "03-6454-7075",
+    "hours": "月 09:00-20:00 / 火 09:00-20:00 / 水 09:00-20:00 / 木 09:00-20:00 / 金 09:00-20:00 / 土 09:00-20:00 / 日・祝 09:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / こどモスプロジェクト / 駐車場 / お席で注文 / コンセント席あり / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05483",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7117708,139.60510417"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.509542,
+     35.73860347
+    ]
+   },
+   "properties": {
+    "id": "mos_05070",
+    "chain": "モスバーガー",
+    "name": "モスバーガー島忠小平店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0032",
+    "address": "東京都東久留米市前沢5丁目33-17",
+    "phone": "042-451-4110",
+    "hours": "月 10:00-20:00 / 火 10:00-20:00 / 水 10:00-20:00 / 木 10:00-20:00 / 金 10:00-20:00 / 土 10:00-20:00 / 日・祝 10:00-20:00（ラストオーダー 午後7:45）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05070",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73860347,139.509542"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5276304,
+     35.7451794
+    ]
+   },
+   "properties": {
+    "id": "mos_08167",
+    "chain": "モスバーガー",
+    "name": "モスバーガーイオンモール東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0023",
+    "address": "東京都東久留米市南沢5丁目17-62",
+    "phone": "042-452-5156",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / 電子マネー / クレジットカード / 特別メニュー",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=08167",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7451794,139.5276304"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5052208,
+     35.74931868
+    ]
+   },
+   "properties": {
+    "id": "mos_05405",
+    "chain": "モスバーガー",
+    "name": "モスバーガー東久留米滝山店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0033",
+    "address": "東京都東久留米市滝山7丁目20-9",
+    "phone": "042-479-1740",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / ドライブスルー / お席で注文 / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05405",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.74931868,139.5052208"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.487625,
+     35.768043
+    ]
+   },
+   "properties": {
+    "id": "mos_04929",
+    "chain": "モスバーガー",
+    "name": "モスバーガー島忠東村山店",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0003",
+    "address": "東京都東村山市久米川町1丁目36",
+    "phone": "042-399-0580",
+    "hours": "月 10:00-19:30 / 火 10:00-19:30 / 水 10:00-19:30 / 木 10:00-19:30 / 金 10:00-19:30 / 土 10:00-19:30 / 日・祝 10:00-19:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=04929",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.768043,139.487625"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6611138,
+     35.77048104
+    ]
+   },
+   "properties": {
+    "id": "mos_05315",
+    "chain": "モスバーガー",
+    "name": "モスバーガーイオン板橋店",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0083",
+    "address": "東京都板橋区徳丸2丁目6-1",
+    "phone": "03-5920-6028",
+    "hours": "月 09:00-22:00 / 火 09:00-22:00 / 水 09:00-22:00 / 木 09:00-22:00 / 金 09:00-22:00 / 土 09:00-22:00 / 日・祝 09:00-22:00（※ 午後9時30分ラストオーダーとなります。）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / 駐車場 / d Wi-Fi / クレジットカード / 特別メニュー / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05315",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77048104,139.6611138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8821093,
+     35.73333389
+    ]
+   },
+   "properties": {
+    "id": "mos_08206",
+    "chain": "モスバーガー",
+    "name": "モスバーガーシャポー小岩店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0056",
+    "address": "東京都江戸川区南小岩7丁目24-15 シャポー小岩 1階",
+    "phone": "03-5876-8139",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=08206",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73333389,139.8821093"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8259597,
+     35.68298452
+    ]
+   },
+   "properties": {
+    "id": "mos_05279",
+    "chain": "モスバーガー",
+    "name": "モスバーガーアリオ北砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0073",
+    "address": "東京都江東区北砂2丁目17-1",
+    "phone": "03-6666-3103",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日・祝 10:00-22:00（※当店では一部商取り扱いの無い商品がございます。 ※ラストオーダーは午後9時30分にさせていただきます。）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05279",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68298452,139.8259597"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7407252,
+     35.62931483
+    ]
+   },
+   "properties": {
+    "id": "mos_08173",
+    "chain": "モスバーガー",
+    "name": "モスバーガーアトレ品川店",
+    "prefecture": "東京都",
+    "city": "港区",
+    "postal_code": "108-0075",
+    "address": "東京都港区港南2丁目18-1",
+    "phone": "03-6433-0681",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日・祝 10:00-22:00（21:15 ラストオーダー）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / アルコール / バーコード決済 / 電子マネー / クレジットカード / 特別メニュー / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=08173",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.62931483,139.7407252"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7450881,
+     35.65854921
+    ]
+   },
+   "properties": {
+    "id": "mos_08074",
+    "chain": "モスバーガー",
+    "name": "モスバーガー東京タワー店",
+    "prefecture": "東京都",
+    "city": "港区",
+    "postal_code": "105-0011",
+    "address": "東京都港区芝公園4丁目2-8",
+    "phone": "03-5425-6302",
+    "hours": "月 11:00-19:30 / 火 11:00-19:30 / 水 11:00-19:30 / 木 11:00-19:30 / 金 11:00-19:30 / 土 11:00-19:30 / 日・祝 11:00-19:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / d Wi-Fi / アルコール / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=08074",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.65854921,139.7450881"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.41575,
+     35.576188
+    ]
+   },
+   "properties": {
+    "id": "mos_00928",
+    "chain": "モスバーガー",
+    "name": "モスバーガー町田忠生店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0035",
+    "address": "東京都町田市忠生3丁目1-12",
+    "phone": "042-792-7094",
+    "hours": "月 09:00-21:00 / 火 09:00-21:00 / 水 09:00-21:00 / 木 09:00-21:00 / 金 09:00-21:00 / 土 09:00-21:00 / 日・祝 09:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / こどモスプロジェクト / 駐車場 / お席で注文 / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=00928",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.576188,139.41575"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.479311,
+     35.58952
+    ]
+   },
+   "properties": {
+    "id": "mos_04577",
+    "chain": "モスバーガー",
+    "name": "モスバーガー鶴川店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0053",
+    "address": "東京都町田市能ヶ谷7丁目12-5",
+    "phone": "042-708-4710",
+    "hours": "月 09:00-23:00 / 火 09:00-23:00 / 水 09:00-23:00 / 木 09:00-23:00 / 金 09:00-23:00 / 土 08:00-23:00 / 日・祝 08:00-23:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / ドライブスルー / お席で注文 / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=04577",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.58952,139.479311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.466168,
+     35.52625
+    ]
+   },
+   "properties": {
+    "id": "mos_05448",
+    "chain": "モスバーガー",
+    "name": "モスバーガー町田金森店",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-0015",
+    "address": "東京都町田市金森東4丁目42-23",
+    "phone": "042-788-3004",
+    "hours": "月 09:00-22:00 / 火 09:00-22:00 / 水 09:00-22:00 / 木 09:00-22:00 / 金 09:00-22:00 / 土 09:00-22:00 / 日・祝 09:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": true,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / 駐車場 / ドライブスルー / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05448",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.52625,139.466168"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.43464029,
+     35.72076174
+    ]
+   },
+   "properties": {
+    "id": "mos_08285",
+    "chain": "モスバーガー",
+    "name": "モスバーガー若葉ケヤキモール店",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0001",
+    "address": "東京都立川市若葉町1丁目7-1 1階",
+    "phone": "042-537-7119",
+    "hours": "月 09:00-21:30 / 火 09:00-21:30 / 水 09:00-21:30 / 木 09:00-21:30 / 金 09:00-21:30 / 土 - / 日・祝 -",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=08285",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72076174,139.43464029"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6282894,
+     35.75972051
+    ]
+   },
+   "properties": {
+    "id": "mos_05484",
+    "chain": "モスバーガー",
+    "name": "モスバーガー光が丘IMA店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0072",
+    "address": "東京都練馬区光が丘5丁目1-1 イマミセ4階 IMA DINING",
+    "phone": "03-6909-2220",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日・祝 10:00-21:00（20時30分ラストオーダー）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05484",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.75972051,139.6282894"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633934,
+     35.753744
+    ]
+   },
+   "properties": {
+    "id": "mos_05155",
+    "chain": "モスバーガー",
+    "name": "モスバーガー練馬春日町店",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0074",
+    "address": "東京都練馬区春日町6丁目9-8",
+    "phone": "03-3577-8588",
+    "hours": "月 09:00-21:00 / 火 09:00-21:00 / 水 09:00-21:00 / 木 09:00-21:00 / 金 09:00-21:00 / 土 09:00-21:00 / 日・祝 09:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05155",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.753744,139.633934"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.586832,
+     35.658896
+    ]
+   },
+   "properties": {
+    "id": "mos_05184",
+    "chain": "モスバーガー",
+    "name": "モスバーガー島忠仙川店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0003",
+    "address": "東京都調布市若葉町2丁目1-7",
+    "phone": "03-5315-5305",
+    "hours": "月 10:00-20:00 / 火 10:00-20:00 / 水 10:00-20:00 / 木 10:00-20:00 / 金 10:00-20:00 / 土 10:00-20:00 / 日・祝 10:00-20:00（ラストオーダーは午後7時40分とさせていただきます。）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / d Wi-Fi / バーコード決済 / 電子マネー / クレジットカード / 特別メニュー / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05184",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.658896,139.586832"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.768474,
+     35.755041
+    ]
+   },
+   "properties": {
+    "id": "mos_05116",
+    "chain": "モスバーガー",
+    "name": "モスバーガー島忠足立小台店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0046",
+    "address": "東京都足立区小台1丁目17-1",
+    "phone": "03-5284-3783",
+    "hours": "月 10:00-20:30 / 火 10:00-20:30 / 水 10:00-20:30 / 木 10:00-20:30 / 金 10:00-20:30 / 土 10:00-20:30 / 日・祝 10:00-20:30（※午後8:00にてラストオーダーとさせていただきます。 ※現在、一部のメニューの販売を休止しています。）",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / MOSグッズ販売 / 駐車場 / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=05116",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.755041,139.768474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.798426,
+     35.766846
+    ]
+   },
+   "properties": {
+    "id": "mos_01812",
+    "chain": "モスバーガー",
+    "name": "モスバーガーカリブ梅島店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0851",
+    "address": "東京都足立区梅田6丁目9-16",
+    "phone": "03-3849-3220",
+    "hours": "月 09:00-21:30 / 火 09:00-21:30 / 水 09:00-21:30 / 木 09:00-21:30 / 金 09:00-21:30 / 土 09:00-21:30 / 日・祝 09:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / こどモスプロジェクト / 駐車場 / お席で注文 / コンセント席あり / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=01812",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.766846,139.798426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7859989,
+     35.77391805
+    ]
+   },
+   "properties": {
+    "id": "mos_08178",
+    "chain": "モスバーガー",
+    "name": "モスバーガーアリオ西新井店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0843",
+    "address": "東京都足立区西新井栄町1丁目20-1 アリオ西新井1階",
+    "phone": "03-5888-6176",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日・祝 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "ネット注文（お持ち帰り） / 駐車場 / コンセント席あり / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=08178",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77391805,139.7859989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.293441,
+     35.782971
+    ]
+   },
+   "properties": {
+    "id": "mos_04216",
+    "chain": "モスバーガー",
+    "name": "モスバーガー河辺店",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0036",
+    "address": "東京都青梅市河辺町8丁目3-8",
+    "phone": "0428-32-0022",
+    "hours": "月 07:00-20:00 / 火 07:00-20:00 / 水 07:00-20:00 / 木 07:00-20:00 / 金 07:00-20:00 / 土 07:00-20:00 / 日・祝 07:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": "",
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "朝モス / ネット注文（お持ち帰り） / 駐車場 / お席で注文 / d Wi-Fi / 電話注文（お持ち帰り） / バーコード決済 / 電子マネー / クレジットカード / dポイント",
+    "official_url": "https://www.mos.jp/shop/detail/?shop_cd=04216",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.782971,139.293441"
+   }
+  }
+ ]
+}

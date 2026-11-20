@@ -1,0 +1,695 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.290008,
+     35.643494
+    ]
+   },
+   "properties": {
+    "id": "hnm_2104",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イーアス高尾店",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0834",
+    "address": "東京都八王子市東浅川町550-1 イーアス高尾 2Fフードコート",
+    "phone": "042-673-6871",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / おでん / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2104",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.643494,139.290008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.749116,
+     35.610953
+    ]
+   },
+   "properties": {
+    "id": "hnm_2118",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イオン品川シーサイド店",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "postal_code": "140-0002",
+    "address": "東京都品川区東品川4-12-5 イオン品川シーサイド フードコート",
+    "phone": "03-5782-9870",
+    "hours": "毎日 9:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / おでん / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2118",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.610953,139.749116"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.818069,
+     35.717118
+    ]
+   },
+   "properties": {
+    "id": "hnm_2107",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イトーヨーカドー曳舟店",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "131-0046",
+    "address": "東京都墨田区京島1-2-1 イトーヨーカドー曳舟 1Fフードコート",
+    "phone": "03-5655-2870",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2107",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.717118,139.818069"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.725976,
+     35.574966
+    ]
+   },
+   "properties": {
+    "id": "hnm_2130",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん マチノマ大森店",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "postal_code": "143-0015",
+    "address": "東京都大田区大森西3-1-38 マチノマ大森内 2Fフードコート",
+    "phone": "03-6459-6787",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / おでん / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2130",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.574966,139.725976"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.504951,
+     35.700254
+    ]
+   },
+   "properties": {
+    "id": "hnm_1114",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イトーヨーカドー武蔵小金井店",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0004",
+    "address": "東京都小金井市本町6-14-9",
+    "phone": "042-382-3385",
+    "hours": "毎日 10:00-20:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=1114",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.700254,139.504951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.479447,
+     35.670662
+    ]
+   },
+   "properties": {
+    "id": "hnm_2141",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん 府中フォーリス店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0023",
+    "address": "東京都府中市宮町1-41-1",
+    "phone": "042-306-7185",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2141",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.670662,139.479447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.469398,
+     35.667076
+    ]
+   },
+   "properties": {
+    "id": "hnm_2142",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん MINANO分倍河原店",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "postal_code": "183-0021",
+    "address": "東京都府中市片町3-22-26",
+    "phone": "042-351-0617",
+    "hours": "毎日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / モバイルオーダー / お子様メニュー / おでん / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2142",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.667076,139.469398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.728896,
+     35.68761
+    ]
+   },
+   "properties": {
+    "id": "hnm_2147",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん コモレ四谷店",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "postal_code": "160-0004",
+    "address": "東京都新宿区四谷1-6-1 コモレ四谷 2F",
+    "phone": "03-5341-4151",
+    "hours": "毎日 11:00-20:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / モバイルオーダー / お子様メニュー / おでん / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2147",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.68761,139.728896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.529268,
+     35.759164
+    ]
+   },
+   "properties": {
+    "id": "hnm_1176",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イトーヨーカドー東久留米店",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0053",
+    "address": "東京都東久留米市本町3-8-1 3F新設フードコート内",
+    "phone": "042-470-8870",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=1176",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.759164,139.529268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.424213,
+     35.735855
+    ]
+   },
+   "properties": {
+    "id": "hnm_2176",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん リコパ東大和店",
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "postal_code": "207-0022",
+    "address": "東京都東大和市桜が丘2-142-1 1F",
+    "phone": "042-516-8739",
+    "hours": "毎日 9:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "お子様メニュー / おでん / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2176",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.735855,139.424213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.544949,
+     35.701044
+    ]
+   },
+   "properties": {
+    "id": "hnm_2145",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イトーヨーカドー武蔵境店",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "postal_code": "180-0023",
+    "address": "東京都武蔵野市境南町2-3-6 イトーヨーカドー武蔵境西館 B1Fフードコート",
+    "phone": "0422-30-8780",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / おでん / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2145",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.701044,139.544949"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.883513,
+     35.653532
+    ]
+   },
+   "properties": {
+    "id": "hnm_175",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん ホームズ葛西店",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "134-0084",
+    "address": "東京都江戸川区東葛西9-3-6 ホームズ葛西 1Fフードコート内",
+    "phone": "03-5659-0870",
+    "hours": "毎日 10:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": "",
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=175",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.653532,139.883513"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.826028,
+     35.682239
+    ]
+   },
+   "properties": {
+    "id": "hnm_1118",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん アリオ北砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0073",
+    "address": "東京都江東区北砂2-17‐1 アリオ北砂 1Fフードコート",
+    "phone": "03-3640-1870",
+    "hours": "毎日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=1118",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.682239,139.826028"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.835195,
+     35.672171
+    ]
+   },
+   "properties": {
+    "id": "hnm_2136",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イオンスタイル南砂店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0076",
+    "address": "東京都江東区南砂6-7-15 イオン南砂店 3Fフードコート",
+    "phone": "03-6666-8775",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / おでん / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2136",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.672171,139.835195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.803913,
+     35.667473
+    ]
+   },
+   "properties": {
+    "id": "hnm_2170",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん 深川ギャザリア店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0042",
+    "address": "東京都江東区木場1-5-10",
+    "phone": "03-6666-0807",
+    "hours": "毎日 11:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / モバイルオーダー / お子様メニュー / おでん / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2170",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.667473,139.803913"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.815577,
+     35.675407
+    ]
+   },
+   "properties": {
+    "id": "hnm_2116",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん 東京イースト21店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0016",
+    "address": "東京都江東区東陽6-3-2 東京イースト21 1F",
+    "phone": "03-6666-0069",
+    "hours": "毎日 11:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / モバイルオーダー / お子様メニュー / おでん / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2116",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.675407,139.815577"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.802392,
+     35.648502
+    ]
+   },
+   "properties": {
+    "id": "hnm_2165",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イオン東雲店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0062",
+    "address": "東京都江東区東雲1-9-10 イオン東雲 2Fフードコート",
+    "phone": "03-6225-0255",
+    "hours": "毎日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / おでん / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2165",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.648502,139.802392"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.77511,
+     35.625012
+    ]
+   },
+   "properties": {
+    "id": "hnm_1147",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん ダイバーシティ東京店",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0064",
+    "address": "東京都江東区青海1-1-10 ダイバーシティー東京 フードコート",
+    "phone": "03-5530-8700",
+    "hours": "毎日 【平日】11:00-21:00 【土日祝】10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / モバイルオーダー / お子様メニュー / 株主優待券 / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=1147",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.625012,139.77511"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.357927,
+     35.760751
+    ]
+   },
+   "properties": {
+    "id": "hnm_196",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん ジョイフル本田瑞穂店",
+    "prefecture": "東京都",
+    "city": "西多摩郡瑞穂町",
+    "postal_code": "190-1212",
+    "address": "東京都西多摩郡瑞穂町殿ケ谷442",
+    "phone": "042-568-5870",
+    "hours": "毎日 9:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=196",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.760751,139.357927"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.563577,
+     35.647007
+    ]
+   },
+   "properties": {
+    "id": "hnm_2155",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん イトーヨーカドー国領店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0022",
+    "address": "東京都調布市国領町8-2-64 イトーヨーカドー国領 1Fフードコート",
+    "phone": "03-5761-5543",
+    "hours": "毎日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2155",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.647007,139.563577"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.586143,
+     35.658543
+    ]
+   },
+   "properties": {
+    "id": "hnm_1134",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん ホームズ仙川店",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "postal_code": "182-0003",
+    "address": "東京都調布市若葉町2-1-7 ホームズ仙川店 フードコート内",
+    "phone": "080-4544-9373",
+    "hours": "毎日 10:00-20:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=1134",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.658543,139.586143"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.804776,
+     35.750876
+    ]
+   },
+   "properties": {
+    "id": "hnm_161",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん 千住ミルディス店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "120-0034",
+    "address": "東京都足立区千住3-92 1F",
+    "phone": "03-5284-3520",
+    "hours": "毎日 10:00-19:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / お子様メニュー / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=161",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.750876,139.804776"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.810888,
+     35.806315
+    ]
+   },
+   "properties": {
+    "id": "hnm_2143",
+    "chain": "はなまるうどん",
+    "name": "はなまるうどん 足立花畑店",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0061",
+    "address": "東京都足立区花畑5-14-1",
+    "phone": "03-5856-4292",
+    "hours": "毎日 10:00-21:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "テイクアウト / デリバリーサービス / モバイルオーダー / お子様メニュー / おでん / 株主優待券 / 交通系 / PayPay / 駐車場",
+    "official_url": "https://stores.hanamaruudon.com/hanamaru/spot/detail?code=2143",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.806315,139.810888"
+   }
+  }
+ ]
+}

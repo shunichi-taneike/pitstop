@@ -1,0 +1,1355 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3089183,
+     35.786097
+    ]
+   },
+   "properties": {
+    "id": "mgm_110410",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺青梅",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "postal_code": "198-0024",
+    "address": "東京都青梅市新町5-5-5",
+    "phone": "0428-32-3660",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-23:00 / 土 10:00-23:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110410",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.786097,139.3089183"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7823685,
+     35.6574706
+    ]
+   },
+   "properties": {
+    "id": "mgm_110805",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺晴海トリトン",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "postal_code": "104-0053",
+    "address": "東京都中央区晴海1-8-16 晴海トリトン1F",
+    "phone": "03-3534-2533",
+    "hours": "月 11:00-21:00 / 火 11:00-21:00 / 水 11:00-21:00 / 木 11:00-21:00 / 金 11:00-21:00 / 土 11:00-21:00 / 日 11:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110805",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6574706,139.7823685"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3301234,
+     35.6314639
+    ]
+   },
+   "properties": {
+    "id": "mgm_110609",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺八王子みなみ野駅前",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0916",
+    "address": "東京都八王子市みなみ野1-3-1 DCM八王子みなみ野1F",
+    "phone": "042-636-2535",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110609",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6314639,139.3301234"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.36645737182084,
+     35.66558384459242
+    ]
+   },
+   "properties": {
+    "id": "mgm_110836",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺八王子高倉",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0033",
+    "address": "東京都八王子市高倉町54-3",
+    "phone": "042-645-7770",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110836",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.66558384459242,139.36645737182084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3025257,
+     35.684259
+    ]
+   },
+   "properties": {
+    "id": "mgm_110739",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺八王子",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "193-0803",
+    "address": "東京都八王子市楢原町623-1",
+    "phone": "042-623-8767",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110739",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.684259,139.3025257"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.39783799432485,
+     35.61972586536779
+    ]
+   },
+   "properties": {
+    "id": "mgm_111493",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺多摩ニュータウン",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0363",
+    "address": "東京都八王子市別所1丁目15-21",
+    "phone": "042-682-4050",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:00-22:30 / 日 10:00-22:30",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111493",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.61972586536779,139.39783799432485"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.35769149188175,
+     35.64140882983503
+    ]
+   },
+   "properties": {
+    "id": "mgm_111502",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺八王子打越",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "postal_code": "192-0911",
+    "address": "東京都八王子市打越町６５３-３",
+    "phone": "042-683-0604",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111502",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.64140882983503,139.35769149188175"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2752719,
+     35.7345049
+    ]
+   },
+   "properties": {
+    "id": "mgm_110178",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺イオンモール日の出",
+    "prefecture": "東京都",
+    "city": "西多摩郡",
+    "postal_code": "190-0182",
+    "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3 イオンモール日の出3F",
+    "phone": "042-597-5220",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110178",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7345049,139.2752719"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3865901,
+     35.6937851
+    ]
+   },
+   "properties": {
+    "id": "mgm_110854",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺昭島",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0032",
+    "address": "東京都昭島市郷地町3-1-3",
+    "phone": "042-545-1660",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110854",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6937851,139.3865901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3632696980959,
+     35.71406409515994
+    ]
+   },
+   "properties": {
+    "id": "mgm_110044",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺昭島モリタウン",
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "postal_code": "196-0005",
+    "address": "東京都昭島市代官山2-3-1 モリタウン東館2F",
+    "phone": "042-545-3283",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110044",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.71406409515994,139.3632696980959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4876121,
+     35.7684405
+    ]
+   },
+   "properties": {
+    "id": "mgm_110749",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺東村山",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "postal_code": "189-0001",
+    "address": "東京都東村山市秋津町2-22-6",
+    "phone": "042-396-5561",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110749",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7684405,139.4876121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5466291,
+     35.7043963
+    ]
+   },
+   "properties": {
+    "id": "mgm_110710",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺武蔵境",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "postal_code": "180-0022",
+    "address": "東京都武蔵野市境1-19-1",
+    "phone": "0422-54-1150",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110710",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7043963,139.5466291"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8526051,
+     35.7636496
+    ]
+   },
+   "properties": {
+    "id": "mgm_110084",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺アリオ亀有",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0061",
+    "address": "東京都葛飾区亀有3-49-3 アリオ亀有1F",
+    "phone": "03-5680-5580",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110084",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7636496,139.8526051"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.86676543055867,
+     35.76994650143633
+    ]
+   },
+   "properties": {
+    "id": "mgm_111458",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺MARK IS 葛飾かなまち",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "postal_code": "125-0041",
+    "address": "東京都葛飾区東金町一丁目10番1号",
+    "phone": "03-5876-5350",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111458",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.76994650143633,139.86676543055867"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.42233399760892,
+     35.70843580239096
+    ]
+   },
+   "properties": {
+    "id": "mgm_110226",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺立川",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0003",
+    "address": "東京都立川市栄町3-5-1",
+    "phone": "042-527-8818",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-23:00 / 土 10:00-23:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110226",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70843580239096,139.42233399760892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4345183,
+     35.7213165
+    ]
+   },
+   "properties": {
+    "id": "mgm_110625",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺立川若葉",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "postal_code": "190-0001",
+    "address": "東京都立川市若葉町3-8-1",
+    "phone": "042-535-4434",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110625",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7213165,139.4345183"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.81581,
+     35.70072
+    ]
+   },
+   "properties": {
+    "id": "mgm_110089",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺オリナスモール",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "postal_code": "130-0012",
+    "address": "東京都墨田区太平4-1-2 オリナスモール3F",
+    "phone": "03-3626-3045",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110089",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70072,139.81581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7591792,
+     35.8035643
+    ]
+   },
+   "properties": {
+    "id": "mgm_110648",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺足立入谷",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0836",
+    "address": "東京都足立区入谷8-1-3",
+    "phone": "03-3897-6590",
+    "hours": "月 10:30-21:00 / 火 10:30-21:00 / 水 10:30-21:00 / 木 10:30-21:00 / 金 10:30-23:00 / 土 10:00-23:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110648",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.8035643,139.7591792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8219406,
+     35.7784668
+    ]
+   },
+   "properties": {
+    "id": "mgm_110817",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺足立加平",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0074",
+    "address": "東京都足立区西加平1-2-29",
+    "phone": "03-5242-8018",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-23:00 / 土 10:00-23:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110817",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7784668,139.8219406"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.788993,
+     35.798653
+    ]
+   },
+   "properties": {
+    "id": "mgm_110600",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺足立",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "121-0807",
+    "address": "東京都足立区伊興本町1-10-23",
+    "phone": "03-3897-6410",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-23:00 / 土 10:00-23:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110600",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.798653,139.788993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.755064,
+     35.7782837
+    ]
+   },
+   "properties": {
+    "id": "mgm_110789",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺足立鹿浜",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "postal_code": "123-0864",
+    "address": "東京都足立区鹿浜1-21-1",
+    "phone": "03-5691-3233",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-23:00 / 土 10:00-23:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110789",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7782837,139.755064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.46977868351556,
+     35.57768684134858
+    ]
+   },
+   "properties": {
+    "id": "mgm_111041",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺町田金井",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "195-0072",
+    "address": "東京都町田市金井8-21-13",
+    "phone": "042-735-3003",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111041",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.57768684134858,139.46977868351556"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.47124271429448,
+     35.50831743146063
+    ]
+   },
+   "properties": {
+    "id": "mgm_111193",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺グランベリーパーク",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "postal_code": "194-8589",
+    "address": "東京都町田市鶴間3-4-1",
+    "phone": "042-795-5611",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111193",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.50831743146063,139.47124271429448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5016788,
+     35.7305751
+    ]
+   },
+   "properties": {
+    "id": "mgm_110329",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺小平",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "postal_code": "187-0002",
+    "address": "東京都小平市花小金井7-8-4",
+    "phone": "042-345-3229",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110329",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7305751,139.5016788"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.58740034620274,
+     35.63248872855133
+    ]
+   },
+   "properties": {
+    "id": "mgm_111406",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺ニトリ狛江",
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "postal_code": "201-0005",
+    "address": "東京都狛江市岩戸南2-4-3 ニトリ狛江ショッピングセンター",
+    "phone": "03-3489-7020",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111406",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.63248872855133,139.58740034620274"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5273564,
+     35.745038
+    ]
+   },
+   "properties": {
+    "id": "mgm_110877",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺イオンモール東久留米",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "postal_code": "203-0023",
+    "address": "東京都東久留米市南沢5-17 イオンモール東久留米3F",
+    "phone": "042-460-7845",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110877",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.745038,139.5273564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7471945,
+     35.6711859
+    ]
+   },
+   "properties": {
+    "id": "mgm_111236",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺霞が関ビルディング",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "postal_code": "100-6080",
+    "address": "東京都千代田区霞が関3-2-5 霞が関ビルディング1Fカスミダイニング",
+    "phone": "03-5521-0034",
+    "hours": "月 10:45-21:00 / 火 10:45-21:00 / 水 10:45-21:00 / 木 10:45-21:00 / 金 10:45-21:00 / 土 10:45-15:00 / 日 定休日",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": false,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111236",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6711859,139.7471945"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3849547,
+     35.746386
+    ]
+   },
+   "properties": {
+    "id": "mgm_110111",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺イオンモールむさし村山",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "postal_code": "208-0022",
+    "address": "東京都武蔵村山市榎1-1-3 イオンモールむさし村山2F",
+    "phone": "042-565-2185",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110111",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.746386,139.3849547"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.38108478502477,
+     35.6622355211401
+    ]
+   },
+   "properties": {
+    "id": "mgm_110934",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺イオンモール多摩平の森",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "postal_code": "191-0062",
+    "address": "東京都日野市多摩平2-4-1 イオンモール多摩平の森1F",
+    "phone": "042-583-5850",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110934",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6622355211401,139.38108478502477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8905520241418,
+     35.70177263826031
+    ]
+   },
+   "properties": {
+    "id": "mgm_111391",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺江戸川春江",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "132-0003",
+    "address": "東京都江戸川区春江町2-49-6",
+    "phone": "03-3679-1778",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-23:00 / 土 10:00-23:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111391",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70177263826031,139.8905520241418"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8817814427084,
+     35.73303816591238
+    ]
+   },
+   "properties": {
+    "id": "mgm_111422",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺シャポー小岩",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "postal_code": "133-0056",
+    "address": "東京都江戸川区南小岩7-24-15 シャポー小岩1F",
+    "phone": "03-6657-9004",
+    "hours": "月 10:00-22:00 / 火 10:00-22:00 / 水 10:00-22:00 / 木 10:00-22:00 / 金 10:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111422",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.73303816591238,139.8817814427084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.73197700401153,
+     35.77444095758086
+    ]
+   },
+   "properties": {
+    "id": "mgm_111409",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺イオンスタイル赤羽",
+    "prefecture": "東京都",
+    "city": "北区",
+    "postal_code": "115-0043",
+    "address": "東京都北区神谷3丁目12-1",
+    "phone": "03-3902-5150",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111409",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77444095758086,139.73197700401153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8348953,
+     35.6652999
+    ]
+   },
+   "properties": {
+    "id": "mgm_110238",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺SUNAMO",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0075",
+    "address": "東京都江東区新砂3-4-31 南砂町ショッピングセンターSUNAMO4F",
+    "phone": "03-3649-9721",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110238",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6652999,139.8348953"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7981071,
+     35.6568952
+    ]
+   },
+   "properties": {
+    "id": "mgm_111110",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺スーパービバホーム豊洲",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "135-0061",
+    "address": "東京都江東区豊洲3-4-8 スーパービバホーム豊洲2F",
+    "phone": "03-6220-0333",
+    "hours": "月 11:00-21:00 / 火 11:00-21:00 / 水 11:00-21:00 / 木 11:00-21:00 / 金 11:00-21:00 / 土 11:00-21:00 / 日 11:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111110",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.6568952,139.7981071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8270016546692,
+     35.69794308762988
+    ]
+   },
+   "properties": {
+    "id": "mgm_111446",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺アトレ亀戸",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "postal_code": "136-0071",
+    "address": "東京都江東区亀戸5丁目1-1 アトレ亀戸1F",
+    "phone": "03-5627-1017",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111446",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.69794308762988,139.8270016546692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7543861,
+     35.7045716
+    ]
+   },
+   "properties": {
+    "id": "mgm_110585",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺東京ドームシティ",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "postal_code": "112-0004",
+    "address": "東京都文京区後楽1-3-61 パラシュートランドビル1F",
+    "phone": "03-3830-4710",
+    "hours": "月 11:00-21:00 / 火 11:00-21:00 / 水 11:00-21:00 / 木 11:00-21:00 / 金 11:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110585",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7045716,139.7543861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2897116,
+     35.7298032
+    ]
+   },
+   "properties": {
+    "id": "mgm_110396",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺あきる野",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "postal_code": "197-0804",
+    "address": "東京都あきる野市秋川6-7-10",
+    "phone": "042-559-8415",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110396",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7298032,139.2897116"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.720001,
+     35.72873
+    ]
+   },
+   "properties": {
+    "id": "mgm_110070",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺サンシャインシティアルタ",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "postal_code": "170-0013",
+    "address": "東京都豊島区東池袋3-1-3 サンシャインシティアルタB1F",
+    "phone": "03-3989-1870",
+    "hours": "月 10:30-22:00 / 火 10:30-22:00 / 水 10:30-22:00 / 木 10:30-22:00 / 金 10:30-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110070",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.72873,139.720001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6493524,
+     35.7564199
+    ]
+   },
+   "properties": {
+    "id": "mgm_111042",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺環八平和台",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0081",
+    "address": "東京都練馬区北町6-34-6 コンフォール平和台1F",
+    "phone": "03-3559-9333",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111042",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7564199,139.6493524"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5959573,
+     35.7294864
+    ]
+   },
+   "properties": {
+    "id": "mgm_110978",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺上石神井",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "177-0044",
+    "address": "東京都練馬区上石神井2-17-17",
+    "phone": "03-3929-5566",
+    "hours": "月 10:45-22:00 / 火 10:45-22:00 / 水 10:45-22:00 / 木 10:45-22:00 / 金 10:45-22:00 / 土 10:00-22:00 / 日 10:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110978",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7294864,139.5959573"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62822641071912,
+     35.75992716448373
+    ]
+   },
+   "properties": {
+    "id": "mgm_111306",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺光が丘IMA",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0072",
+    "address": "東京都練馬区光が丘5-1-1",
+    "phone": "03-3930-7880",
+    "hours": "月 10:00-21:00 / 火 10:00-21:00 / 水 10:00-21:00 / 木 10:00-21:00 / 金 10:00-21:00 / 土 10:00-21:00 / 日 10:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111306",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.75992716448373,139.62822641071912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6247584201077,
+     35.77928805297527
+    ]
+   },
+   "properties": {
+    "id": "mgm_111385",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺ニトリ成増",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "postal_code": "179-0071",
+    "address": "東京都練馬区旭町3-35-3",
+    "phone": "03-3976-6558",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 10:30-22:00 / 日 10:30-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111385",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.77928805297527,139.6247584201077"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6609268,
+     35.7695242
+    ]
+   },
+   "properties": {
+    "id": "mgm_110807",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺イオン板橋",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0083",
+    "address": "東京都板橋区徳丸2-6-1 イオン板橋3F",
+    "phone": "03-3936-8522",
+    "hours": "月 09:00-22:00 / 火 09:00-22:00 / 水 09:00-22:00 / 木 09:00-22:00 / 金 09:00-22:00 / 土 09:00-22:00 / 日 09:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/110807",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.7695242,139.6609268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.671575162006,
+     35.789436554443625
+    ]
+   },
+   "properties": {
+    "id": "mgm_111511",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺メトロ・エム高島平",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "postal_code": "175-0082",
+    "address": "東京都板橋区高島平9丁目23番1号",
+    "phone": "03-6281-0310",
+    "hours": "月 11:00-21:00 / 火 11:00-21:00 / 水 11:00-21:00 / 木 11:00-21:00 / 金 11:00-21:00 / 土 11:00-21:00 / 日 11:00-21:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111511",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.789436554443625,139.671575162006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5028767623226,
+     35.70550163829566
+    ]
+   },
+   "properties": {
+    "id": "mgm_111521",
+    "chain": "丸亀製麺",
+    "name": "丸亀製麺武蔵小金井",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "postal_code": "184-0004",
+    "address": "東京都小金井市本町5丁目35-12",
+    "phone": "042-316-5057",
+    "hours": "月 11:00-22:00 / 火 11:00-22:00 / 水 11:00-22:00 / 木 11:00-22:00 / 金 11:00-22:00 / 土 11:00-22:00 / 日 11:00-22:00",
+    "parking": true,
+    "is_24h": false,
+    "drive_thru": false,
+    "kids_menu": true,
+    "table_seats": "",
+    "takeout_only": "",
+    "facilities": "キャッシュレス対応 / テイクアウト / 駐車場",
+    "official_url": "https://stores.marugame.com/111521",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35.70550163829566,139.5028767623226"
+   }
+  }
+ ]
+}
