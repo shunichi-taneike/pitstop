@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>駐車場あり店舗マップ</title>
+<title>Pitstop - 駐車場あり店舗マップ</title>
 <style>
   :root {
     --accent: #e8590c;
@@ -20,6 +20,7 @@
   #map { flex: 1; }
   header { padding: 12px 16px; border-bottom: 1px solid var(--line); }
   h1 { font-size: 16px; margin: 0 0 8px; }
+  h1 small { font-size: 12px; font-weight: normal; color: #666; margin-left: 4px; }
   .controls { display: grid; gap: 8px; }
   .controls input[type=search], .controls select { width: 100%; padding: 6px 8px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; }
   .chips { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -72,7 +73,7 @@
 <div class="app">
   <aside>
     <header>
-      <h1>駐車場あり店舗マップ（東京都）</h1>
+      <h1>Pitstop <small>駐車場あり店舗マップ（東京都）</small></h1>
       <div class="controls">
         <div class="chains" id="chains"></div>
         <input type="search" id="q" placeholder="店名・住所で検索">
